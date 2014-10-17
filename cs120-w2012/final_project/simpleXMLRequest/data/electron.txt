@@ -1,0 +1,1001 @@
+ArXiv Query: search_query=all:electron&id_list=&start=0&max_results=1000
+Impact of Electron-Electron Cusp on Configuration Interaction Energies
+Electron thermal conductivity owing to collisions between degenerate electrons
+Electron-Electron Bremsstrahlung Emission and the Inference of Electron Flux Spectra in Solar Flares
+Improved scenario of baryogenesis
+Exact Electron-Pairing Ground States of Tight-Binding Models with Local Attractive Interactions
+Electron-electron interactions in a weakly screened two-dimensional electron system
+First-principles calculations of hot-electron lifetimes in metals
+D'yakonov-Perel' spin relaxation for degenerate electrons in the electron-hole liquid
+Electronic Properties Of Buckminsterfullerenes: Degeneracies and Surprises
+Energy relaxation in the spin-polarized disordered electron liquid
+Shear viscosity of degenerate electron matter
+Plasmon-assisted electron-electron collisions at metallic surfaces
+Electron-Phonon Scattering in Semiconductor Structures with One-Dimensional Electron Gas
+On Unconventional Electron Pairing In a Periodic Potential
+Electron Dynamics at a Positive Ion
+Experimental Determination of Electron Transition Probabilities in Elementary Electron-Phonon Scattering Processes Using Electron-Energy-Loss Spectroscopy: The Example of Graphite
+Electrons surfing on a sound wave as a platform for quantum optics with flying electrons
+Electron--Electron Scattering in Quantum Wires and it's Possible Suppression due to Spin Effects
+Accounting for both electron--lattice and electron--electron coupling in conjugated polymers: minimum total energy calculations on the Hubbard--Peierls hamiltonian
+Periodic and Aperiodic Bunching in the Addition Spectra of Quantum Dot
+Nonlinear voltage dependence of the shot noise in mesoscopic degenerate conductors with strong electron-electron scattering
+Polaron and bipolaron formation in the Hubbard-Holstein model: role of next-nearest neighbor electron hopping
+Tunneling through an Aharonov-Bohm ring -- effects of dephasing by electron-electron interactions
+Pairing in Cu-O Models: Clues of Joint Electron-Phonon and Electron-Electron Interactions
+Electron-electron scattering effects on the Full Counting Statistics of Mesoscopic Conductors
+Multi-Electron Production at High Transverse Momenta in ep Collisions at HERA
+Temporary Acceleration of Electrons While Inside an Intense Electromagnetic Pulse
+Kink structure in the electronic dispersion of high-Tc superconductors from the electron-phonon interaction
+Electron and phonon correlations in systems of one-dimensional electrons coupled to phonons
+Ballistic Hot Electron Transport in Graphene
+Spin dynamics of electrons in the first excited subband of a high-mobility low-density 2D electron system
+Quantum description and properties of electrons emitted from pulsed nanotip electron sources
+Effects of Electron-Electron Scattering on Electron-Beam Propagation in a Two-Dimensional Electron-Gas
+Effects of Electron-Electron and Electron-Phonon Interactions in Weakly Disordered Conductors and Heterostuctures
+Why holes are not like electrons. II. The role of the electron-ion interaction
+Density-matrix renormalization group study of pairing when electron-electron and electron-phonon interactions coexist: effect of the electronic band structure
+Why holes are not like electrons. III. How holes in the normal state turn into electrons in the superconducting state
+Electron spin relaxation in graphene from a microscopic approach: Role of electron-electron interaction
+Addition energies of a Quantum Dot with harmonic electron-electron interactions
+Conductivity of the classical two-dimensional electron gas
+Electronic properties of structural twin and antiphase boundaries in materials with strong electron-lattice couplings
+Restoration of Many Electron Wave Functions from One-Electron Density
+Electronic structure of the noncentrosymmetric superconductor Mg10Ir19B16
+An electronic radiation of blackbody: Cosmic electron background
+How do we interrogate the electrons without roughing them up?
+Pair emission from bare magnetized strange stars
+Nonequilibrium total dielectric function approach to the electron Boltzmann equation for inelastic scattering in doped polar semiconductors
+Dynamic correlations in symmetric electron-electron and electron-hole bilayers
+Effect of the Coulomb interaction on the electron relaxation of weakly-confined quantum dot systems
+Study of charge-charge coupling effects on dipole emitter relaxation within a classical electron-ion plasma description
+Interpolative approach for electron-electron and electron-phonon interactions: from the Kondo to the polaronic regime
+Kinetic Theory for Electron Dynamics Near a Positive Ion
+Role of f electrons in rare-earth and uranium intermetallics-An alternative look at heavy-fermion phenomena
+The Localization-Delocalization Transition in Quantum Dots
+Femtosecond to picosecond electron-energy relaxation and Froehlich coupling in quantum dots
+Instanton method for the electron propagator
+Cyclotron Resonance of Wigner Crystals on Liquid Helium
+Phase Diagram of the Holstein-Hubbard Two-Leg Ladder
+Local electron heating in nanoscale conductors
+The effect of electron-electron interactions on the conditions of surface state existence
+Nuclear spin ferromagnetic phase transition in an interacting 2D electron gas
+The relevance of the vertex bremsstrahlung photon detection in the electron-neutrino (antineutrino) electron scattering experiments at low energy
+Nuclear Moments and Electron Density Functionals in Atoms
+Nonequilibrium Electron Interactions in Metal Films
+Spin dynamics of two-dimensional electrons with Rashba spin-orbit coupling and electron-electron interactions
+Classical Trajectory Diagnosis of Finger-Like Pattern in the Correlated Electron Momentum Distribution for Helium Double Ionization
+Electron structure of the Falicov-Kimball model with a magnetic field
+Charge instabilities and electron-phonon interaction in the Hubbard-Holstein model
+Disordered electron liquid in double quantum well heterostructures: Renormalization group analysis and dephasing rate
+Inertial Instability of Accretion Disks with Relativistic Electrons
+Whither Correlated Electron Theory?
+Electron Cascades Produced by Photoelectrons in Diamond
+Towards electron encapsulation. Polynitrile approach
+Proca Equation for Attosecond Electron Pulses
+Iron pnictide superconductors: Electrons on the verge
+On a possibility of effective electron attraction without "a glue"
+Transmutation of Elements through Capture of Electrons by Nuclei
+Equation satisfied by electron-electron mutual Coulomb repulsion energy density functional
+Dynamical properties of the one-dimensional Holstein model
+Charge and Statistics of Quantum Hall Quasi-Particles. A numerical study of mean values and fluctuations
+Inelastic lifetimes of hot electrons in real metals
+The role of occupied d states in the relaxation of hot electrons in Au
+Electron-electron interaction correction to conductivity in quasiballistic limit
+Imaging coherent electron wave flow in a two-dimensional electron gas
+Bound states of tunneling electrons in molecular wires
+Program LMTART for Electronic Structure Calculations
+Effective electron-electron and electron-phonon interactions in the Hubbard-Holstein model
+Magnetic Order in Kondo-Lattice Systems due to Electron-Electron Interactions
+Importance of Initial Electronic State in Two-Dimensional Electron System for Electron Transport from Two-Dimensional Electron Gas to Quantum Dot
+Electron-electron interactions in graphene bilayers
+Electron-phonon interaction in Strongly Correlated Systems
+EPW: A program for calculating the electron-phonon coupling using maximally localized Wannier functions
+On the Role of Exchange Interaction in Magnetic Ordering and Conductivity of Manganites
+Imaging Coherent Electron Flow
+Electron-hole symmetry in a semiconducting carbon nanotube quantum dot
+Selfacceleration of Electrons in One-dimensional Bunches, Moving in Cold Plasma
+Scenario of baryogenesis
+Some remarks on the two-electron atom
+Electron Scattering Through a Quantum Dot: A Phase Lapse Mechanism
+Kondo Effect in a Metal with Correlated Conduction Electrons
+Exchange interaction effects in inter-Landau level Auger scattering in a two-dimensional electron gas
+Overscreening in Hubbard electron systems
+Quantum dot dephasing by edge states
+Properties of strongly correlated two-dimensional electron gas in semiconductor layers
+The existence of the fine electronic structure in LaCoO3
+Electron-electron interactions in graphene sheets
+Gate-Controlled Electron Spin Resonance in a GaAs/AlGaAs Heterostructure
+Ab initio Hartree-Fock with electronic correlation study of the electronic properties of MgB2
+Electron-hole asymmetry and superconductivity
+Effect of Screening on Spin Polarization in a Two-Dimensional Electron Gas
+Sub- and Supersonic Heat Motion Induced by Femtosecond Laser Pulses
+Metal-insulator transitions and the effects of electron-electron interactions in two-dimensional electron systems
+Numerical calculation of the Landauer conductance through an interacting electron system in the Hartree-Fock approximation
+Electronic Structure and Magnetic Properties of Y4co3
+Suppression of Visibility in a Two-Electron Mach-Zehnder Interferometer
+Femtosecond Transversal Deflection of Electron Beams with the Help of Laser Beams and Its Possible Applications
+Selectron Pair Production in Electron-Electron-Scattering
+Effects of many-electron atom polarization in electron-hole formalism
+Planar Vacuum Diode With Monoenergetic Electrons
+Local electronic properties in nanoscale systems
+Self-organized quantum transitions in a spin-electron coupled system
+Nonlinear Quantum Wave Equation of Radiation Electron and Dissipative Systems
+Suppression of inelastic electron-electron scattering in Anderson Insulators
+Hydrodynamic electron flow in high-mobility wires
+Quasiparticle properties of a coupled quantum wire electron-phonon system
+Coulomb Blockade and Digital Single-Electron Devices
+D'yakonov-Perel' spin relaxation under electron-electron collisions in QWs
+Electron energy-loss spectroscopy study of electron-doping in MgB$_2$
+Electron-phonon effects on spin-orbit split bands of two dimensional systems
+Electron excitation and 'cascade' ionisation of diatomic molecules with ultra-short pulses of strong IR lasers
+Dissipative Two-Electron Transfer
+Nonequilibrium electrons in tunnel structures under high-voltage injection
+Specific Heat-Coefficient of YbAl3 Studied by Combined Nearly Free Electron Conduction Band Hybridized with Localized f Electrons with Correlation Effect
+Readout of a single electron spin in a double quantum dot using a quantum point contact
+Kohn anomaly and interplay of electron-electron and electron-phonon interactions in epitaxial graphene
+First-Principles Study of Electron Linewidths in Graphene
+Importance of Co 3d electron correlation in a Ce-based Kondo lattice, Ce(2)CoSi(3)
+Coronal Electron Distribution in Solar Flares: Drift-Kinetic Model
+Carrier-carrier inelastic scattering events for spatially separated electrons: magnetic asymmetry and turnstile electron transfer
+Spontaneous Spin-Polarization of Ballistic Electrons in Single Mode Quantum Wires due to Spin-Splitting
+Electron-Electron Interactions and the Hall-Insulator
+Two-electron state in a disordered 2D island: pairing caused by the Coulomb repulsion
+Piezoelectric electron-phonon interaction in impure semiconductors: 2D electrons versus composite fermions
+Is the direct observation of electronic coherence in electron transfer reactions possible?
+Magnetoplasma excitations of two vertically coupled dots
+Near-field spectroscopy of a gated electron gas: a direct evidence for electrons localization
+Jahn-Teller distortion and electronic correlation effects in undoped manganese perovskites
+Anisotropy and temperature dependence of the optical conductivity in LaMnO_3
+Screened Interaction and Self-Energy in an Infinitesimally Polarized Electron Gas via the Kukkonen-Overhauser Method
+Relativistic effects in the electronic structure for the 3d paramagnetic ions
+Indication of the ferromagnetic instability in a dilute two-dimensional electron system
+Unified thoery of strongly correlated electron systems
+Tunneling of Bloch electrons through vacuum barrier
+The 3d-electron states in LaCoO3
+Non-linear excitations in 1D correlated insulators
+Two-electron correlated motion due to Coulomb repulsion
+Dynamical mean-field theory of electron-phonon interaction in correlated electron materials: general results and application to doped Mott insulators
+Renormalization of the electron-phonon interaction: a reformulation of the BCS-gap equation
+Electron scattering near an itinerant to localized electronic transition
+Incomplete electronic relaxation and population upconversion in quantum dots
+Electronic structure of nuclear-spin-polarization-induced quantum dots
+On the scaling approach to electron-electron interactions in a chaotic quantum dot
+Strong-coupling surface polaron in a magnetic field
+Hydrodynamic effects in interacting Fermi electron jets
+Quantum fluctuations and glassy behavior of electrons near metal-insulator transitions
+Trion dynamics in coupled double quantum wells. Electron density effects
+Voltage Dependence of Spin Polarized Tunneling
+Delocalized electrons: conductivity and superconductivity
+Voltage-controlled coded qubit based on electron spin
+Electron transport and current fluctuations in short coherent conductors
+Comment on a Phys. Rev. Lett. paper: 94 (2005) 146402: Orbital symmetry and Electron Correlation in NaxCoO2
+Reduced electron relaxation rate in multi-electron quantum dots
+Electron-Hole Asymmetry in GdBaCo_{2}O_{5+x}: Evidence for Spin Blockade of Electron Transport in a Correlated Electron System
+Metal-Insulator Transition in Disordered Two-Dimensional Electron Systems
+Quantum Point Contacts and Coherent Electron Focusing
+Angle-Resolved Photoemission Spectroscopy on Electronic Structure and Electron-Phonon Coupling in Cuprate Superconductors
+Correlated electron current and temperature dependence of the conductance of a quantum point contact
+Quantum Dynamics of Electron-Nuclei Coupled System in a Double Quantum Dot
+Crystallization in mass-asymmetric electron-hole bilayers
+Trapping electrons in electrostatic traps over the surface of helium
+Mechanism of electron localization in a quantum wire
+Free electron approximation for electron states of poly($p$-phenylene vinylene) and other conjugated systems
+Coherent population trapping in two-electron three-level systems with aligned spins
+Two-scale structure of the electron dissipation region during collisionless magnetic reconnection
+Interplay between electron-phonon and Coulomb interactions in cuprates
+Field structure and electron life times in the MEFISTO Electron Cyclotron Resonance Ion Source
+Inhomogeneous Gilbert damping from impurities and electron-electron interactions
+Hot electron effects and non-linear transport in hole doped manganites
+Peculiarities of the Light Absorption and Emission by Free Electrons in Multivalley Semiconductors
+Aharonov-Bohm oscillations in disordered nanorings with quantum dots: Effect of electron-electron interactions
+Electron pair forming in an integrable model
+Ramsey's method for Auger electron interference induced by an attosecond twin pulse
+Double-valuedness of the electron wave function and rotational zero-point motion of electrons in rings
+Electron drift velocity control in GaAs-in-Al2O3 quantum wire transistor structure due to the electron scattering rate alteration
+Observation of an ultracold plasma instability
+Gated combo nanodevice for sequential operations on single electron spin
+Time dependent density functional theory for nonadiabatic electronic dynamics
+Spin-orbit effect on electron-electron interaction and fine structure of electron complexes in quantum dots
+Effect of Ka-band Microwave on the spin dynamics of electrons in a GaAs/Al0.35Ga0.65As heterostructure
+The influence of local field corrections on Thomson scattering in non-ideal two-component plasmas
+Bremsstrahlung and pair production processes at low energies, multi-differential cross section and polarization phenomena
+Electron-electron interactions in the conductivity of graphene
+A critical Mach number for electron injection in collisionless shocks
+Impurity Scattering in Luttinger Liquid with Electron-Phonon Coupling
+A physical interpretation of the cubic map coefficients describing the electron cloud evolution
+High frequency limit for single-electron pumping operations
+Effects of many-electron jumps in relaxation and conductivity of Coulomb glasses
+Thermoelectric properties of the interacting two dimensional electron gas in the diffusion regime
+Optimum angle for side injection of electrons into linear plasma wakefields
+Observation of Electronic Raman Scattering in Metallic Carbon Nanotubes
+Electron-Electron Interactions in Artificial Graphene
+Molecular orbital calculations of two-electron states for P donor solid-state spin qubits
+Fast electron slowing-down and diffusion in a high temperature coronal X-ray source
+Electron capture in GaAs quantum wells via electron-electron and optic phonon scattering
+Band gap renormalization in photoexcited semiconductor quantum wire structures in the GW approximation
+Electron relaxation in disordered gold films
+The Different Effect of Electron-Electron Interaction on the Spectrum of Atoms and Quantum Dots
+Dynamic modulation of electron correlation by intramolecular modes in charge transfer compounds
+Electron-Phonon Interactions in Correlated Systems: Adiabatic Expansion of the Dynamical Mean-Field Theory
+Charge occupancy of two interacting electrons on artificial molecules - exact results
+Hall Coefficient and electron-electron interaction of 2D electrons in Si-MOSFET's
+Interactions in high-mobility 2D electron and hole systems
+A `checkerboard' electronic crystal state in lightly hole-doped Ca_{2-x}Na_{x}CuO_{2}Cl_{2}
+Electron Spin Dynamics and Hyperfine Interactions in Fe/Al_0.1Ga_0.9As/GaAs Spin Injection Heterostructures
+Electronic reconstruction in correlated electron heterostructures
+Asymmetry of the electron spectrum in hole-doped and electron-doped cuprates
+Properties of short-range and long-range correlation energy density functionals from electron-electron coalescence
+Electron-electron interaction in carbon nanostructures
+A Model for Generating Relativistic Electrons in the Earth's Inner Magnetosphere Based on Gyroresonant Wave-Particle Interactions
+Relativistic mechanism of superconductivity
+Boundary Solutions of the Two-electron Schrodinger Equation at Two-particle Coalescences of the Atomic Systems
+Pathways to non-sequential multiple ionization in strong laser fields
+Imaging Magnetic Focusing of Coherent Electron Waves
+Electronic structure of NaWO$_3$: Role of the impurity potential
+Phase diagram for the one-dimensional Hubbard-Holstein model: A density-matrix renormalization group study
+Magnetic Ordering of Nuclear Spins in an Interacting 2D Electron Gas
+Quantum dynamics in electron-nuclei coupled spin system in quantum dots: Bunching, revival, and quantum correlation in electron-spin measurements
+Electronic Duality in Strongly Correlated Matter
+The reflectivity of relativistic ultra-thin electron layers
+A new basis set for the description of electrons in superconductors
+Laser-induced nonsequential double ionization at and above the recollision-excitation-tunneling threshold
+Electron correlation in metal clusters, quantum dots and quantum rings
+Electronic correlations in the iron pnictides
+Non-sequential double ionization below laser-intensity threshold: Anticorrelation of electrons without excitation of parent ion
+Relaxation of hot electrons in a degenerate two-dimensional electron system: transition to one-dimensional scattering
+Observation of Relativistic Electrons Deflection by a Bunch Coulomb Field
+Electron Pairing and Coulomb Repulsion in One-Dimensional Anharmonic Lattices
+Electron-electron interactions, coupled plasmon-phonon modes, and mobility in n-type GaAs
+Superconductor coupled to two Luttinger liquids as an entangler for electron spins
+Imaging electrons in a magnetic field
+Electron-phonon coupling and electron self-energy in electron-doped graphene: calculation of angular resolved photoemission spectra
+Importance of conduction electron correlation in a Kondo lattice, Ce2CoSi3
+Proposals of nuclear spin quantum memory in group IV elemental and II-VI semiconductors
+Space-time evolution of electron cascades in diamond
+Electron acceleration and heating in collisionless magnetic reconnection
+Exchange Enhancement of the Electron-Phonon Pair Interaction
+Lifetime of Two-Dimensional Electrons Measured by Tunneling Spectroscopy
+DC--Transport in Quantum Wires
+No End of Tricks: Electrons in the Fractional Quantum Hall Regime
+Interaction of discrete breathers with electrons in nonlinear lattices
+Frequency-Dependent Shot Noise as a Probe of Electron-Electron Interaction in Mesoscopic Diffusive Contacts
+Hidden Kondo Effect in a Correlated Electron Chain
+Coexistence of the Electron Cooper Pair and Antiferromagnetic Short-Range Correlation in Copper Oxide Materials
+Localizations in coupled electronic chains
+Realistic Electron-Electron Interaction in a Quantum Wire
+Delocalization of tightly bound excitons in disordered systems
+Inelastic Coulomb scattering rate of a multisubband Q1D electron gas
+Electron-Assisted Hopping in Two Dimensions
+Disorder and interaction induced pairing in the addition spectra of quantum dots
+Dephasing Times in a Non-degenerate Two-Dimensional Electron Gas
+Phonon mediated hole pairing in the 1D Hubbard model near half-filling
+Localization in Artificial Disorder - Two Coupled Quantum Dots
+Theoretical interpretation of the experimental electronic structure of lens shaped, self-assembled InAs/GaAs quantum dots
+Normal-state pseudogap and electron flat dispersion in copper oxide materials
+Thermodynamics of a Pseudospin-Electron Model
+Hall Coefficient of a Dilute 2D Electron System in Parallel Magnetic Field
+Ab intio calculation of the Transmission Coefficients from a Superlattice electronic structure
+Eigen-functional bosonization and Eikonal-type equations in one-dimensional strongly correlated electron system
+Role of dynamic Jahn-Teller distortions in Na2C60 and Na2CsC60 studied by NMR
+The effects of electron-electron interactions on the spin transport dynamics of a two-dimensional electron gas
+Ferroelectrics with Low-energy Electronic Excitations
+Exact Langevin equation for electrons in thermostat, Fokker-Planck kinetics and flicker noise
+Quantum dots with two electrons: Singlet-triplet transitions
+Electron transport and intrinsic mobility limits in two-dimensional electron gases of III-V nitride heterostructures
+Quantum and Thermal Phase Transitions of Halogen-Bridged Binuclear Transition-Metal Complexes
+Dissimilar Ferromagnetic Layer Dependence of Hot Electron Magnetotransport
+Bias Voltage and Temperature Dependence of Hot Electron Magnetotransport
+Spontaneous Magnetization of a Two-Dimensional Electron Gas
+Electron transport in a quasi-one dimensional channel on suspended helium films
+On the role of electron-phonon interaction in the resistance anisotropy of two-dimensional electrons in GaAs heterostructures
+Re-examination of orbital ordering in LaMnO$_3$: Electron-electron and electron-lattice interactions
+Uniform electron gas from two-particle wavefunctions
+Dynamical Mean-Field Theory of Electron-Phonon Interactions in Correlated Systems: Application to Isotope Effects on Electronic Properties
+The theory of transvers Nernst--Ettingshausen effect and thermopower of heated (hot) charge carriers in nondegenerate semiconductors in the case of high anisotropy of phonons distribution function
+Photoemission spectroscopy and sum rules in dilute electron-phonon systems
+Anisotropy and periodicity in the density distribution of electrons in a quantum-well
+Electron self-energy and effective mass in a single heterostructure
+Spin-entangled currents created by a triple quantum dot
+Local moment physics in heavy electron systems
+Sum rule analysis of Umklapp processes and Coulomb energy: application to cuprate superconductivity
+Magnetoresistance of a 2D electron gas caused by electron interactions in the transition from the diffusive to the ballistic regime
+Kondo Effect in a Metal with Correlated Conduction Electrons: Diagrammatic Approach
+Generalization of the iterative perturbation theory and metal-insulator transition in multi-orbital Hubbard bands
+The dual nature of 5f electrons and origin of heavy fermions in U compounds
+Nature of carriers in one-dimensional correlated electron systems
+Electronic structure of the V3+ ion in V2O3
+Pair formation in two electron correlated chains
+Excitonic and Quasiparticle Life Time Effects on Silicon Electron Energy Loss Spectrum from First Principles
+Comment on ``Electron-phonon Vertex in the Two-dimensional One-band Hubbard Model''
+Direct temporal measurement of hot-electron relaxation in a phonon-cooled metal island
+Lateral electron localization by the induced surface charge
+Electron Dynamics in Quantum Dots on Helium Surface
+Effect of an Electron-phonon Interaction on the One-electron Spectral Weight of a d-wave Superconductor
+Electronic and optical properties of InAs(110)
+Exact multi-electronic electron-concentration dependent ground-states for disordered two-dimensional two-band systems in presence of disordered hoppings and finite on-site random interactions
+Generalized Friedel sum rule and anomalies of the mobility due to the resonant scattering of electrons by donor impurities in semiconductors
+Recombination and Lifetimes of Charge Carriers in Semiconductors
+Kinetic theory of fluctuations in conducting systems
+A dynamic localization of 2D electrons at mesoscopic length scales
+Signature of the electron-electron interaction in the magnetic field dependence of nonlinear I-V characteristics in mesoscopic systems
+Metallic conduction, apparent metal-insulator transition and related phenomena in two-dimensional electron liquid
+Combined effects of disorders and electron-electron interactions upon metal-insulator transition in 2D non-bipartite lattice
+N-representability of two-electron densities and density matrices and the application to the few-body problem
+Band structures of rare gas solids within the GW approximation
+Microscopic Model for a Strongly Correlated Superconducting Single-Electron-Transistor
+Bosonization approach to the edge reconstruction of two dimentional electron systems in a quantum dot
+Fermionic Quasiparticle Representation of Tomonaga-Luttinger Hamiltonian
+Microwave modulation of electron temperature and Shubnikov-de Haas oscillation in two-dimensional electron systems
+Determination of fast electron energy dependence of magic angles in electron energy loss spectroscopy for anisotropic systems
+Electron Spin-Lattice Relaxation of doped Yb3+ ions in YBa2Cu3Ox
+Exchange instabilities in electron systems: Bloch versus Stoner Ferromagnetism
+Deformation Electron-Phonon Coupling in Disordered Semiconductors and Nanostructures
+The charge asymmetry in superconductivity of hole- and electron-doped cuprates
+Analytical Current Formula for Strongly Coupled Quantum Dot with Arbitrary Electron-Electron Interaction
+Electron spin resonance on a 2-dimensional electron gas in a single AlAs quantum well
+Ionization by Impact Electrons in Solids: Electron Mean Free Path Fitted Over a Wide Energy Range
+Electronic Properties of Two-Dimensional Carbon
+Exchange and correlation effects on drag in low density electron bilayers: Coulomb and virtual-optical-phonon-mediated electron-electron interaction
+Absorption of Nuclear Gamma Radiation by Heavy Electrons on Metallic Hydride Surfaces
+Signatures of electron-electron correlations in the optical spectra of $α$-(BEDT-TTF)$_2M$Hg(SCN)$_4$ ($M$=NH$_4$ and Rb)
+Lifetime of a quasiparticle in an electron liquid. II
+Crystal-field states in NaCoO2 and in wet cobalt superconductors (NaxCoO2)
+Interface controlled electronic charge inhomogeneities in correlated heterostructures
+Long-range correlation energies calculations for $π$ electronic systems
+Optical spin pumping of modulation doped electrons probed by a two-color Kerr rotation technique
+Electronic spectrum in cuprates within p-d Hubbard model
+Entanglement, Dephasing, and Phase Recovery via Cross-Correlation Measurements of Electrons
+Electronic spectrum in high-temperature cuprate superconductors
+Mixing of two-electron spin states in a semiconductor quantum dot
+Quantum Dynamics of Electron-Nuclei Coupled System in Quantum Dots
+Short-range exchange-correlation energy of a uniform electron gas with modified electron-electron interaction
+Intersubband Electron Interaction in 1D-2D Junctions
+Effect of electron-electron interactions on the conductivity of clean graphene
+Spin transverse force and quantum transverse transport
+Electron identification using the TOPAZ detector at TRISTAN
+Compton Polarimetry at a TEV Collider
+The new limit for the magnetic moment of the electron antineutrino from the MUNU experiment
+Electron Beam for LHC
+Proton-ring and Electron-linac Collider (PRELC) as a (first) TeV-rangeelectron-proton or photon-proton collider
+Spin light of electron in dense matter
+Does the Higgs mechanism favour electron-electron bound states in Maxwell-Chern-Simons QED_3?
+Electron-electron attractive interaction in Maxwell-Chern-Simons QED3 at zero temperature
+Polarizing Stored Beams by Interaction with Polarized Electrons
+Radiative Corrections to Elastic Electron-Proton Scattering for Polarized Electrons
+A density matrix approach to photoinduced electron injection
+Low Temperature Electronic Transport and Electron Transfer through Organic Macromolecules
+Geminate recombination dynamics studied via electron reexcitation: Kinetic analysis for anion CTTS photosystems
+Design of laser-electron storage ring lattice dedicated to generation of intense X-rays under Compton scattering
+Small signal gain analysis for a wiggler with noncollinear laser wave and electron beam
+Neutrinos in the Electron
+Attosecond electron thermalization by laser-driven electron recollision in atoms
+Radiation damage to DNA: electron scattering from the backbone subunits
+Radiation Emission by Extreme Relativistic Electrons and Pair Production by Hard Photons in a Strong Plasma Wakefield
+QED treatment of electron correlation in Li-like ions
+Ballistic Single-Electron Quputer
+Path Integral Approach to the Non-Relativistic Electron Charge Transfer
+A Femtosecond Nanometer Free Electron Source
+Optically tuned dimensionality crossover in photocarrier-doped SrTiO$_3$: onset of weak localization
+Spin lifetime in silicon in the presence of parasitic electronic effects
+Electron-acoustic-phonon scattering and electron relaxation in two-coupled quantum rings
+Strongly enhanced effective mass in dilute two-dimensional electron systems: System-independent origin
+The Role of Electron-electron Interactions in Graphene ARPES Spectra
+Electronic pathway in the photosynthetic reaction centers and some mutation of RC's
+Strong collisionless damping of the low-velocity branch of electromagnetic wave in plasmas with Maxwellian-like electron velocity distribution function
+Efficient electron heating in relativistic shocks and gamma ray burst afterglow
+Coherent transfer of light polarization to electron spins in a semiconductor
+Searching for Kaluza-Klein Dark Matter Signatures in the LAT Electron Flux
+Comment on "Feasibility of an electron-based crystalline undulator"
+Thermal orientation of electron spins
+Equilibrium-charge diagram of single quantum dot in an axial magnetic field
+Few-electron semiconductor quantum dots with Gaussian confinement
+Electron and Spin Transport in the Presence of Complex Absorbing Potential
+Electron-electron interactions in graphene bilayers
+Wigner islands with electrons over helium
+Carbon nanotube as a nanoscale Cherenkov--type light emitter - nanoFEL
+A new mechanism for electron transfer in fast ion-atomic collisions
+Coulomb pseudogap in elastic 2D-2D electron tunneling in a quantizing magnetic field
+Role of electron-electron interactions in nonlinear transport in 2D electron systems
+Fast electron generation by Coulomb scattering on spatially correlated ions in a strong laser field
+Entanglement of electron pairs extracted from a many-body system
+Kinks: Fingerprints of strong electronic correlations
+Energy Correlation in Above-Threshold Nonsequential Double Ionization at 800 nm
+Diagrammatic theory for Periodic Anderson Model: Stationary property of the thermodynamic potential
+Comment on "Cyclotron resonance study of the electron and hole velocity in graphene monolayers"
+Radiative Losses in Plasma Accelerators
+Spin susceptibility and polarization field in a dilute two-dimensional electron system in (111) silicon
+Nonlinear Development of Streaming Instabilities In Strongly Magnetized Plasmas
+Quantum Potential for Diffraction and Exchange Effects
+Interplay of electron-phonon interaction and strong correlations: DMFT+Σstudy
+Resonant Correlation-Induced Optical Bistability in an Electron System on Liquid Helium
+Secondary electron cascade in attosecond photoelectron spectroscopy from metals
+Violation of Onsager symmetry for a ballistic channel Coulomb coupled to a quantum ring
+Electrical manipulation of an electronic two-state system in Ge/Si quantum dots
+Time-resolving intra-atomic two-electron collision dynamics
+Direct Determination of Electron-Phonon Coupling Matrix Element in a Correlated System
+Influence of Carrier-Carrier Scattering on Electron Transport in Monolayer Graphene
+Plasma bremsstrahlung emission at electron energy from low up to extreme relativistic values
+Electron-electron and electron-hole pairing in graphene structures
+The role of electron-electron scattering in spin transport
+Laplacian-level density functionals for the exchange-correlation energy of low-dimensional nanostructures
+Electron transport properties in high-purity Ge down to cryogenic temperatures
+Enhancing the electron mobility via delta-doping in SrTiO3
+Model for the electronic structure, Fermi arcs, and pseudogap in cuprate superconductors
+Electron-phonon interaction in a local region
+The role of excitons and trions on electron spin polarization in quantum wells
+Electric--field effect on electron-doped infinite-layer Sr$_{0.88}$La$_{0.12}$CuO$_{2+x}$ thin films
+Electron spin relaxation as evidence of excitons in an electron-hole plasma
+A Three-Dimensional Model of Small Signal Free-Electron Lasers
+Are the high-Tc superconductors strongly correlated electron systems?
+Interplay between interferences and electron-electron interactions in epitaxial graphene
+The Hartree-Fock phase diagram of the two-dimensional electron gas
+Electron random walk in ideal phonon gas. Exact dressed electron density matrix evolution equations
+Analytic model of effective screened Coulomb interactions in a multilayer system
+Electron-Phonon Coupling in Highly-Screened Graphene
+Single-electron turnstile pumping with high frequencies
+Photo-electron momentum spectra from minimal volumes: the time-dependent surface flux method
+Power law Kohn anomaly in undoped graphene induced by Coulomb interactions
+Anisotropic superconductivity in the two-dimensional electron-phonon system
+Quantum lifetime of 2D electron in magnetic field
+Asymmetric propagation of electronic wave function through molecular bonding and anti-bonding states
+Many-electron dynamics triggered by massively parallel ionization
+Electron-acoustic_solitary_structures_in_two-electron-temperature_plasma_with_superthermal_electrons
+Two-Dimensional Anharmonic Crystal Lattices: Solitons, Solectrons, and Electric Conduction
+Spin-selective Kondo insulator: Cooperation of ferromagnetism and Kondo effect
+Enhanced two dimensional electron gas charge densities at III-III/I-V oxide heterostructure interfaces
+Uniform electron gases
+Nonthermal Bremsstrahlung and Hard X-ray Emission from Clusters of Galaxies
+Electron acceleration due to high frequency instabilities at supernova remnant shocks
+The supergroup U(M/N) with regard to electronic Hamiltonians
+Kondo Physics in a Single Electron Transistor
+Bethe ansatz equations for Bariev's correlated electron chain with boundaries
+Coulomb Ordering in Anderson-Localized Electron Systems
+Dominant mode in the cuprates: electronic vs. phononic scenario
+Reply to Comment on ``Absence of electron dephasing at zero temperature''
+Analysis of integrated single-electron memory operation
+Theoretical Considerations About the Generation and Properties of Narrow Electron Flows in Solid State Structures
+Role of Electron--Electron Interactions on Spin Effects in Electron--Hole Recombination in Organic Light Emitting Diodes
+The electron lifetime in Luttinger liquids
+Response of an electron system to a periodic potential
+Electrons and Nuclei: Fundamental Interactions and Structure
+Modeling the MCAS Way
+The Connection between the Quantum Frequency of Radiation and Frequencies of Circling of the Electron in Atom of Hydrogen
+Measuring the spin polarization and Zeeman energy of a spin-polarized electron gas: Comparison between Raman scattering and photoluminescence
+Reading the Electron Clock
+Magnetic dipole moment of the electron
+A Fermi Sea of Heavy Electrons (a Kondo Lattice) is Never a Fermi Liquid
+Klein-Nishina steps in the energy spectrum of galactic cosmic ray electrons
+A Sensitivity Study of the Enceladus Torus
+The Effect of Large Scale Magnetic Turbulence on the Acceleration of Electrons by Perpendicular Collisionless Shocks
+Graphene and graphane: New stars of nanoscale electronics
+Interplay of electron-phonon interaction and strong correlations: DMFT+Sigma approach
+Drag effects in the system of electrons and microcavity polaritons
+Unveiling a two-dimensional electron gas with universal subbands at the surface of SrTiO3
+Spectroscopy of electron flows with single- and two-particle emitters
+Formulation of a Mesoscopic Electron Beam Splitter with Application in Semiconductor Based Quantum Computing
+Fractionalize This
+Notes on Electronic Lexicography
+STEREO measurements of electron acceleration beyond fast Fermi at the bow shock
+Approximate Analytical Description of the Underdense Short Plasma Lens
+Nonlinear Wave Dynamics in Two Temperature Electron-Positron-Ion Plasma
+Chaotic Autoionization of the Relativistic Two-Electron Atom
+A comparison of FQHE quasi-electron trial wave functions on the disk
+Escape of trapped electrons from a helium surface: a dynamical theory
+Electron--electron scattering in linear transport in two-dimensional systems
+Electron-electron interactions and two-dimensional - two-dimensional tunneling
+Current noise, electron-electron interactions, and quantum interference
+A Kondo impurity in one dimensional correlated conduction electrons
+Q1D organic metals:the electronic contribution to the equation of state
+Theory of Photoemission from the Copper Oxide Material
+Coulomb Drag in Systems with Tunneling Bridges
+Electron-Phonon Interaction and Raman Linewidth in Superconducting Fullerides
+Low Temperature Behavior of the Kondo Effect in Tomonaga-Luttinger Liquid
+The Path Integral Monte Carlo Calculation of Electronic Forces
+Non-abelian Electrons
+The physical origin of the electron-phonon vertex correction
+Edge Electron Gas
+Magnetization of noncircular quantum dots
+Fixed Number and Quantum Size Effects in Nanoscale Superconductors
+Wigner crystallization in the two electron quantum dot
+New theory of the gamma-alpha phase transition in Ce: quadrupolar ordering
+Enhancement of tunneling from a correlated 2D electron system by a many-electron Mossbauer-type recoil in a magnetic field
+Quantum Numbers of the V3+ Ion in V2o3
+Electron-Electron Relaxation Effect on Auger Recombination in Direct Band Semiconductors
+Fluorescence from a few electrons
+Electron - Phonon Superconductivity
+Spectral Density Functionals for Electronic Structure Calculations
+Theory of electron spectroscopies
+BCS Theory for Binary Systems with 2D Electrons
+Why holes are not like electrons: A microscopic analysis of the differences between holes and electrons in condensed matter
+Auger-electron cascades in diamond and amorphous carbon
+Manifestation of marginal Fermi liquid and phonon excitations in photoemision experiments of cuprate superconductors
+A New General Theory of Superconductivity
+Electron scattering in multi-wall carbon-nanotubes
+Thermal conductivity of a two-dimensional electron gas with Coulomb interaction
+Theory of exchange coupling in disordered magnetic multilayers
+The Role of Phonon Mechanism in Electron Coupling
+Interplay between the repulsive and attractive interaction and the spacial dimensionality of an excess electron in a simple fluid
+Microscopic mechanisms of dephasing due to electron-electron interactions
+Description of the Energy Eigenstates of the 1D Hubbard Model in Terms of Rotated-Electron Site Distribution Configurations
+Thermal Mechanism of Absolute Negative Conductivity in Two-Dimensional Electron Systems
+Simple Physical Picture of the Overhauser Screened Electron-Electron Interaction
+Electron Wave Function Distribution Change in Mesoscopic Systems
+Electron correlations in metal nanoparticles with spin-orbit scattering
+Electronic Structure of the Complex Hydride NaAlH4
+Drag resistance of 2D electronic microemulsions
+A Hydrodynamic Approach to Superconductivity
+Quantum steering of electron wave function in an InAs Y-branch switch
+New Electron-Doped Superconducting Cuprate Li_x_Sr_2_CuO_2_Br_2_
+Chiral spin resonance and spin-Hall conductivity in the presence of the electron-electron interactions
+Stationary-state electronic distribution in quantum dots
+Ground-state of two-dimensional finite electron systems in the Quantum Hall regime
+Conductivity magnetooscillations in 2D electron-impurity system under microwave irradiation: role of magnetoplasmons
+Few-electron eigenstates of concentric double quantum rings
+Electron-electron interactions and the phase diagram of a graphene bilayer
+Electronic Structure Studies of CeAgSb2
+Lifetimes of electrons in the Shockley surface state band of Ag(111)
+Adiabatic and Nonadiabatic Electronics of Materials
+Electronic structure of the electron-doped cuprate superconductors
+Analytic theory of pair distribution functions in symmetric electron-electron and electron-hole bilayers
+Exact many-electron ground states on the diamond Hubbard chain
+QCD Anomalous Structure of Electron
+A Casimir approach for radiative self-energy
+Electronic Mathematics Journals
+g-factor of a tightly bound electron
+Electron correlation vs. stabilization: A two-electron model atom in an intense laser pulse
+About Lie group of the electron magnetohydrodynamics with effect of electron inertia and finite conducting
+Nuclear-polarization correction to the bound-electron g factor in heavy hydrogenlike ions
+Electron Temperature of Ultracold Plasmas
+Quasi-exact expansion of the electron momentum density of the Hooke's atom
+Test Ion Acceleration in the Field of Expanding Planar Electron Cloud
+Electron State Entanglement at Double Ionization
+Non-Empty Quantum Dot as a Spin-Entangler
+Momentum Jumps in Quasi-2D Ballistic Systems
+Electron Fabry-Perot interferometer with two entangled magnetic impurities
+Correlation Properties of the Electron-Hole Plasma Interecting with the Exciton Gas and the Formation of Inhomogeneous State
+On the structure of relativistic collisionless shocks in electron-ion plasmas
+Gutzwiller density functional theory for correlated electron systems
+Phonon-induced many-body renormalization of graphene electronic properties
+Fundamental Building Blocks for The Design of A Single-electron Nanoelectronic Processor
+Electron-phonon coupling in a two-dimensional inhomogeneous electron gas: consequences for surface spectral properties
+Strings in strongly correlated electron systems
+Quantum theory of electron tunneling into intersubband cavity polariton states
+Laterally defined freely suspended quantum dots in GaAs/AlGaAs heterostructures
+Singular Hylleraas three-electron integrals
+Energy-Dependent Electron-Electron Scattering and Spin Dynamics in a Two Dimensional Electron Gas
+Effect of electron-electron scattering on spin dephasing in a high-mobility low-density twodimensional electron gas
+Single-molecule electron diffraction imaging with charge replacement
+Chiral two-dimensional electron gas in a periodic magnetic field
+Dark Energy and Electrons
+Restricted Open-Shell Kohn-Sham Theory IV: Expressions for N Unpaired Electrons
+Revision of the theory of a uniform electron gas
+Wigner Crystallization in a Quasi-3D Electronic System
+Electron-electron scattering effect on spin relaxation in multi-valley nanostructures
+Effect of nonequilibrium phonons on hot-electron spin relaxation in n-type GaAs quantum wells
+Angle-resolved photoemission spectra of graphene from first-principles calculations
+Theory of the Anomalous Magnetic Moment of the Electron
+Transport properties of a molecule embedded in an Aharonov-Bohm interferometer
+Observation of Electron-Hole Puddles in Graphene Using a Scanning Single Electron Transistor
+Effective Interacting Hamiltonian and Pairing Symmetry of LaOFeAs
+Electron Phonon Superconductivity in LaNiOP
+Hot-electron noise suppression in n-Si via the Hall effect
+Electron relaxation in metals: Theory and exact analytical solutions
+Two-electron ionization in strong laser fields below intensity threshold: signatures of attosecond timing in correlated spectra
+Dynamical simulations of charged soliton transport in conjugated polymers with the inclusion of electron-electron interactions
+Nonlinear resistance of 2D electrons in crossed electric and magnetic fields
+TPC Readout Electronics with Time-to-Digital Converters
+Effect of Electron-Electron Interactions on the Charge Carrier Transitions in trans-Polyacetylene
+Hyperfine Effects in Ionic Orbital Electron Capture
+Prominent 5d-orbital contribution to the conduction electrons in gold
+Real time observation of cuprates structural dynamics by Ultrafast Electron Crystallography
+Phonon-mediated electron pairing in graphene
+Trapped electron coupled to superconducting devices
+On Electron Pairing in One-Dimensional Anharmonic Crystal Lattices
+Microwave guiding of electrons on a chip
+Possibility of Electron Pairing in Small Metallic Nanoparticles
+Electron-electron interaction and electron-hole asymmetry in bilayer graphene
+Electron-electron interaction and electron-hole asymmetry in bilayer graphene (Supporting Materials)
+Analysis of tubes filled with charged electron gas
+Interacting electrons in graphene nanoribbons in the lowest Landau level
+Three-terminal thermoelectric transport through a molecule placed on an Aharonov-Bohm ring
+Thermoelectric transport with arbitrary electron-phonon coupling and electron-electron interaction in molecular junctions
+Quantum electron self-interaction in a strong laser field
+Numerical simulations of runaway electron generation in pressurized gases
+Effect of electron-phonon coupling on energy and density of states renormalizations of dynamically screened graphene
+Electron-Electron scattering and resistivity of ballistic multimode channels
+The inner structure of collisionless magnetic reconnection: The electron-frame dissipation measure and Hall fields
+Quantum effects in spontaneous emission by a relativistic, undulating electron beam
+Three dimensional magnetism and coupling to conduction electrons in PdCrO2
+Observation of Preformed Electron-Hole Cooper Pairs
+Formation of charge and spin ordering in strongly correlated electron systems
+Electron beam profile imaging in the presence of coherent optical radiation effects
+Trajectory-Wave Approach to Electron Dynamics in Hydrogen Atom
+Neutrino pair emission due to scattering of electrons off fluxoids in superfluid neutron star cores
+Evidence for ubiquitous strong electron-phonon coupling in high-temperature superconductors
+The Statistical Theory of Quantum Dots
+On the Electron-Electron Interactions in Two Dimensions
+The trion: two electrons plus one hole versus one electron plus one exciton
+Dissipative electron-phonon system photoexcited far from equilibrium
+Observation of spin Coulomb drag in a two-dimensional electron gas
+Zitterbewegung of nearly-free and tightly bound electrons in solids
+Transmission electron goniometry and its relation to electron tomography for materials science applications
+Relaxation of Femtosecond Non-equilibrium Electrons in a Metallic Sample
+Electron Beam Production by Pyroelectric Crystals
+Transient optical response of ultrafast nonequilibrium excited metals: Effects of electron-electron contribution to collisional absorption
+Simulation of relativistic shocks and associated radiation
+Local density of states of electron-crystal phases in graphene in the quantum Hall regime
+Nonlinear aspects of quantum plasma physics
+Colloquium: Nonlinear collective interactions in quantum plasmas with degenerate electron fluids
+Monte-Carlo phase diagram of a Hubbard-Peierls model in the search for spin crossover transition in $π$-conjugated polymers
+Field enhanced electron mobility by nonlinear phonon scattering of Dirac electrons in semiconducting graphene nanoribbons
+Ferromagnetic order of nuclear spins coupled to conduction electrons: a combined effect of the electron-electron and spin-orbit interactions
+Stochastic Acceleration of Low Energy Electrons in Plasmas with Finite Temperature
+The Quasi-stationary Structure of Radiating Shock Waves II. The Two-temperature Fluid
+Nonthermal Electrons at High Mach Number Shocks: Electron Shock Surfing Acceleration
+Electron Injection at High Mach Number Quasi-Perpendicular Shocks : Surfing and Drift Acceleration
+Influence of spin on the persistent current of strongly interacting electrons
+Electrons, pseudoparticles, and quasiparticles in the one-dimensional many-electron problem
+Electron Capture into Quantum Wells via Scattering by Electrons, Holes, and Optical Phonons
+Comment on "Electronic Properties of Armchair Carbon Nanotubes: Bosonization Approach"
+One Dimensional Phonon Coupled Electron Tunneling: A Realistic Model
+Electronic Shell Structure of Nanoscale Superconductors
+Interaction of photons with plasmas and liquid metals: photoabsorption and scattering
+Landauer Theory, Inelastic Scattering and Electron Transport in Molecular Wires
+From localization to delocalization in the quantum Coulomb glass
+Many-Electron wave function and momentum density
+Surface-state electron dynamics in noble metals
+Magnetic Phases of Electron-Doped Manganites
+Total Polarisation Conversion in Two-dimensional Electron System under Cyclotron Resonance Conditions
+Doped magnetic moments in a disordered electron system: insulator-metal transition, spin glass and `cmr'
+Theory of magnetophonon resonance in 2D electron gas in tilted magnetic field
+A relationship between electron transfer rates and molecular conduction
+Origin of enhanced dynamic nuclear polarization and all-optical nuclear magnetic resonance in GaAs quantum wells
+On the theory of magnetic impurities in integrable correlated electron chains
+Phonon drag of electrons at high temperatures
+Low Temperature Electronic Transport through Macromolecules and Characteristics of Intramolecular Electron Transfer
+Hybrid Luttinger liquid/Fermi liquid behaviour in an atomic wire on a surface
+The 3d-electron states in LaMnO3*
+The 3d-electron states in FeBr2
+Charge and Spin Quantum Fluids Generated by Many-Electron Interactions
+Low-frequency conductivity of a non-degenerate 2D electron liquid in strong magnetic fields
+Finite-Energy Pseudoparticle Theory for the 1D Hubbard Model II: Holon and Spinon Dominant Processes for the Few-Electron Spectral Weight Properties
+Electronic States in Silicon Quantum Dots: Multivalley Artificial Atoms
+Quantum teleportation by particle-hole annihilation in the Fermi sea
+Self-Consistent Modification To The Electron Density Of States Due To Electron-Phonon Coupling In Metals
+A Model of Strongly Correlated Electrons with Condensed Resonating-Valence-Bond Ground States
+Orbital magnetic properties of quantum dots: the role of electron-electron interactions
+Electronic structure and dynamics of optically excited single-wall carbon nanotubes
+Hot-electron effect in spin dephasing in $n$-type GaAs quantum wells
+Scaling in the Emergent Behavior of Heavy Electron Materials
+Vibrational effects in laser driven molecular wires
+Counting Individual Electrons on Liquid Helium
+A local density functional for the short-range part of the electron-electron interaction
+Phase diagram for the exciton Mott transition in infinite-dimensional electron-hole systems
+Heterogeneous dynamics of the three dimensional Coulomb glass out of equilibrium
+Do intradot electron-electron interactions induce dephasing?
+Quantum transport through a deformable molecular transistor
+Band structure of LaB6 by an algorithm for filtering reconstructed electron-positron momentum densities
+Dispersion of incoherent spectral features in systems with strong electron-phonon coupling
+Simple model for the spherically- and system-averaged pair density: Results for two-electron atoms
+Second-order electronic correlation effects in a one-dimensional metal
+Electron Transfer in Donor-Acceptor Systems: Many-Particle Effects and Influence of Electronic Correlations
+On the crystal field in the modern solid-state theory
+Jahn-Teller systems at half filling: crossover from Heisenberg to Ising behavior
+Strong electron-phonon coupling in delta-phase stabilized Pu
+Energy-resolved inelastic electron scattering off a magnetic impurity
+Orbital ordering in LaMnO$_3$: Electron-electron versus electron-lattice interactions
+Theory of a two-level artificial molecule in laterally coupled quantum Hall droplets
+Electron-phonon coupling as an order-one problem
+ARPES on HTSC: simplicity vs. complexity
+'Electron' and 'photon' emerging from supersymmetric neutral particles: A possible realization in ultracold Bose-Fermi atom mixture
+Measurement of the Charge Transfer Efficiency of Electrons Clocked on Superfluid Helium
+Correlation between molecular orbitals and doping dependence of the electrical conductivity in electron-doped Metal-Phthalocyanine compounds
+Coulomb blockade anisotropic magnetoresistance: Singleelectronics meets spintronics
+Probabilistic method to determine electron correlation energy
+Electron-phonon vs. electron-impurity interactions with small electron bandwidths
+Signature of the electron-electron interaction in the magnetic field dependence of nonlinear I-V characteristics in mesoscopic conductors
+Phonon-mediated tuning of instabilities in the Hubbard model at half-filling
+Evaporative Cooling in Semiconductor Devices
+Competitive density waves in quasi-one-dimensional electron systems
+Electron transport in disordered Luttinger liquid
+Experimental Determination of the Spectral Function of Graphene
+Control of many electron states in semiconductor quantum dots by non-Abelian vector potentials
+Vortex structures in few-electron quantum dots with spin degree of freedom
+An Intrinsic Bond-Centered Electronic Glass with Unidirectional Domains in Underdoped Cuprates
+Note on the exponent puzzle of the Anderson-Mott transition
+Quantum Theory of Electron Transport Through Single-Level Quantum Dot
+A Nonperturbative Calculation of the Electron's Magnetic Moment
+Non-relativistic electron-electron interaction in a Maxwell-Chern-Simons-Proca model endowed with a timelike Lorentz-violating background
+Classical "Dressing" of a Free Electron in a Plane Electromagnetic Wave
+Secondary electron yield measurements from thin surface coatings for NLC electron cloud reduction
+Development of compact gas treatment system using secondary emission electron gun
+Fast electronic relaxation in metal nanoclusters via excitation of coherent shape deformations: Circumventing a bottleneck
+Can a single molecule trap the electron?
+Application of Macro Response Monte Carlo method for electron spectrum simulation
+Aharonov-Bohm interference in the presence of metallic mesoscopic cylinders
+Single photo-electron trapping, storage, and detection in a one-electron quantum dot
+Effect of electron-electron interaction on the phonon-mediated spin relaxation in quantum dots
+Magneto-oscillations due to electron-electron interactions in the ac conductivity of a 2D electron gas
+Exchange effects on electron scattering through a quantum dot embedded in a two-dimensional semiconductor structure
+Evidence for strong 5d electron correlations and electron-magnon coupling in a pyrochlore, Y2Ir2O7
+Switched Control of Electron Nuclear Spin Systems
+Non-equilibrium statistical mechanics of classical nuclei interacting with the quantum electron gas
+The electronic properties of graphene
+Searches for Extra Dimensions and for Heavy Resonances in Dilepton, Diphoton, Electron + Photon and Electron + Missing ET Final States with the D0 Detector
+Electronic States of Magnetic Quantum Dots
+Pair-distribution functions of two-temperature two-mass systems: Comparison of MD, HNC, CHNC, QMC and Kohn-Sham calculations for dense hydrogen
+Tuning fulleride electronic structure and molecular ordering via variable layer index
+Quantum dot defined in two-dimensional electron gas at n-AlGaAs/GaAs heterojunction: simulation of electrostatic potential and charging properties
+Non-Equilibrium Thermodynamics formalism for Marcus cross-exchange electron transfer reaction rates
+Pair Formation in a t-J Model
+Electronic Origin of the Inhomogeneous Pairing Interaction in the High-Tc Superconductor Bi2Sr2CaCu2O8+d
+Effect of sigma electrons on the pi-electron behavior in single-wall carbon nanotubes
+Simulations of 2D magnetic electron drift vortex mode turbulence in plasmas
+Effect of Coulomb scattering on graphene conductivity
+Preferred-Frame and CP-Violation Tests with Polarized Electrons
+Additional non-Coulomb electron-electon interaction in multielectron systems
+Coherent Thomson backscattering from laser-driven relativistic ultra-thin electron layers
+Aharonov-Bohm oscillations in coupled quantum dots: Effect of electron-electron interactions
+Electron Self-injection in Multidimensional Relativistic Plasma Wakefields
+Spin relaxation in multiple (110) quantum wells
+Heavy electrons: Electron droplets generated by photogalvanic and pyroelectric effects
+Electronic Ferroelectricity and Frustration
+Electronic Dynamics Due to Exchange Interaction with Holes in Bulk GaAs
+Quantum phase transition between antiferromagnetic and charge order in the Hubbard-Holstein model
+Low-energy kink in the nodal dispersion of copper-oxide superconductors: Insights from Dynamical Mean Field Theory
+Note on the inelastic neutron scattering spectrum in cuprate superconductors
+The unification of Pythagorean theorem for electronic orbitals with Kepler's law for planetary orbits
+Few-electron artificial molecules formed by laterally coupled quantum rings
+Nonequilibrium Green's functions approach to strongly correlated few-electron quantum dots
+Electrons from Muon Decay in Bound State
+A Monte Carlo investigation of secondary electron emission from solid targets: spherical symmetry versus momentum conservation within the classical binary collision model
+Electron-electron interactions and doping dependence of the two-phonon Raman intensity in graphene
+Susceptibility at the edge points of magnetization plateau of 1D electron/spin systems
+Fine structure of two-electron states in single and double quantum dots
+Effect of electron-electron scattering on magnetointersubband resistance oscillations of two-dimensional electrons in GaAs quantum wells
+Nature of electron Zitterbewegung in crystalline solids
+"Listening" to the spin noise of conduction electrons in bulk n:GaAs
+Electron emission from conduction band of diamond with negative electron affinity
+Secondary ionization and heating by fast electrons
+Electronic Order with Staggered Kondo and Crystalline Electric Field Singlets
+Phonon origin of low energy and high energy kinks in high temperature cuprate superconductors
+Non-magnetic Stern-Gerlach Experiment from Electron Diffraction
+On highly accurate calculations of the excited $n^1S(L = 0)-$states in helium atoms
+A Tale of Two Electrons: Correlation at High Density
+Effect of electron-beam irradiation on graphene field effect devices
+Unexpected features of branched flow through high-mobility two-dimensional electron gases
+Electron-phonon interaction in Fe-based superconductors: Coupling of magnetic moments with phonons in LaFeAsO$_{1-x}$F$_{x}$
+Spatially probed electron-electron scattering in a two-dimensional electron gas
+Coulomb interaction effects and electron spin relaxation in the 1d Kondo lattice model
+Electronic Phases and Phase Separation in the Hubbard-Holstein Model of a Polar Interface
+Simulations of slow positron production using a low energy electron accelerator
+Multiphoton ionization and stabilization of helium in superintense xuv fields
+Influence of correlations on transitive electron-phonon couplings in cuprate superconductors
+Electron sound in metals
+Unified Analytic Electron Interaction Integrals Over Slater Orbitals for Diatomic Molecules
+Tuning the electronic transport properties of graphene through functionalisation with fluorine
+Electron-Spin Excitation Coupling in an Electron Doped Copper Oxide Superconductor
+Electron localizations in double concentric quantum ring
+Nanoscale Effects on Heterojunction Electron Gases in GaN/AlGaN Core/Shell Nanowires
+An Investigation of Particle-Hole Asymmetry in the Cuprates via Electronic Raman Scattering
+Proposal for an X-Ray Free Electron Laser Oscillator with Intermediate Energy Electron Beam
+Electron-acoustic solitary waves in the presence of a suprathermal electron component
+Electron velocity distribution instability in magnetized plasma wakes and artificial electron mass
+Possibility of superconductivity due to electron-phonon interaction in graphene
+Sub-nanosecond Electron Emission from Electrically Gated Field Emitting Arrays
+Symmetry Effects on Nonlocal Electron-Phonon Coupling in Organic Semiconductors
+Bistability and Hysteresis of Intersubband Absorption in Strongly Interacting Electrons on Liquid Helium
+de Broglie Wavelength and Frequency of the Scattered Electrons in Compton Effect
+Electron cloud experiments at Fermilab: Formation and mitigation
+Particle Energization in an Expanding Magnetized Relativistic Plasma
+Evolution of an afterglow with a hard electron spectrum
+Electron Positron Capture Rates and Beta-Equilibrium Condition for Electron-Positron Plasma with Nucleons
+Electron Surfing Acceleration in Magnetic Reconnection
+Electronic interactions in fullerene spheres
+Tunneling into a two-dimensional electron system in a strong magnetic field
+Strong-Coupling Behavior of Two $t-J$ Chains with Interchain Single Electron Hopping
+Resonance Magnetoresistance in Coupled Quantum Wells
+Electrons, pseudoparticles, and quasiparticles in one-dimensional interacting electronic systems
+Superconductivity Fluctuations in a One-dimensional Two Band Electron-Phonon Model with Strong Repulsive Interactions
+Selection Rules for Transport Excitation Spectroscopy of Few-Electron Quantum Dots
+Interacting electrons in disordered potentials: Conductance versus persistent currents
+Total dielectric function approach to the electron Boltzmann equation for scattering from a two-dimensional coupled mode system
+Resonance in One--Dimensional Fermi--Edge Singularity
+Non-Fermi-Liquid Behavior of Compressible States of Electrons on the Lowest Landau Level
+Non magnetic molecular Jahn-Teller Mott insulators
+Two-impurity Kondo problem for correlated electrons
+Insulator-Metal Transition in One Dimension Induced by Long-Range Electronic Interactions
+Quantum dots and artificial atoms
+Nonequilibrium Magnetization Dynamics of Nickel
+Does femtosecond time-resolved second-harmonic generation probe electron temperatures at surfaces?
+Experimental studies of T--shaped quantum dot transistors: phase-coherent electron transport
+Electronic Raman Scattering in Nearly Antiferromagnetic Fermi Liquids
+Localization and exact current compensation in the quantum Hall effect
+Quantum interference and electron-electron interactions at strong spin-orbit coupling in disordered systems
+Absence of Cooper-type bound states in three- and few-electron systems
+Direct determination of the electron-electron mean free path in diffusive mesoscopic samples using shot noise
+From the Kondo Regime to the Mixed-Valence Regime in a Single-Electron Transistor
+Quadratic response theory for the interaction of charged particles with an electron gas
+Stability of the maximum density droplet in quantum dots at high magnetic fields
+Superconductivity in correlated disordered two-dimensional electron gas
+Geometric (Berry) phases and statistical transmutation in the two-dimensional systems of strongly correlated electrons
+Extending Linear Response: Inferences from Electron-Ion Structure Factors
+Many-body Effects in Angle-resolved Photoemission: Quasiparticle Energy and Lifetime of a Mo(110) Surface State
+Phase transitions of electron-hole and unbalanced electron systems in coupled quantum wells in high magnetic field
+Stripe formation in electron-doped cuprates
+Coupled phonon-ripplon modes in a single wire of electrons on the liquid-helium surface
+The delocalization problem of two interacting electrons in a two-dimensional random potential
+Exact ground state for 1D electronic models
+Dipole scattering in polarization induced two-dimensional electron gases
+Magnetoresistance of a two-dimensional electron gas in a parallel magnetic field
+Theory for Electron-Doped Cuprate Superconductors: d-wave symmetry order parameter
+Spin and Charge Luttinger-Liquid Parameters of the One-Dimensional Electron Gas
+Plasma dispersion of multisubband electron systems over liquid helium
+The Effect of Interaction on Shot Noise in The Quantum Limit
+Electron-Phonon Dynamics in an Ensemble of Nearly Isolated Nanoparticles
+Two electrons in a two dimensional random potential: exchange, interaction and localization
+Effects of Next-Nearest-Neighbor Repulsion on One-Dimensional Quarter-Filled Electron Systems
+Theory of the Reentrant Charge-Order Transition in the Manganites
+A single-electron inverter
+Influence of nano-mechanical properties on single electron tunneling: A vibrating Single-Electron Transistor
+Spin Polarization of Two-Dimensional Electrons Determined from Shubnikov-de Haas Oscillations as a Function of Angle
+Chaos and Interactions in Quantum Dots
+Nonequilibrium Electron Distribution in Presence of Kondo Impurities
+Hot Electron Magnetotransport in a Spin-Valve Transistor at Finite temperatures
+Electron correlation effects in the presence of non-symmetry dictated nodes
+Many-Electron Systems with Constrained Current
+Electron Fractionalization
+Electronic States in the Antiferromagnetic Phase of Electron-Doped High-Tc Cuprates
+Interaction of a quantum dot with an incompressible two-dimensional electron gas
+Influence of Magnetic Field on Effective Electron-Electron Interactions in a Copper Wire
+Combining quantum and classical density functional theory for ion-electron mixtures
+Peierls instability with electron-electron interaction: the commensurate case
+Absence of electron dephasing at zero temperature
+Numerical Renormalization Group Study of the Anderson-Holstein Impurity Model
+Electrons in a ferromagnetic metal with a domain wall
+Excitonic condensation in a symmetric electron-hole bilayer
+Two-dimensional few electron systems in high magnetic fields: Composite-fermion or rotating-electron-molecule approach?
+Transport, Noise, and Conservation in the Electron Gas: How to Build a Credible Mesoscopic Theory
+Quasi-two-dimensional organic superconductors: a review
+Electronic correlation in the quantum Hall regime
+Relaxation of Shallow Donor Electron Spin due to Interaction with Nuclear Spin Bath
+Electronic structure and magnetic properties of correlated metals: A local self-consistent perturbation scheme
+Quantum-dot lithium in strong-interaction regime: Depolarization of electron spins by magnetic field
+Two ground-state modifications of quantum-dot beryllium
+Theory of superconducting fluctuations in the thinest carbon nanotubes
+Valley splitting of AlAs two-dimensional electrons in a perpendicular magnetic field
+Optical response of two-dimensional electron fluids beyond the Kohn regime: strong non-parabolic confinement and intense laser light
+Electron dephasing near zero temperature: an experimental review
+Charged vortices in superfluid systems with pairing of spatially separated carriers
+Electron-Phonon Interaction in NbB_2 : A Comparison with MgB_2
+Valence electron distribution in MgB2 studied by accurate diffraction measurements and first principle calculations
+Pair densities at contact in the quantum electron gas
+Surface effects on the electronic energy loss of charged particles entering a metal surface
+Electronic transmission of a nanowire partly irradiated under terahertz electromagnetic field
+Current hysteresis and memory effect in a molecular quantum dot with strong electron-vibron interaction
+Glass Transition in a Two-Dimensional Electron System in Silicon
+Hall Coefficient in an Interacting Electron Gas
+Spin Relaxation of Conduction Electrons in Semiconductors Due to Interaction with Nuclear Spins
+Electron-electron interaction corrections to the thermal conductivity in disordered conductors
+Electron-hole asymmetry is the key to superconductivity
+On the Ordering Instability of Weakly-Interacting Electrons in a Dirty Metal
+Fractional charge in electron clusters: Interpretation of Mani and von Klitzing quantum Hall effect data
+Temperature dependent effective mass renormalization in 2D electron systems
+Spin relaxation in n-doped gallium arsenide due to impurity and electron-electron Elliot-Yafet scattering
+Novel interaction induced oscillations in correlated electron transport
+Atomic structure and electronic properties of the cleavage InAs(110) surface
+Semiclassical action based on dynamical mean-field theory describing electrons interacting with local lattice fluctuations
+Tunneling Density of States of the Interacting Two-Dimensional Electron Gas
+Spontaneous Magnetization and Electron Momentum Density in 3D Quantum Dots
+D'yakonov-Perel' spin relaxation under electron-electron collisions in n-type QWs
+Temperature dependent transport of correlated disordered electrons: elastic vs. inelastic scattering
+Interlayer hopping properties of electrons in layered metals
+Fluctuations of g-factors in metal nanoparticles: Effects of electron-electron interaction and spin-orbit scattering
+Kagomé in triangular lattice: electronic state of CoO_2 layer with hexagonal structure
+Quantum dots as scatterers in electronic transport : interference and correlations
+Kelvin Probe Spectroscopy of a Two-Dimensional Electron Gas Below 300 mK
+Electron correlation effects on the dielectric function of liquid metals
+Density of states of the interacting two-dimensional electron gas
+Current heating of a magnetic 2DEG in HgMnTe/HgCdTe quantum wells
+Kondo Effect and Surface-State Electrons
+Tunneling in mesoscopic junctions
+Electron channels in biomolecular nanowires
+Ground state, electronic structure and magnetism of LaMnO3
+Bose-Einstein Condensation of Excitons in Bilayer Electron Systems
+Dynamic response functions for the Holstein-Hubbard model
+Correlation between electrons and vortices in quantum dots
+Electron correlations, spontaneous magnetization and momentum density in quantum dots
+Electron-phonon interaction enhanced by antiferromagnetic and superconducting fluctuations in cuprate oxide superconductors
+Strong electron correlation effects in non-volatile electronic memory devices
+Resonant Transmission through Double Quantum Dots: Model and Numerical Results
+Optically induced spin polarization of an electric current through a quantum dot
+Cotunneling Spectroscopy in Few-Electron Quantum Dots
+Nonlinear response of Bloch electrons in infinite dimensions
+Orbital Symmetry and Electron Correlation in Na_{x}CoO_2
+Two dimensional electron gas driven by strong alternating electric field
+Electron Dynamics in a DNA Molecule
+Many-Body Effects on Tunneling of Electrons in Magnetic-Field-Induced Quasi One-Dimensional Electron Systems in Semiconductor Nanowhiskers
+Localization of electronic states by fullerene charges in carbon nanotubes
+Nonadiabatic Electron Manipulation in Quantum-Dot Arrays
+k-dependent spectrum and optical conductivity near metal-insulator transition in multi-orbital Hubbard bands
+Devil's staircase of incompressible electron states in a nanotube
+Confined free-electrons in an applied electric field: Discontinuous electron density
+Resonator design for surface electron lifetime studies using scanning tunneling spectroscopy
+Ferromagnetism of Weakly-Interacting Electrons in Disordered Systems
+Electron cyclotron mass in undoped CdTe/CdMnTe quantum wells
+Mécanismes fondamentaux de l'ablation laser femtoseconde en "flux intermédiaire"
+Band-selective Measurement of Electronic Dynamics in VO2 using Femtosecond Near Edge X-ray Absorption
+Dephasing from electron fractionalization
+General Electrical Manipulations of Electron Spin
+Finite E x beta Jahn-Teller Systems: A Continued-Fraction Approach
+Screening in the two-dimensional electron gas with spin-orbit coupling
+PM-FM transition in a DE model
+Magnetic properties of correlated electrons
+Many-Body Electronic Structure of Americium metal
+Bandgap Narrowing in Quantum Wires
+Umklapp frustration and field-theoretic approach to superconductivity
+Electronic band structure and Fermi surface of Ag$_5$Pb$_2$O$_6$
+Nearly free electrons in the layered oxide superconductor Ag5Pb2O6
+Understanding the bulk electronic structure of Ca1-xSrxVO3
+One-dimensional semirelativity for electrons in carbon nanotubes
+Electronic structure and crystal-field states in V2O3*
+Triplet pairing due to spin-orbit-assisted electron-phonon coupling
+Attractive electron-electron interaction induced by geometric phase in a Bloch band
+Spin orientation of a two-dimensional electron gas by a high-frequency electric field
+Evolution of the conductivity of potassium-doped pentacene films
+Role of electron-electron and electron-phonon interaction effect in the optical conductivity of VO2
+Interplay between local electron correlation and Janh-Teller electron-phonon interaction
+Deformation of anisotropic Fermi surfaces due to electron-electron interactions
+Vibronic solitons in a (nearly-) degenerate electronic system along a 1-D chain
+Weak Localization Effects On The Electron-Phonon Interaction In Disordered Metals
+Comment on Phys. Rev. Lett.'s paper "All-Electron Self-Consistent GW Approximation: Application to Si, MnO, and NiO": band vs localized description of NiO
+Valley susceptibility of an interacting two-dimensional electron system
+Renormalization of Molecular Electronic Levels at Metal-Molecule Interfaces
+Vibronic effects on resonant electron conduction through single molecule junctions
+Ballistic electron spectroscopy
+Room temperature electron spin coherence in telecom-wavelength quaternary quantum wells
+The Density of States in the Two-Dimensional Electron Gas and Quantum Dots (Ph.D. thesis, Cornell University, January 1991)
+Spin Lifetime in Electron-Doped InP Quantum Dots
+Electronic Properties of the Hubbard Model on a Frustrated Triangular Lattice
+Multicomponent Density-Functional Theory for Electrons and Nuclei
+Quantum entanglement generation with surface acoustic waves
+Electron-Phonon Mass Enhancement in Multi-Layers
+Non-Gaussian Dephasing of an Electronic Mach-Zehnder Interferometer Coupled to "Which Path" Detector
+Magnetic state and electronic structure of plutonium from ``first principles'' calculations
+Nernst effect in semi-metals: the meritorious heaviness of electrons
+Curvature effects on surface electron states in ballistic nanostructures
+Cross-over behavior of disordered interacting two-dimensional electron systems in a parallel magnetic field
+Detection of spin polarized currents in quantum point contacts via transverse electron focusing
+Single-site Anderson Model. I Diagrammatic theory
+Cooperative Effect of Electron Correlation and Spin-Orbit Coupling on the Electronic and Magnetic Properties of Ba2NaOsO6
+Effect of electron and hole doping on the structure of C, Si, and S nanowires
+Electron turbulence at nanoscale junctions
+Transverse transport in graphite
+Simple-layered high mobility field effect heterostructured two-dimensional electron device
+Electronic Enhancements in the Detection of Gravitational Waves by Metallic Antennae
+Neural Network based Electron Identification in the ZEUS Calorimeter
+Noninvasive measurement of micron electron beam size of high energy using diffraction radiation
+Production of the Lightest Supersymmetric Particle in Electron-Photon Collisions
+Dynamical zeros in neutrino-electron elastic scattering at leading order
+Resolved Electron
+Current tensor with heavy photon for hard pair production by longitudinally polarized electron
+QED Corrections to the Scattering of Solar Neutrinos and Electrons
+Remarks on the Electron Structure Function
+Self-energy correction to the bound-electron g factor in H-like ions
+Spin Effects in the Electron Structure Functions
+Analogy between free electron laser and channeling by crystal planes
+Study of the Fundamental Structure of Matter with an Electron-Ion Collider
+Two electrons in an external oscillator potential: hidden algebraic structure
+A One-Dimensional Model for Many-Electron Atoms in Extremely Strong Magnetic Fields: Maximum Negative Ionization
+Enhanced electron-phonon coupling at the Mo and W(110) surfaces induced by adsorbed hydrogen
+High-$p_{T}$ electron distributions in d+Au and p+p collisions at RHIC
+Competition of electron capture and beta-decay rates in supernova collapse
+Electron scattering on halo nuclei
+Two-electron self-energy contribution to the ground state energy of heliumlike ions
+A Compton Backscattering Polarimeter for Measuring Longitudinal Electron Polarization
+Simulation of Laser-Compton Cooling of Electron Beams
+Enhanced Pitch Angle Diffusion due to Electron-Whistler Interactions during Disturbed Times
+Coordinate-space approach to the bound-electron self-energy: Self-Energy screening calculation
+Electron recombination with multicharged ions via chaotic many-electron states
+Angular versus radial correlation effects on momentum distributions of light two-electron ions

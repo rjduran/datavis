@@ -1,0 +1,35 @@
+i,cat1,cat2,cat3,cat4,cat5,cat6,cat7
+1,conservation,cap-and-trade ,clean energy economy,eco,biodegradable ,biomimicry,bioenergy
+2,environment ,carbon tax ,clean energy act ,chic,emissions ,biosphere,biofuel
+3,restoration,fair trade,climate change ,friendly,offset,biodiversity,alternative
+4,greenfield,business,issues,savvy,certified,air pollution ,cleantech 
+5,landfill,jobs,protection,ecolabel,organic,particulates  ,clean
+6,land,collar,global warming,emissions,sequestration ,carbon dioxide,efficiency
+7,mother,economy,going,footprint,downcycle,ecological,efficient
+8,earth,entrepreneur,green,impact,compost ,ecology,cradle to cradle
+9,national wildlife federation,marketing,green jobs act,environmentally friendly,,ecosystem,ewaste
+10,native,consumer,kyoto protocol,fair trade,farmers market,fossil fuel,car
+11,resources,investing,oil,freegan,farm to table,greenhouse,electronic
+12,ozone,slow money,,guerilla,food miles,gscm,free
+13,rainforest,clean energy economy,,local,free range,hydrocarbons ,fuel cell
+14,water,business,,locavore,grey water,life cycle,geothermal energy
+15,neutral,product,,mother earth news,horticulture,nitric oxide ,building
+16,fish,washing,,negawatt,living roof ,ocean,energy
+17,,,,slow,nonrenewable,particulate,design
+18,,,,travel,off grid,pollution,leed
+19,,,,environmental,offsetting,sulfur dioxide ,lohas 
+20,,,,,peat free,waste management,photovoltaic
+21,,,,,permaculture,waste to energy,pv
+22,,,,,recyclable,wastewater ,rainwater harvesting
+23,,,,,recycle,,solar cell
+24,,,,,recycling,,solar cells
+25,,,,,renewable energy,,solar dryer
+26,,,,,solar,,solar energy
+27,,,,,solar power,,solar heating
+28,,,,,sustainability ,,solar panel
+29,,,,,zero,,solar panels
+30,,,,,landscape,,solar thermal
+31,,,,,carbon,,solar trough
+32,,,,,upcycled ,,solar water heater
+33,,,,,offsetting,,wave
+34,,,,,,,wind

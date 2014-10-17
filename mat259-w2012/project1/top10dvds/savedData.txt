@@ -1,0 +1,11 @@
+SELECT title, itemtype, count(*) FROM transactions2011 WHERE year(ckoutDateTime) = '2011' and itemtype like '%dvd%' GROUP BY title ORDER BY count(*) DESC LIMIT 10;
+Salt,acdvd,3283
+kids are all right,acdvd,3120
+Inception,acdvd,3112
+social network,acdvd,3080
+Despicable me,jcdvd,3038
+American,acdvd,2980
+Red,acdvd,2963
+Winters bone,acdvd,2916
+town,acdvd,2891
+Alice in Wonderland,jcdvd,2885

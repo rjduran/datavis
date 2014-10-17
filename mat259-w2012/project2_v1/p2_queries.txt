@@ -1,0 +1,35 @@
+These are the queries used for collecting information. 
+keyword = keywords used to search for in titles and subjects
+category-keyword = keywords used to classify items into categories based on title and subject
+ignore-keywords = keywords to ignore in titles and subjects
+
+
+QUERY1
+
+SELECT title, subj, count(*), count(distinct barcode) as distinctItems, AVG(TIMESTAMPDIFF(DAY,cout,cin)) as avgDaysOut, year(cout) as year, month(cout) as month, floor(deweyClass/10)*10 as dewey, itemtype,  
+IF(title like '%category-keyword%' or..., '1', '0') as cat1, 
+IF(title like '%category-keyword%' or…, '1', '0') as cat2, 
+IF(title like '%category-keyword%' or…, '1', '0') as cat3, 
+IF(title like '%category-keyword%' or…, '1', '0') as cat4, 
+IF(title like '%category-keyword%' or…, '1', '0') as cat5, 
+IF(title like '%category-keyword%' or…, '1', '0') as cat6, 
+IF(title like '%category-keyword%' or…, '1', '0') as cat7
+FROM inraw 
+WHERE (year(cout) = '2011' AND month(cout) > 0 AND month(cout) < 13) 
+AND ((title like '%keyword%' or...) AND NOT (title like '%ignore-keyword%' or...) 
+AND (subj like '%keyword%' or...) AND NOT (subj like '%ignore-keyword%' or...)) 
+AND (itemtype = 'acbk' or itemtype = 'arbk' or itemtype = 'acper' or itemtype = 'arper' or itemtype = 'arnp') 
+GROUP BY month, title 
+ORDER BY year DESC, month ASC, count(*) DESC;
+
+
+QUERY2
+
+SELECT year(cout), month(cout), day(cout), count(*) 
+FROM inraw 
+WHERE year(cout) = '2011' AND month(cout) >= '01' AND month(cout) <=12 
+AND ((title like '%keyword%' or...) AND NOT (title like '%ignore-keyword%' or...) 
+AND (subj like '%keyword%' or...) AND NOT (subj like '%ignore-keyword%' or...)) 
+AND (itemtype = 'acbk' or itemtype = 'arbk' or itemtype = 'acper' or itemtype = 'arper' or itemtype = 'arnp') 
+GROUP BY date(cout) 
+ORDER BY date(cout) ASC;

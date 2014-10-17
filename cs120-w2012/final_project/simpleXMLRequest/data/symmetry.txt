@@ -1,0 +1,2001 @@
+ArXiv Query: search_query=all:symmetry&id_list=&start=0&max_results=10000
+Partial Dynamical Symmetry as an Intermediate Symmetry Structure
+Symmetries of the Standard Model
+Nonlocal symmetries of systems of evolution equations
+Nonlinear Realizations of Supersymmetry and Other Symmetries
+Symmetry and Dynamics of A Magnetic Oscillator
+Specific propagation directions for media of rhombic symmetry
+Quantum Space-Time: Deformed Symmetries Versus Broken Symmetries
+A symmetry for vanishing cosmological constant
+Jacobi's last multiplier and the complete symmetry group of the Euler-Poinsot system
+On group classification of evolution equations admitting non-local symmetries
+Twisted symmetries and integrable systems
+Approximate symmetries of geodesic equations on 2-spheres
+Differential Invariants and Hidden Symmetry
+Symmetries of Symmetry Breaking Constraints
+Broken Time Translation Symmetry as a model for Quantum State Reduction
+Signatures of discrete symmetries in the scalar sector
+The Dual Faces of String Theory
+Constant Mean Curvature n-noids with Platonic Symmetries
+SU(2) symmetry in a Hubbard model with spin-orbit coupling
+Symmetries in Nuclei
+The Gardner method for symmetries
+Comment on ``A New Symmetry for QED'' and ``Relativistically Covariant Symmetry in QED''
+Noether Symmetries and Critical Exponents
+Symmetry Breaking for Answer Set Programming
+Group Analysis of Born-Infeld Equation
+Symmetry protected topological phases in non-interacting fermion systems
+Renormalization by enforcing a symmetry
+The Role of Three-dimensional Subalgebra in the Analysis of Hidden Symmetries of Differential Equations
+Generalization of Friedberg-Lee Symmetry
+Symmetry problems 2
+Generalized CP symmetries and special regions of parameter space in the two-Higgs-doublet model
+Symmetries of Symmetry Breaking Constraints
+Discrete Gauge Symmetries in Axionic Extensions of the SSM
+Chiral Symmetry, Heavy Quark Symmetry and Bound States
+Poisson Lie Group Symmetries for the Isotropic Rotator
+Relativistically Covariant Symmetry in QED
+2 and 3-dimensional Hamiltonians with Shape Invariance Symmetry
+Lie Point Symmetries and Commuting Flows for Equations on Lattices
+Continuous Symmetries of the Lattice Potential KdV Equation
+C^{1/2}P^{1/2}T^{1/2} Symmetry of the Chaotic Inflation Dynamics
+Infinite-dimensional symmetry for wave equation with additional condition
+Approximate Symmetries of Lagrangians for Plane Symmetric Gravitational Wave-Like Spacetimes
+Systems with Symmetry Breaking and Restoration
+Geometric symmetries on Lorentzian manifolds
+Theories on noncommutative spaces and deformed symmetries
+Symmetry classification of Newtonian incompressible fluid's equations flow in turbulent boundary layers
+Symmetry Analysis of Telegraph Equation
+Faddeev-type equations for three-body symmetry violating scattering amplitudes
+Symmetry analysis of crystalline spin textures in dipolar spinor condensates
+On symmetries of elasticity tensors and Christoffel matrices
+A Discussion on the Different Notions of Symmetry of Differential Equations
+The secret symmetries of the AdS/CFT reflection matrices
+Symmetry classification and conservation laws for higher order Camassa-Holm equation
+Lie group analysis for short pulse equation
+Classification of Generalized Symmetries for the Vacuum Einstein Equations
+Spin-Flavour Symmetry and Contractions Towards Classical Space-Time Symmetry
+Hopf symmetry breaking and confinement in (2+1)-dimensional gauge theory
+Macroscopic Symmetry Group Describes Josephson Tunneling in Twinned Crystals
+Quantum Symmetry of Hubbard Model Unraveled
+Magnetic field inversion symmetry in quantum pumps with discrete symmetries
+Symmetry Non-restoration at High Temperature
+Mirror Manifolds: A Brief Review and Progress Report
+How to find discrete contact symmetries
+Applications of Symmetry Methods to the Theory of Plasma Physics
+The lattice Schwarzian KdV equation and its symmetries
+Symmetries and conservation laws in the Gunther k-symplectic formalism of field theory
+Point symmetries in the Hartree-Fock approach: Densities, shapes and currents
+Diffeomorphism symmetry in quantum gravity models
+Symmetry Extensions and Their Physical Reasons in the Kinetic and Hydrodynamic Plasma Models
+Symmetries and symmetry breaking patterns in QCD: chiral and deconfinement transitions
+Exact Duality Symmetries in CFT and String Theory
+Breaking Value Symmetry
+Charge Symmetry at the Partonic Level
+Conditional symmetries for systems of PDEs: new definitions and their application for reaction-diffusion systems
+Gauge non-invariance as tests of emergent gauge symmetry
+Symmetries, weak symmetries and related solutions of the Grad-Shafranov equation
+General framework for non-abelian symmetries in tensor networks
+Pairing symmetry and long range pair potential in a weak coupling theory of superconductivity
+Integration of Third Order Ordinary Differential Equations Possessing Two-Parameter Symmetry Group by Lie's Method
+About the Origin of the Division between Internal and External Symmetries in Quantum Field Theory
+Is a nonclassical symmetry a symmetry?
+Determination of the symmetries of an experimentally determined stiffness tensor; application to acoustic measurements
+Continuous symmetry of C60 fullerene and its derivatives
+Temperature effects on the nuclear symmetry energy and symmetry free energy with an isospin and momentum dependent interaction
+Semiclassical transport in nearly symmetric quantum dots I: symmetry-breaking in the dot
+The Symmetry, Color, and Morphology of Galaxies
+Symmetries of Taub-NUT Dual Metrics
+Ginsparg-Wilson-Luscher Symmetry and Ultralocality
+Spontaneous symmetry breaking in strong-coupling lattice QCD at high density
+Discrete Symmetries from Broken $SU(N)$ and the MSSM
+Neutrino Mass Models with an Abelian Family Symmetry
+Flavour symmetry as a Spontaneously Broken Discrete Permutation Symmetry Embedded in Colour
+Excited Heavy Baryons and Their Symmetries I: Formalism
+Constraints on Parton Charge Symmetry and Implications for Neutrino Reactions
+Comments on a Flavor Symmetry
+Enhanced Gauge Symmetry in M-Theory
+``Induced'' Super-Symmetry Breaking with a Vanishing Vacuum Energy
+New Algebra of Local Symmetries for Regge Limit of Yang-Mills Theories
+Discrete symmetries of unitary minimal conformal theories
+Anomalous U(1) gauge symmetries and heterotic-typeI/II string duality
+Gauge symmetry enhancement in Hamiltonian formalism
+Re-Interpretation of Spontaneous Symmetry Breaking in Quantum Field Theory and Goldstone Theorem
+Reversing Symmetry Groups of Cat Maps
+Symmetries and reversing symmetries of toral automorphisms
+A Necessary Condition for existence of Lie Symmetries in Quasihomogeneous Systems of Ordinary Differential Equations
+Higher Symmetries of the Square of the Laplacian
+On the notion of conditional symmetry of differential equations
+Symmetry, singularities and integrability in complex dynamics III: approximate symmetries and invariants
+Symmetry Properties of Autonomous Integrating Factors
+The Resurrection of a Symmetry in Nucleon - Nucleus Scattering
+IBM: parameter symmetry, hidden symmetries and transformations of boson operators
+U(3) and Pseudo-U(3) Symmetry of the Relativistic Harmonic Oscillator
+Normal Form, Symmetry and Infinite Dimensional Lie Algebra for System of Ode's
+Symmetry Adaptation Techniques in n-Photon Absorption Spectroscopy
+Can spontaneous symmetry breaking occur in potential with one minima?
+Quasi dynamical symmetry in an interacting boson model phase transition
+On time-dependent symmetries and formal symmetries of evolution equations
+String-derived D4 flavor symmetry and phenomenological implications
+Tunneling through Quantum Dots with Discrete Symmetries
+Mass Matrix Model Broken From A4 To 2 $\leftrightarrow$ 3 Symmetry
+Flavor Symmetry Breaking and Vacuum Alignment on Orbifolds
+Non-Abelian Discrete Groups from the Breaking of Continuous Flavor Symmetries
+Loss of exchange symmetry in multiqubit states under Ising chain evolution
+Hall detection of time-reversal symmetry breaking under AC electric driv ing
+Duality symmetry in high energy scattering
+Spontaneous breaking of symmetry in Moyal spacetime with twisted Poincaré symmetry
+Various forms of BRST symmetry in Abelian 2-form gauge theory
+Symmetry within Solutions
+CP properties of symmetry-constrained two-Higgs-doublet models
+Parity Symmetry in QED3
+Holographic Symmetry-Breaking Phases in AdS$_3$/CFT$_2$
+Sensitivity of the transverse flow towards symmetry energy
+Symmetry algebra of discrete KdV equations and corresponding differential-difference equations of Volterra type
+Dynamical Symmetries of Dirac Hamiltonian
+Yangian Symmetry in N=4 super Yang-Mills
+Chiral Scale and Conformal Invariance in 2D Quantum Field Theory
+Assesment of multifragmentation under the effect of symmetry energy and cross-section
+Poincaré gauge symmetries, hamiltonian symmetries and trivial gauge transformations
+Symmetry Breaking Bulk Effects in Local D-brane Models
+Holographic Symmetry Energy of the Nuclear Matter
+Formation of aeroplane-like ZnO and tetrahexahedral Pt nanocrystals: systemic symmetry and symmetry breaking during nanocrystallization
+On the symmetry of excitations in SU(2) Bethe Ansatz systems
+More on Symmetries in Heavy Quark Effective Theory
+Extra Dimension Kaluza-Klein Excitations and Electroweak Symmetry Breaking
+Solar Neutrino Solutions in Non-Abelian Flavor Symmetry
+Is There An Ultimate Symmetry in Physics?
+Three Lectures on Chiral Symmetry
+Neutrino flavor mixing in an SU(3) symmetry for light neutrinos
+Particle interactions, masses and the symmetry breaking
+Quantum Symmetries in 2D Massive Field Theories
+Symmetries and symmetry-breaking in string theory
+Virasoro-type Symmetries in Solvable Models
+Asymptotic freedom and Confinement imply spontaneously broken chiral symmetry in Quantum Chromodynamics
+On the Grushin operator and hyperbolic symmetry
+Symmetry groups and Lagrangians associated to Tzitzeica surfaces
+New Symmetry Groups for Generalized Solutions of ODEs
+Nonclassical symmetry and Riemann invariants
+The symmetries of the Fokker - Planck equation in three dimensions
+Relativistic Pseudospin Symmetry in Nuclei
+Deformed Lorentz Symmetry and High-Energy Astrophysics (I)
+Existence and symmetry of minimizers for nonconvex radially symmetric variational problems
+General Results on Conditional Symmetry for the Two-Dimensional Nonlinear Wave Equation
+Time-Reversal Symmetry Breaking and Spontaneous Anomalous Hall Effect in Fermi Fluids
+Stable symmetries of plane sextics
+Ext-symmetry over quantum complete intersections
+Tetraquark Spectroscopy: A Symmetry Analysis
+A characterization of the Maass space on O(2, m+2) by symmetries
+Quantiles symmetry
+A further extension to the group of Ginsparg-Wilson (overlap) chiral symmetries
+Cohomological symmetry in triangulated categories
+The Berglund-Hübsch-Chiodo-Ruan mirror symmetry for K3 surfaces
+Symmetries on the lattice of $k$-bounded partitions
+Symmetry Properties of Anisotropic Superfluids
+Full replica symmetry breaking in generalized mean--field spin glasses with reflection symmetry
+SO(3,2)/Sp(2) symmetries in BTZ black holes
+Topics in String Phenomenology
+Explicit Electroweak symmetry breaking?
+Combining Vector-- and Heavy Quark Symmetry
+Heavy Higgs: Is the Gauge Symmetry Restored in the Early Universe?
+Theory of electroweak interactions without spontaneous symmetry breaking
+On Quark-Lepton Symmetry
+Flavor Symmetry on Non-Commutative Compact Space and $SU(6) \times SU(2)_R$ Model
+Phenomenological approach to symmetry breaking pattern of democratic mass matrix
+Family Hierarchy from Symmetry Breaking
+Parity Violation in Chiral Symmetry Breaking and Neutrino
+Probing the Fundamental Symmetries of the Early Universe: The Low Energy Frontier
+On quantum group symmetries of conformal field theories
+Symmetries of the Dissipative Hofstadter Model
+Loop Algebra Symmetries and Commuting Flows for the Kadomtsev-Petviashvili Hierarchy
+Assumption of nonvanishingness of vacuum expectation of the scalar field for spontaneous symmetry breaking is superfluous
+Space-time Uncertainty Principle from Breakdown of Topological Symmetry
+Dressing Symmetries of Holomorphic BF Theories
+Topological Symmetries
+Note on the dual BRST Symmetry in U(1) Gauge Theory
+Symmetry Nonrestoration in a Gross-Neveu Model with Random Chemical Potential
+Classical Mechanics and kappa-symmetry
+Chiral Symmetry and Vertex Symmetry in the Extended Moeller-Rosenfeld Model
+PT-symmetry, ghosts, supersymmetry and Klein-Gordon equation
+Space-time symmetry of noncommutative field theory
+Clash of Symmetries in a Brane World Picture
+Forced symmetry-breaking via boundary conditions
+Symmetries and reversing symmetries of polynomial automorphisms of the plane
+Poisson actions up to homotopy and their quantization
+On the symmetry breaking phenomenon
+Remark on conservation laws associated with non-Noether symmetries
+Non-Noether symmetries in Hamiltonian Dynamical Systems
+Symmetry properties of some Euler-type equations in plasma physics
+Lambda and mu-symmetries
+A new attempt towards the unification of space-time and internal gauge symmetries
+Point Symmetries of Generalized Toda Field Theories II Applications of the Symmetries
+Partial Dynamical Symmetry in Deformed Nuclei
+Violation of pseudospin symmetry in nucleon-nucleus scattering: exact relations
+Nuclear Tetrahedral Symmetry
+Understanding Permutation Symmetry
+Symmetries in Physics: Philosophical Reflections
+Virasoro Symmetry Algebra of Dirac Soliton Hierarchy
+Extension of Hereditary Symmetry Operators
+Cosmological Symmetry Breaking, Pseudo-scale invariance, Dark Energy and the Standard Model
+Helical Symmetry in Linear Systems
+Symmetry aspects of nonholonomic field theories
+Relativistic dissipative hydrodynamics with spontaneous symmetry breaking
+Classical Duality Symmetries in Two Dimensions
+Dyson's new symmetry and generalized Rogers-Ramanujan identities
+Electroweak symmetry breaking in other terms
+Further Study of an Approach to the Unification of Gauge Symmetries in Theories with Dynamical Symmetry Breaking
+Symmetry Reduction of Lane-Emden Equation for Polytropes
+Approximate Noether Symmetries of the Geodesic Equations for the Charged-Kerr Spacetime and Rescaling of Energy
+On the Ermakov systems and nonlocal symmetries
+Suppression of selection among broken-symmetry states by cross-correlated noises in double-well system
+Nonlocal symmetries of evolution equations
+Symmetry, Conserved Charges, and Lax Representations of Nonlinear Field Equations: A Unified Approach
+Common gauge origin of discrete symmetries in observable sector and hidden sector
+Roberge-Weiss phase transitions and extended Z3 symmetry
+Symmetries in Linear and Integer Programs
+Breaking Generator Symmetry
+Radiative Symmetry Breaking of the Minimal Left-Right Symmetric Model
+Topological Symmetry Groups of K_{4r+3}
+Horizontal Symmetry from the Bottom Up
+Current reversals in a rocking ratchet: dynamical vs symmetry-breaking mechanisms
+Efficient Symmetry Reduction and the Use of State Symmetries for Symbolic Model Checking
+Group classification of steady two-dimensional boundary-layer stagnation-point flow equations
+New Symmetries in Crystals and Handed Structures
+Parameterized Complexity Results in Symmetry Breaking
+Coulomb-driven broken-symmetry states in doubly gated suspended bilayer graphene
+Applications of hidden symmetries to black hole physics
+Violations of parity and charge conjugation in the theta vacuum with imaginary chemical potential
+Discrete R symmetries for the MSSM and its singlet extensions
+Towards a complete classification of 1D gapped quantum phases in interacting spin systems
+Particle-wave duality: a dichotomy between symmetry and asymmetry
+Lie symmetries of radiation natural convection flow past an inclined surface
+Embedded Representations and Quasi-Dynamical Symmetry
+Nonlocal Charges for Bonus Yangian Symmetries of Super-Yang-Mills
+Short-range tensor interaction and high-density nuclear symmetry energy
+Quantum Monte Carlo facing the Hartree-Fock symmetry dilemma: The case of hydrogen rings
+Infinitesimal Symmetries of Dixmier-Douady Gerbes
+Symmetries and Conservation Laws for the 2D Ricci Flow Model
+Lie symmetries and conservation laws of the Hirota-Ramani equation
+Dual BRST symmetry in 6D Abelian 3-form gauge theory
+Approximate homotopy series solutions of perturbed PDEs via approximate symmetry method
+The Quantum Affine Origin of the AdS/CFT Secret Symmetry
+Weak convergence of Markovian random evolution in a multidimensional space
+Group Analysis of the Novikov Equation
+Tensor Network States and Algorithms in the presence of Abelian and non-Abelian Symmetries
+The Nature of the Chemical Process. 1. Symmetry Evolution - Revised Information Theory, Similarity Principle and Ugly Symmetry
+Speeding up SAT solver by exploring CNF symmetries : Revisited
+Flavor Symmetry and Nuclear Symmetry Energy for Compact Stars
+Pseudospin Symmetry, Peierls Instability, and Charge Density Wave in a One-Dimensional Tight-Binding Model
+Phase-Sensitive Tetracrystal Pairing-Symmetry Measurements and Broken Time-Reversal Symmetry States of High Tc Superconductors
+Symmetry and designability for lattice protein models
+Explicit and Hidden Symmetries in Quantum Dots and Quantum Ladders
+Inverse Symmetry Breaking in Multi-Scalar Field Theories
+Polynomial Time Symmetry and Isomorphism Testing for Connected Graphs
+Axial symmetry and conformal Killing vectors
+Quantum field theory and its symmetry reduction
+Evidence for SU(3) symmetry breaking from hyperon production
+Intermediate Symmetries in the Spontaneous Breaking of Supersymmetric SO(10)
+Models of Flavor with Discrete Symmetries
+Horizontal symmetry in Higgs sector of GUT with U(1)_A symmetry
+Spacetime Diffeomorphisms and Topological W-Infinity Symmetry in Two Dimensional Topological String Theory
+A New Symmetry for QED
+Generalising The Concept Of Maximal Symmetry Of Spacetimes In The Presence Of Torsion
+FADDEEV-JACKIW APPROACH TO HIDDEN SYMMETRIES
+Topological Symmetry Breaking on Einstein Manifolds
+Georgi-Goldstone realization of Chiral Symmetry in Quantum Chromodynamics
+D0 and D1 Brane With $κ_-$ and $κ_+$ Extended Symmetry
+Energy-momentum conservation laws in gauge theory with broken gauge symmetries
+Perturbative Derivation of Mirror Symmetry
+Symmetries in Constrained Systems
+Few exact results on gauge symmetry factorizability on intervals
+A remark on the symmetries of the Riemann curvature tensor
+A characterization of the Fermat quartic K3 surface by means of finite symmetries
+Classification of generalized symmetries of the Yang-Mills fields with a semi-simple structure group
+Influence of symmetry breaking on the fluctuation properties of spectra
+Microscopic analysis of quadrupole collective motion in Cr--Fe nuclei: II. Doorway nature of mixed-symmetry states
+Isospin asymmetry in nuclei and nuclear symmetry energy
+Compactification of the moduli space in symplectization and hidden symmetries of its boundary
+Magnetic field with cylindrical symmetry
+Generalized KP hierarchy: Möbius Symmetry, Symmetry Constraints and Calogero-Moser System
+Absence of time-reversal symmetry breaking in association with the order parameter of Cooper pair in high $T_c$ superconductivity
+Emergence of Symmetry in Complex Networks
+Symmetry p-adic invariant integral on Z_p for Bernoulli and euler polynomials
+On the Ambiguity of Spontaneously Broken Gauge Symmetry
+Gap symmetries from the neighbor coupling in square-lattice superconductors
+A p-adic proof of Hodge symmetry for threefolds
+An Identity of the Symmetry for the Frobenius-Euler polynomials associated with the fermionic p-adic invariant q-integrals on Z_p
+Symmetries of Ginsparg-Wilson Chiral Fermions
+On The Symmetry Of Arithmetical Functions In Almost All Short Intervals, V
+Translation-symmetry protected topological orders on lattice
+Symmetries of geometric flows
+Embedding A4 into SU(3)xU(1) flavor symmetry: Large neutrino mixing and fermion mass hierarchy in SO(10) GUT
+Three family unification in higher dimensional models
+Non-Abelian Discrete Flavor Symmetries from T^2/Z_N Orbifolds
+Construction of Symmetric Complex Tight wavelet Frames from Pseudo Splines via Matrix Extension with Symmetry
+Commuting Conformal and Dual Conformal Symmetries in the Regge limit
+Symmetries of Hamiltonian equations and Lambda-constants of motion
+On Symmetry of Minimizers in Constrained Quasi-Linear Problems, 1
+Asymptotic Symmetries of Rindler Space at the Horizon and Null Infinity
+Orthogonal symmetries and Clifford algebras
+Symmetry within and between solutions
+Relativistic U(3) Symmetry and Pseudo-U(3) Symmetry of the Dirac Hamiltonian
+Stringy mirror symmetry
+Complex Networks and Symmetry II: Reciprocity and Evolution of World Trade
+String-derived MSSM vacua with residual R symmetries
+Clifford modules and symmetries of topological insulators
+M-brane dynamical symmetry and quantization
+Symmetry Breaking for Distributed Multi-Context Systems
+Classical and Nonclassical symmetries of the (2+1)-dimensional Kuramoto-Sivashinsky equation
+Symmetry protected topological orders of 1D spin systems with D2+T symmetry
+Symmetries and renormalisation in two-Higgs-doublet models
+Covalent bond symmetry breaking and protein secondary structure
+A multiplet analysis of spectra in the presence of broken symmetries
+Double-Weyl Topological Metals Stabilized by Point Group Symmetry
+Non-local symmetries for Yang-Mills theories and their massive counterparts in two and three dimensions
+Symmetries, conservation laws, and cohomology of Maxwell's equations using potentials
+Preheating and symmetry restoration in collisions of vacuum bubbles
+Partial Dynamical Symmetry and Mixed Dynamics
+Mixed symmetry superconductivity in two-dimensional Fermi liquids
+Symmetry of Magnetically Ordered Quasicrystals
+Quantum Hall plateau transitions in disordered superconductors
+Quantum Pumping in the Magnetic Field: Role of Discrete Symmetries
+Crystal Symmetry and Time Scales
+Hidden Symmetries in Nano-magnets
+Order parameter symmetry in ferromagnetic superconductors
+An Exact SU(2) Symmetry and Persistent Spin Helix in a Spin-Orbit Coupled System
+Symmetry breaking in small rotating cloud of trapped ultracold Bose atoms
+Reduction of Algebraic Parametric Systems by Rectification of their Affine Expanded Lie Symmetries
+On the definition of cylindrical symmetry
+Gravitational Waves: Just Plane Symmetry
+Extra symmetry in the field equations in 5D with spatial spherical symmetry
+Symmetries of the Robinson-Trautman equation
+Lattice Regularization and Symmetries
+Light Quark Spin-Flavor Symmetry for Baryons Containing a Heavy Quark in Large N QCD
+Constraints on discrete symmetries from anomaly cancellation in compactified superstring theories
+The Phenomenology of a Hidden Symmetry Breaking Sector at Electron-Positron Colliders
+On the Symmetry Constraints of CP Violations in QCD
+Approximate Flavor Symmetry in Supersymmetric Model
+Incompatibility of simultaneous non-linear realizations of scale symmetry and supersymmetry
+Abelian family symmetries and Leptogenesis
+Chiral Symmetry in Two-Color QCD at Finite Temperature
+On Symmetry of Elementary Particles
+Spontaneous Scale Symmetry Breaking in 2+1-Dimensional QED at Both Zero and Finite Temperature
+One-loop fermion determinant with explicit chiral symmetry breaking
+New Pattern of Chiral Symmetry Restoration
+Chiral Perturbation in the Hidden Local Symmetry and Vector Manifestation of Chiral Symmetry
+What Happens If an Unbroken Flavor Symmetry Exists?
+Hiding the Existence of a Family Symmetry in the Standard Model
+Dihedral Flavor Symmetry from Dimensional Deconstruction
+Higgs-less Higgs mechanism: low-energy expansion
+Magnetic Monopoles and Duality Symmetry Breaking in Maxwell's Electrodynamics
+Electroweak Interaction Model with an Undegenerate Double Symmetry
+R-Parity Violation and Non-Abelian Discrete Family Symmetry
+Finite in All Directions
+Investigation of Discrete Gauge Anomalies in String Theory
+Construction of Field Algebras with Quantum Symmetry from Local Observables
+Symmetry Principles for String Theory
+Quasi-Galois Symmetries of the Modular S-Matrix
+Symmetry Breaking in the Static Coordinate System of de Sitter Spacetime
+Classical Symmetries of Some Two-Dimensional Models Coupled to Gravity
+The Affine-Metric Quantum Gravity with Extra Local Symmetries
+Hidden Symmetry and S-duality in N=4 D=4 Super Yang-Mills Theory
+Symmetry Non Restoration and Inverse Symmetry Breaking on the lattice
+T-duality and Gauge Symmetry in Supermembrane Theory
+Hidden Symmetries of the Principal Chiral Model Unveiled
+On Infinite-Dimensional Algebras of Symmetries of the Self-Dual Yang-Mills Equations
+'t Hooft Anomaly Matching Conditions for Generalized Symmetries in 2D
+General Aspects of Symmetry Breaking
+Chiral symmetry breaking in a uniform external magnetic field II. Symmetry restoration at high temperatures and chemical potentials
+Massless picture, massive picture, and symmetry in the Gaussian renormalization group
+Symmetry and symmetry breaking in particle physics
+Dual symmetry and the vacuum energy
+Duality Symmetries in Non-Linear Gauge Theories
+Classification of Two Dimensional N=4 Superconformal Symmetries
+Gauge symmetries of the teleparallel theory of gravity
+Note on mirror symmetry and coisotropic D-branes on tori
+Symmetries of topological field theories in the BV-framework
+Hopf-algebra description of noncommutative-spacetime symmetries
+Interacting N-vector order parameters with O(N) symmetry
+Discrete Gauge Symmetries, Baryon Number and Large Extra Dimensions
+Symmetry Breaking in String Theory
+Spacetime symmetries of the Lorentz-violating Maxwell-Chern-Simons model
+Ghost Cohomologies and Hidden Space-Time Symmetries
+Infinite dimensional geometry of $M_1=Diff_+(S^1)/PSL(2,R)$ and $q_R$-conformal symmetries. II. Geometric quantization and hidden symmetries of Verma modules over Virasoro algebra
+Symmetries and reversing symmetries of area-preserving polynomial mappings in generalised standard form
+On The Poincare Series of Quadratic Algebras Associated to Hecke Symmetries
+Regge and Okamoto symmetries
+Symmetries of Coincidence Site Lattices of Cubic Lattices
+Kinematical symmetries of 3D incompressible flows
+Non-Noether symmetries in singular dynamical systems
+Equivalence of Q-Conditional Symmetries under Group of Local Transformation
+Lie Symmetries of Yang-Mills Equations
+Symmetry of stochastic equations
+Nonclassical symmetries as special solutions of heir-equations
+Time dependence and (non)commutativity of symmetries of evolution equations
+Symmetry, singularities and integrability in complex dynamics V: Complete symmetry groups of certain relativistic spherically symmetric systems
+On testing integrability
+Nodal solitons and the nonlinear breaking of discrete symmetry
+Charge Independence and Charge Symmetry
+Statistical Properties of E(5) and X(5) Symmetries
+Test of Pseudospin Symmetry in Deformed Nuclei
+Symmetry energy coefficients for asymmetric nuclear matter
+Symmetries in physics
+Lie Symmetries of the Self-Dual Yang-Mills Equations
+Detecting degree symmetries in networks
+Spontaneous Symmetry Breaking in Quantum Mechanics
+q_R-conformal symmetries in 2D nonlocal quantum field theory, categorical representation theory, and Virasoro algebra
+Exact PT-Symmetry Is Equivalent to Hermiticity
+Pseudo-Hermitian Hamiltonians, indefinite inner product spaces and their symmetries
+The Effects of Symmetries on Quantum Fidelity Decay
+R-Parity Violation and Family Symmetry
+Coupled Painlevé systems with affine Weyl group symmetry of types $D_3^{(2)}$ and $D_5^{(2)}$
+Symmetries of the Weyl tensor in Bianchi V spacetimes
+Affine linear and D4 symmetric lattice equations : symmetry analysis and reductions
+Causal sets and conservation laws in tests of Lorentz symmetry
+The phase diagram of QCD at small chemical potentials
+Neutrino Sector with Majorana Mass Terms and Friedberg-Lee Symmetry
+Meet homological mirror symmetry
+Neutrinos and Symmetries
+Self-consistent symmetries in the proton-neutron Hartree-Fock-Bogoliubov approach
+An Introduction to Yangian Symmetries
+Wigner symmetry, Large Nc and Renormalized One Boson Exchange Potential
+Generalised bottom-up holography and walking technicolour
+Anomalies and chiral symmetry in QCD
+Symmetry Breaking Using Value Precedence
+Symmetries of differential-difference dynamical systems in a two-dimensional lattice
+Dark Matter Stabilization Symmetries from Spontaneous Symmetry Breaking
+Nuclear symmetry energy effects on liquid-gas phase transition in hot asymmetric nuclear matter
+New forms of BRST symmetry in rigid rotor
+Symmetry breaking of gauge theories down to Abelian sub-groups
+The Giant Dipole Resonance as a quantitative constraint on the symmetry energy
+Symmetry Breaking of Vortex Patterns in a Rotating Harmonic Potential
+Concepts of Symmetry in the Work of Wolfgang Pauli
+Symmetries and exact solutions of the rotating shallow water equations
+Symmetry, winding number and topological charge of vortex solitons in discrete-symmetry media
+S4 as a natural flavor symmetry for lepton mixing
+On nonlocal symmetries, nonlocal conservation laws and nonlocal transformations of evolution equations
+Entropy in the Present and Early Universe
+On dilation symmetries arising from scaling limits
+Symmetries in atmospheric sciences
+Dynamical symmetry of the Kaluza-Klein monopole
+Classification of classical and non-local symmetries of fourth-order nonlinear evolution equations
+Lipkin translational-symmetry restoration in the mean-field and energy-density-functional methods
+A symmetry problem in the Copenhagen interpretation
+Massive Yang-Mills fields, translational and nonsemisimple gauge symmetry
+Symbiotic Symmetries of the Two-Higgs-Doublet Model
+Fluctuation-driven first order behavior near the T=0 two dimensional stripe to fermi liquid transition
+Duality symmetry of BFKL equation: reggeized gluons vs color dipoles
+Special Conformal Groups of a Riemannian Manifold and Lie Point Symmetries of the Nonlinear Poisson Equation
+Symmetry energy at subnuclear densities deduced from nuclear masses
+Implementation of the SU(2) Hamiltonian Symmetry for the DMRG Algorithm
+Effects of the density dependence of nuclear symmetry energy on properties of superheavy nuclei
+Strangeness in the Meson Cloud Model
+Centre-of-mass and internal symmetries in classical relativistic systems
+Characterizing Multiple Solutions to the Time - Energy Canonical Commutation Relation via Internal Symmetries
+Spontaneous symmetry breaking in a two-doublet lattice Higgs model
+mu-tau symmetry in Zee-Babu model
+Polyominoes and Polyiamonds as Fundamental Domains of Isohedral Tilings with Rotational Symmetry
+Frustrated symmetries in multi-Higgs-doublet models
+Symmetry-breaking Answer Set Solving
+Massive Stringy States and T-duality Symmetry
+Symmetries, Stability, and Control in Nonlinear Systems and Networks
+One Loop Renormalization of the Littlest Higgs Model
+Nuclear symmetry energy at subnormal densities from measured nuclear masses
+General formula for symmetry factors of Feynman diagrams
+About existence, symmetry and symmetry breaking for extremal functions of some interpolation functional inequalities
+Spontaneous breaking of SU(3) to finite family symmetries: a pedestrian's approach
+T-duality versus Gauge Symmetry
+Quantization of Scalar Field Theory with Internal Symmetry
+Crystal frameworks, symmetry and affinely periodic flexes
+Affine connections and symmetry jets
+Exploring Symmetry Breaking at the Dicke Quantum Phase Transition
+A systematic approach to model building
+Horizontal Symmetry: Bottom Up and Top Down
+Symmetry Classification of Spinor Bose-Einstein Condensates
+Toric Symmetry of CP^3
+Reflections on the four facets of symmetry: how physics exemplifies rational thinking
+How to construct diffeomorphism symmetry on the lattice
+Givental graphs and inversion symmetry
+Temperature dependence of symmetry energy of finite nuclei
+From Lagrangian to Quantum Mechanics with Symmetries
+Symmetries and conservation laws in histories-based theories
+The Validity of Charge Symmetry for Parton Distributions
+Complexification of The Vacuum and The Electroweak Gauge Symmetry
+Kink-induced symmetry breaking patterns in brane-world SU(3)^3 trinification models
+A toolkit for the construction of icosahedral particles with local symmetry axes
+Old nuclear symmetries and large N(c) as long distance symmetries in the two nucleon system
+Continuous Global Symmetries and Hyperweak Interactions in String Compactifications
+Conservation laws and hierarchies of potential symmetries for certain diffusion equations
+Matrix Extension with Symmetry and Construction of Biorthogonal Multiwavelets
+Central symmetry and antisymmetry of the microwave background inhomogeneities on Wilkinson Microwave Anisotropy Probe maps
+Symmetry-protected topological orders for interacting fermions -- fermionic topological non-linear sigma-models and a group super-cohomology theory
+Eugene Wigner and Translational Symmetries
+Electronic transport through ballistic chaotic cavities: reflection symmetry, direct processes, and symmetry breaking
+q-Plastic deformation
+Symmetry of Magnetic Quantum Tunneling in Single Molecule Magnet Mn12-acetate
+Symmetry breaking in driven and strongly damped pendulum
+Quantum limits to the second law and breach of symmetry
+The closest elastic tensor of arbitrary symmetry to an elasticity tensor of lower symmetry
+New Symmetries in Two-Dimensional Dilaton Gravity
+Lie Symmetries of Einstein's Vacuum Equations in N Dimensions
+Approximate Symmetries in General Relativity
+Symmetries of distributional domain wall geometries
+Exploring Residual Gauge Symmetry Breaking
+Extra symmetries in the effective theory of heavy quarks
+R Symmetry Breaking Versus Supersymmetry Breaking
+Local discrete symmetries from superstring derived models
+The Fading of Symmetry Non-restoration at Finite Temperature
+Lepton Parity in Supersymmetric Flavor Models
+Exact and Broken Symmetries in Particle Physics
+Chiral symmetry restoration and the linear form of baryonic Regge trajectories
+Lorentz Invariance and Origin of Symmetries
+QCD Baryons in the 1/N_c Expansion
+Renormalization in Self-Consistent Approximation schemes at Finite Temperature III: Global Symmetries
+Stabilizing the Axion by Discrete Gauge Symmetries
+Tri-bimaximal mixing, discrete family symmetries, and a conjecture connecting the quark and lepton mixing matrices
+Hidden Gauge Symmetries: A New Possibility at the Colliders
+Effective restoration of the U_A(1) symmetry with temperature and density
+Pentaquarks in the Chiral Symmetry Limit
+S3 x Z2 model for neutrino mass matrices
+Discrete Flavor Symmetry, Dynamical Mass Textures, and Grand Unification
+Stringy origin of non-Abelian discrete flavor symmetries
+Additional Symmetries of Generalized Hierarchies
+Extended antifield-formalism
+Closed N=2 Strings: Picture-Changing, Hidden Symmetries and SDG Hierarchy
+Discrete Symmetry and GUT Breaking
+Symmetries of Toric Duality
+Residual Symmetries in the Presence of an EM Background
+Non-unitary evolutions of noncommutative worlds with symmetry
+Gauge symmetries in geometric phases
+Quantum Deformations of Einstein's Relativistic Symmetries
+Extension of Conformal (Super)Symmetry using Heisenberg and Parabose operators
+Perturbative Symmetries on Noncommutative Spaces
+On the uniqueness of diffeomorphism symmetry in Conformal Field Theory
+Lie symmetries of Einstein's vacuum equations in N dimensions
+Symmetries and infinitesimal symmetries of singular differential equations
+Potential Nonclassical Symmetries and Solutions of Fast Diffusion Equation
+Finite group symmetry breaking
+Geodesic flow on three dimensional ellipsoids with equal semi-axes
+Locality of symmetries generated by nonhereditary, inhomogeneous, and time-dependent recursion operators: a new application for formal symmetries
+Ermakov's Superintegrable Toy and Nonlocal Symmetries
+Symmetries of anisotropic harmonic oscillators with rational ratios of frequencies and their relations to U(N) and O(N+1)
+Point symmetries in the Hartree-Fock approach: Symmetry-breaking schemes
+Relevance of pseudospin symmetry in proton-nucleus scattering
+Spin symmetry in the anti-nucleon spectrum
+Nuclear matter symmetry energy from generalized polarizabilities: dependences on momentum, isospin, density and temperature
+Method of Replacing the Variables for Generalized Symmetry of D'Alembert Equation
+Computation of Higher-order Symmetries for Nonlinear Evolution and Lattice Equations
+Variations of the Hidden Sector in a Realistic Intersecting Brane Model
+Neutrino Mixing based on Mass Matrices with a $2 \leftrightarrow 3$ Symmetry
+On the Thermal Symmetry of the Markovian Master Equation
+Enlarged NH symmetries: Particle Dynamics and Gauge Symmetries
+On the Correspondence between Poincaré Symmetry of Commutative QFT and Twisted Poincaré Symmetry of Noncommutative QFT
+Euler-Bernoulli beams from a symmetry standpoint-characterization of equivalent equations
+Pairing Symmetry of CeCoIn$_5$ Detected by In-plane Torque Measurements
+Generalized Symmetries of Massless Free Fields on Minkowski Space
+Symmetry of models versus models of symmetry
+Bi-Hamiltonian representation, symmetries and integrals of mixed heavenly and Husain systems
+Symmetry Classes of Alternating Sign Matrices
+Symmetry Energy as a Function of Density and Mass
+Hopf Algebra Symmetry and String Theory
+Planar Spin Network Coherent States I. General Properties
+Tridiagonal Symmetries of Models of Nonequilibrium Physics
+Symmetric versions of Laman's Theorem
+Symmetry energy of dilute warm nuclear matter
+Topological superfluid 3He-B in magnetic field and Ising variable
+The New Symmetries Beyond the Standard Model (The Body-centred Cubic Periodic Symmetries in Particle Physics)
+On the symmetry of the vacuum in theories with spontaneous symmetry breaking
+Frameworks, Symmetry and Rigidity
+(Broken) Gauge Symmetries and Constraints in Regge Calculus
+Enhancement of quark number susceptibility with an alternative pattern of chiral symmetry breaking in dense matter
+On the origin of neutrino flavour symmetry
+Robustness of spontaneous symmetry breaking in a bridge model
+Computational Understanding and Manipulation of Symmetries
+Aspects of Symmetries in Field and String Theories
+Symmetries of topological gravity with torsion in the hamiltonian and lagrangian formalisms
+Symmetry and Surface Symmetry Energies in Finite Nuclei
+A note on the implementation of Poincaré symmetry in noncommutative field theory
+Complex Networks and Symmetry I: A Review
+Radial symmetry and symmetry breaking for some interpolation inequalities
+Effective interactions and long distance symmetries in the Nucleon-Nucleon system
+Double and Linear Seesaw from Left-Right and Peccei-Quinn Symmetry Breaking
+Symmetries and Strings in Field Theory and Gravity
+Symmetry & Controllability for Spin Networks with a Single-Node Control
+Review of AdS/CFT Integrability, Chapter V.2: Dual Superconformal Symmetry
+Dual conformal symmetry at loop level; massive regularization
+From Physics to Biology by Extenting Criticality and Symmetry Breakings
+Phenomenological implications of $S$-duality symmetry
+A Horizontal Symmetry for Leptons and Quarks
+Symmetry Reduction of Optimal Control Systems
+Symmetry Breaking in Neuroevolution: A Technical Report
+Gauge Symmetry Breaking in Gauge Theories---In Search of Clarification
+sinθ_{13} and neutrino mass matrix with an approximate flavor symmetry and that with SU(3) symmetry
+A Gallavotti-Cohen-Evans-Morriss like symmetry for a class of Markov jump processes
+Comments on the dual-BRST symmetry
+Gauge-Higgs unification models in six dimensions with $S^2/Z_2$ extra space and GUT gauge symmetry
+Symmetries on Spin Chains: Limited Controllability and Minimal Controls for Full Controllability
+Breaking the Mode Degeneracy of Surface-Plasmon Resonances in a Triangular System
+Effect of the momentum dependence of nuclear symmetry potential on the transverse and elliptic flows
+Interplay of the Scaling Limit and the Renormalization Group: Implications for Symmetry Restoration
+SO(5) as a Critical Dynamical Symmetry in the SU(4) Model of High-Temperature Superconductivity
+Localization in disordered superconducting wires with broken spin-rotation symmetry
+The breaking of quantum double symmetries by defect condensation
+Microscopic theories for cubic and tetrahedral superconductors: application to PrOs_4Sb_{12}
+Asymptotic symmetries on Killing horizons
+On the fate of Lorentz symmetry in loop quantum gravity and noncommutative spacetimes
+General study and basic properties of causal symmetries
+Supersymmetric SO(10) Models Inspired by Deconstruction
+CPT and Other Symmetries in String/M Theory
+Twistor theory of hyper-K{ä}hler metrics with hidden symmetries
+Universal Symmetry of Complexity and Its Manifestations at Different Levels of World Dynamics
+Symmetry classes connected with the magnetic Heisenberg ring
+Goldstone Bosons in Effective Theories with Spontaneously Broken Flavour Symmetry
+Recursions of Symmetry Orbits and Reduction without Reduction
+On The Complexity and Completeness of Static Constraints for Breaking Row and Column Symmetry
+Using M_T2 to Distinguish Dark Matter Stabilization Symmetries
+Vacuum Topology of the Two Higgs Doublet Model
+Discrete gauge symmetries in D-brane models
+Symmetry Energy from Systematic of Isobaric Analog States
+Extremely High Energy and Violation of Lorentz Invariance
+The nuclear symmetry energy and stability of matter in neutron star
+Kaon condensate with trapped neutrinos and high-density symmetry energy behavior
+Discrete Symmetries in the Weyl Expansion for Quantum Billiards
+Test Experiment for Time-Reversal Symmetry Breaking Superconductivity
+Replica Symmetry Breaking in the Random Replicant Model
+Boundary Effects and the Order Parameter Symmetry in High-Tc Superconductors
+Exact realization of SO(5) symmetry in extended Hubbard models
+Time Reversal Symmetry Breaking States Near Grain Boundaries Between d-wave Superconductors
+SO(5) Superconductors in a Zeeman Magnetic Field
+Time-reversal symmetry in nonlinear optics
+The physical Meaning of Replica Symmetry Breaking
+Charge Transfer, Symmetry and Dissipation
+Symmetry Analysis of the Kohn-Sham Band Structure of Bulk Lithium Fluoride
+Broken symmetry and symmetry classification of magnetic ordering in doped crystals
+Kramers-Wannier dualities via symmetries
+Symmetry and environment effects on rectification mechanisms in quantum pumps
+Information Measures in Detecting and Recognizing Symmetries
+Asymptotic symmetries in 3d gravity with torsion
+Asymptotically flat solutions to the Ernst equation with reflection symmetry
+Symmetry relating Gravity with Antigravity: A possible resolution of the Cosmological Constant Problem?
+Aspects of spacetime-symmetry violations
+Spherically symmetric solutions in f(R)-gravity via Noether Symmetry Approach
+Fermionic Symmetry in Ichimatsu-Decomposed Lattice Models
+Combining Chiral and Heavy Quark Symmetries
+Isospin Symmetry Breaking in Hadrons and Nuclei
+Approximate flavor symmetries
+From $m_{d}=m_{e}$ to Realistic Mass Relations in Quark-Lepton Symmetric Models
+Cyclic Family Symmetry and Lepton Hierarchy in Supersymmetry
+Four Top Production and Electroweak Symmetry Breaking
+The Spin--Symmetry of the Quark Model
+On gluon masses, colour symmetry, and a possible massive ninth gluon
+The transverse polarized structure function in DIS and chiral symmetry breaking in QCD
+Signatures of Dynamical Symmetry Breaking at Tevatron Upgrade and LHC
+Gluons as Goldstone Bosons when Flavor Symmetry is Broken Spontaneously
+Chiral Symmetry Breaking in QED in a Magnetic Field at Finite Temperature
+Symmetries and Unification
+A reincarnation of R-parity
+Effective chiral theory of mesons, coefficients of ChPT, axial-vector symmetry breaking
+Kaluza-Klein Excitations and Electroweak Symmetry Breaking
+Symmetry Reduction, Gauge Transformation and Orbifold
+Model for fermion mass matrices and the origin of quark-lepton symmetry
+Symmetries, Variational Principles and Quantum Dynamics
+Symmetries in collinear effective theory
+Discrete symmetries and neutrino masses
+Vector Goldstone Boson and Lorentz Invariance
+Tetrahedral Family Symmetry and the Neutrino Mixing Matrix
+Suitability of A_4 as a Family Symmetry in Grand Unification
+Realizations of mu-tau interchange symmetry
+Infinite Quantum Group Symmetry in 2d Quantum Field Theory
+Note on Discrete Gauge Anomalies
+Topological Mirrors and Quantum Rings
+Inomogeneous Quantum Groups as Symmetries of Phonons
+New Vector Field and BRST Charges in 2-form Einstein Gravity
+The Canonical Symmetry and Hamiltonian Formalism. I. Conservation Laws
+The Canonical Symmetry for Integrable Systems
+Simple considerations on the behaviour of bosonic modes with quantum group symmetry
+Duality Symmetries and Topology Change in String Theory
+On additional symmetries of the KP hierarchy and Sato's Bäcklund transformation
+Symmetries of the Kadomstev-Petviashvili Hierarchy
+Mirror Symmetry as a Gauge Symmetry
+Global Aspects of Symmetries in Sigma Models with Torsion
+Integrable vector perturbations of W-invariant theories and their quantum group symmetry
+On the constrained KP hierarchy
+A Remark on Symmetry of Stochastic Dynamical Systems and Their Conserved Quantities
+CHIRAL SYMMETRIES OF THE WZNW MODEL BY HAMILTONIAN METHODS
+The BFV Approach for a Nonlocal Symmetry of QED
+Dimensional transmutation and symmetry breaking in Maxwell- Chern-Simons scalar QED
+Asymptotic symmetry and conservation laws in 2d Poincaré gauge theory of gravity
+A Novel Symmetry in Sigma Models
+Anti-field Formalism and Non-Abelian Duality
+Hidden Symmetries of the Principal Chiral Model and a Nonstandard Loop Algebra
+Non-perturbative Enhanced Gauge Symmetries in the Gimon-Polchinski Orientifold
+Hidden Symmetries of M Theory
+Introduction to Supergravities in Diverse Dimensions
+Hidden Symmetry of the Yang--Coulomb System
+Anti de Sitter Geometry and Strongly Coupled Gauge Theories
+Gauge Symmetries of the Master Action
+U-Duality in Supersymmetric Born-Infeld Theory
+Branes, AdS gravitons and Virasoro symmetry
+Nonlinear realization of superconformal symmetry and Liouville equation superextensions
+A Realization of the infinite dimensional Symmetries of Conformal Mechanics
+Symmetry Origin of Infrared Divergence Cancellation in Topologically Massive Yang-Mills Theory
+A General Expression for Symmetry Factors of Feynman Diagrams
+Nonlinear Constraints from Non-Abelian Internal Symmetries
+The cosmological constant, neutrino masses and parity symmetry in 6+1 dimensions
+Higher Symmetries of the Laplacian
+Exotic galilean symmetry in non-commutative field theory
+A hierarchy of symmetry breaking in the Nonsymmetric Kaluza-Klein (Jordan-Thiry) Theory
+Lorentz and Galilei Invariance on Lattices
+Hidden symmetries in minimal five-dimensional supergravity
+A New Approach to Scale Symmetry Breaking and Confinement
+Historical Mistake in Spontaneous Symmetry Breaking
+Quantum symmetries of faces models and the double triangle algebra
+Poisson-Lie symmetry and q-WZW model
+Knot soliton models, submodels, and their symmetries
+Symmetry Breaking in BRST Quantization of SU(3)
+Groupoids: unifying internal and external symmetry
+On a point symmetry analysis for generalized diffusion type equations
+Mirror symmetry and actions of braid groups on derived categories
+Mirror symmetry and self-dual manifolds
+Lagrangian symmetries and supersymmetries depending on derivatives. Global analysis
+Symmetry breaking for toral actions in simple mechanical systems
+Hidden symmetry and arithmetic manifolds
+Two-dimensional Gibbsian point processes with continuous spin-symmetries
+Student's t-test without symmetry conditions
+Divergence Symmetries of Critical Kohn-Laplace Equations on Heisenberg groups
+On Reduction and Q-conditional (Nonclassical) Symmetry
+Dynamical symmetries and the Ermakov invariant
+Lie discrete symmetries of lattice equations
+On the symmetry approach to reduction of partial differential equations
+Asymptotic symmetries of difference equations on a lattice
+Asymptotic symmetries in an optical lattice
+On the Gaussian Random Matrix Ensembles with Additional Symmetry Conditions
+Nonclassical Approximate Symmetries of Evolution Equations with a Small Parameter
+Discrete derivatives and symmetries of difference equations
+Lie symmetries of difference equations
+On the construction of evolution equations admitting a master symmetry
+Symmetry Classification of Diatomic Molecular Chains
+Symmetry Induced Heteroclinic Cycles in a CO2 Laser
+Symmetries and linearization of ordinary difference equations
+Symmetries of Discrete Systems
+Lie Point Symmetries for Reduced Ermakov Systems
+Symmetry constraints for real dispersionless Veselov-Novikov equation
+The symmetries of the Fokker - Planck equation in one dimension
+The symmetries of the Fokker - Planck equation in two dimensions
+Resonance-assisted tunneling in three degrees of freedom without discrete symmetry
+Group classification of the general evolution equation: local and quasi-local symmetries
+A symmetry test for quasilinear coupled systems
+A Revisit of SO(6) Dynamical Symmetry in Nuclear Structure
+Rho-Omega Mixing Off Shell and Charge Symmetry Breaking In the N-N Potential
+Symmetry Problems in Low Energy Physics
+QCD Scales and Chiral Symmetry in Finite Nuclei
+The Axial Current in Electromagnetic Interaction
+Partial dynamical symmetry in a fermion system
+Consequences of a Relativistic Pseudospin Symmetry for Radial Nodes and Intruder Levels in Nuclei
+Charge-Symmetry-Breaking Three-Nucleon Forces
+KdV shock-like waves as invariant solutions of KdV equation symmetries
+All four gauge transformations of the fermion Lagrangian
+Two-Photon Spectroscopy of Transition-Metal Ions in Cubical Symmetry
+Symmetry breaking of vibrating interfaces: a mechanism for morphogenesis
+Symmetry breaking from Lorentz transformation
+The Beginning of Chiral Symmetry
+Lie Symmetry, discrete symmetry and supersymmetry of the Pauli Hamiltonian
+Quantum Stationary Hamilton Jacobi Equation in 3-D for symmetrical potentials. Introduction of the Spin
+Hidden symmetries in deformed microwave resonators
+$Z_3$-graded Symmetries in Quantum Mechanics
+Entanglement and Spontaneous Symmetry Breaking in Quantum Spin Models
+Center Manifold and Lie Symmetry Calculations on a Quasi-chemical Model for Growth-death Kinetics in Food
+Symmetry in the Painlevé systems and their extensions to four-dimensional systems
+Coupled Painlevé III system with affine Weyl group symmetry of type $D_6^{(1)}$
+Noether Symmetries and Conservations Laws For Non-critical Kohn-Laplace Equations on Three-Dimensional Heisenberg Group
+Symmetry and Time Changed Brownian Motions
+Symmetries and wavelets
+Multivariate Lag-Windows and Group Representations
+Theoretical topics in spacetime-symmetry violations
+Conceivable helical form of light propagation may signify symmetry breaking similar to Jahn-Teller effects
+Nonlocal symmetries of integrable two-field divergent evolutionary systems
+Statistical equilibrium and macroscopic symmetry
+Lie point symmetries of difference equations and lattices
+Consequences of Approximate $S_3$ Symmetry of the Neutrino Mass Matrix
+Friedberg-Lee Symmetry for Quark Masses and Flavor Mixing
+Three classes of Ermakov systems and nonlocal symmetries
+A review about Invariance Induced Gravity: Gravity and Spin from Local Conformal-Affine Symmetry
+$U_A(1)$ Symmetry Breaking and the Scalar Sector of QCD
+On the Symmetry Algebra of the Discrete States in $d<2$ Closed String Theory
+Can experiments distinguish between Radiative Electroweak Symmetry breaking and Conventional breaking?
+Effective Interacting Hamiltonian and Pairing Symmetry of LaOFeAs
+Scalar-tensor cosmology with R^{-1} curvature correction by Noether Symmetry
+Atomic and optical tests of Lorentz symmetry
+The Unique Horizontal Symmetry of Leptons
+Towards classification of quasi-local symmetries of evolution equations
+Experimental evidence for new symmetry axis of electromagnetic beams
+Dynamical constants of structured photons with parabolic-cylindrical symmetry
+Symmetry results for nonvariational quasi-linear elliptic systems
+Non-Hausdorff Symmetries of C*-algebras
+Renormalization Group Functions for the Radiative Symmetry Breaking Scheme
+Global Existence and Uniqueness of Weak Solutions of 3-D Euler Equations with Helical Symmetry in the Absence of Vorticity Stretching
+Coupled Painlevé VI systems in dimension four with affine Weyl group symmetry of type $E_6^{(2)}$
+Symmetries at and Near Critical Points of Quantum Phase Transitions in Nuclei
+Observations on spacetime symmetry and non-commutativity
+Gravity from Lorentz Symmetry Violation
+Integrability and Symmetries of Difference Equations: the Adler-Bobenko-Suris Case
+Optical Activities as Computing Resources for Space-time Symmetries
+The Generalized Symmetry Method for Discrete Equations
+New non-Noetherian Symmetries and Multi-Hamiltonian Structures for the Toda Lattice
+At the root of things
+Symmetries and Lie algebra of the differential-difference Kadomstev-Petviashvili hierarchy
+Partial Dynamical Symmetry and Anharmonicity in Gamma-Soft Nuclei
+Symmetries in Integer Programs
+Symmetry analysis of cylindrical Helmholtz equation
+Lie symmetry analysis and exact solutions for a variable coefficient Gardner equation arising in arterial mechanics
+Multilateral basic hypergeometric summation identities and hyperoctahedral group symmetries
+Symmetries for Siegel Theta Functions, Borcherds Lifts and Automorphic Green Functions
+A Frucht's theorem for quantum graphs
+Yangian symmetry and bound states in AdS/CFT boundary scattering
+Spontaneous disordering and symmetry breaking in complex plasmas
+Lie point symmetries of differential--difference equations
+Variational problems without having any non-trivial Lie variational symmetries
+Symmetry Group of Surfaces PDE
+Spontaneous Lorentz Violation, Nambu-Goldstone Modes, and Massive Modes
+Symmetry and uniqueness of minimizers of Hartree type equations with external Coulomb potential
+Symmetry Restoration at High Temperature in Little Higgs Models?
+Conditional Symmetry and Reductions for the Two-Dimensional Nonlinear Wave Equation. I. General Case
+Anomaly breaking of de Sitter symmetry
+Axial Symmetry, Anti-BRST Invariance and Modified Anomalies
+Note on Custodial Symmetry in the Two-Higgs-Doublet Model
+Isometry classification of cubic homogeneous 3-dimensional forms
+Molecular quantum mechanical observers, symmetry, and string theory
+Conditional symmetries and exact solutions of the diffusive Lotka-Volterra system
+Mirror symmetry and projective geometry of Reye congruences I
+Bonus Yangian Symmetry for the Planar S-Matrix of N=4 Super Yang-Mills
+Rephasing invariance and the neutrino mu-tau symmetry
+Method for searching higher symmetries for quad graph equations
+Symmetry energy and isospin dependence of cross- section: sensitivity to transverse flow
+Generalised Holographic Electroweak Symmetry Breaking Models and the Possibility of Negative S
+Higgs-Flavor Groups, Naturalness, and Dark Matter
+Relativistic Landau-Aharonov-Casher quantization based on the Lorentz symmetry violation background
+Renormalization Group Evolution of the Effective Potential in the Broken Symmetry Phase
+Symmetry protected topological orders and the group cohomology of their symmetry group
+On the sensitivity of transverse flow to the isospin-dependent cross-section and symmetry energy
+Dirac-operators and symmetries of quasitoric manifolds
+Topological Symmetry Groups of Graphs in 3-Manifolds
+Testing Lorentz symmetry with atoms and Light
+A Ramanujan congruence analogue for Han's hook-length formula mod 5, and other symmetries
+Energy Content of Colliding Plane Waves using Approximate Noether Symmetries
+Observable to explore high density behaviour of symmetry energy
+Symmetry of extremals of functional inequalities via spectral estimates for linear operators
+Superluminal motion and Lorentzian symmetry breaking and repairing in two-metric theories
+Frameworks with crystallographic symmetry
+Symmetry and colorings: some results and open problems, II
+Symmetry breaking Rayleigh-Taylor instability in a two-component Bose-Einstein condensate
+Landau-Ginzburg Models, D-branes, and Mirror Symmetry
+Potential symmetries and conservation laws for generalized quasilinear hyperbolic equations
+Bianchi Type I Cosmology in Saez-Ballester Theory via Noether Symmetry
+Supersymmetry Breaking: constraint on U(1) R-charge
+A note on maximal symmetry rank, quasipositive curvature, and low dimensional manifolds
+Symmetries of CR sub-Laplacian
+Recursion Operators and Nonlocal Symmetries for Integrable rmdKP and rdDym Equations
+Treatment of broken symmetry in the Faddeev approach to the strange baryon spectra
+Astrophysical aspects of fermion number violation in the supersymmetrical standard model
+Kaon condensation in neutron stars and high density behaviour of nuclear symmetry energy
+Coupling parameters and the form of the potential via Noether symmetry
+Lorentz symmetry from Lorentz violation in the bulk
+Scattering matrices with block symmetries
+Controlling Physical Systems with Symmetries
+Influence of Dynamical Pauli Effect and Dynamical Symmetry Breaking to Quantum Chaos
+Pseudospin SU(2) Symmetry Breaking, Charge Density Wave and Superconductivity in the Hubbard Model
+Role of Symmetry in Raman Spectroscopy of Unconventional Superconductors
+Symmetries of an Extended Hubbard Model
+Breathing Modes and Hidden Symmetry of Trapped Atoms in 2D
+Lorentz Group in Condensed Matter Physics
+Hubbard Models with Superconducting Quantum Symmetry
+Solid molecular hydrogen: The Broken Symmetry Phase
+A general method to determine replica symmetry breaking transitions
+Reflection Symmetry and Quantized Hall Resistivity near Quantum Hall Transition
+Time reversal symmetry breaking superconductivity
+Comment on "General Method to Determine Replica Symmetry Breaking Transitions"
+Holon Pair Bose Condensation in High $T_c$ Cuprates; Symmetry Breaking and Supersymmetry Conditions
+Conventional mechanisms for "exotic" superconductivity
+The Symmetries of the Order Parameters for Pairing and Phase Coherence in Hole-Doped Cuprates
+The Symmetries and Origins of the Order Parameters for Pairing and Phase Coherence in Cuprates
+Interaction effects on the conductance peak height statistics in quantum dots
+d-wave pairing symmetry in cuprate superconductors
+Modified group projectors: tight binding method
+Collective oscillations in quantum rings: a broken symmetry case
+Impurity Bound States and Symmetry of the Superconducting Order Parameter in Sr_2RuO_4
+Emergent Z_2 gauge symmetry and spin-charge separation in one dimensional physics
+Symmetry characterization of eigenstates in opal-based photonic crystals
+Fractional Periodicity of Persistent Currents: A Signature of Broken Internal Symmetry
+Unambiguous evidence for extended s-wave pairing symmetry in hole-doped high-temperature superconductors
+Symmetries of microcanonical entropy surfaces
+Broken Symmetry in Density-Functional Theory: Analysis and Cure
+Quantum Hall Smectics, Sliding Symmetry and the Renormalization Group
+Dynamical symmetries in nanophysics
+Andreev Edge State on Semi-Infinite Triangular Lattice: Detecting the Pairing Symmetry in Na_0.35CoO_2.yH_2O
+Spin symmetry and spin current of helicity eigenstates of the Luttinger Hamiltonian
+Hidden symmetries in the asymmetric exclusion process
+Magnetic Properties of a Superconductor with no Inversion Symmetry
+Orientational symmetry-breaking correlations in square lattice t-J model
+Crossed Andreev reflection as a probe for the pairing symmetry of Ferromagnetic Superconductors
+Pairing Symmetry Competition in Organic Superconductors
+The Effect of Symmetry Lowering on the Dielectric Response of $BaZrO_3$
+Symmetry and Self-Organization in Complex Systems
+Mixed order parameter symmetries in cuprate superconductors
+Symmetries of the ratchet current
+U(1) symmetry breaking in one-dimensional Mott insulator studied by the Density Matrix Renormalization Group method
+Comment on: "Ferroelectricity in spiral magnets"
+Nonintegrability and fluctuation by symmetry violation in perturbed harmonic oscillator systems
+Spontaneous Symmetry Breaking and Quantum Hall Effect in Graphene
+Polynomial Time Nondimensionalisation of Ordinary Differential Equations via their Lie Point Symmetries
+Generalized Symmetries of the Einstein Equations
+On the Cosmology and Symmetry of Dilaton-Axion Gravity
+Scale Symmetry Spontaneously Broken by Asymptotic Behavior
+Near-Horizon Conformal Symmetry and Black Hole Entropy
+Quantum Field Effect on Symmetry Breaking and Restoration in Anisotropic Spacetimes
+Global existence and future asymptotic behaviour for solutions of the Einstein-Vlasov-scalar field system with surface symmetry
+Topology of event horizon in axially symmetric spacetime: Classification of Maxwell set with symmetry
+Symmetries of the equations of pre-metric electromagnetism
+Hamilton's equations of motion from the SU(1,1)/U(1) symmetry of Schwarzschild radial dynamics
+Galileo Symmetries in Polymer Particle Representation
+Chiral symmetry in the 2-flavour lattice Schwinger model
+Exact chiral symmetry on the lattice and the Ginsparg-Wilson relation
+Thermodynamics of Lattice QCD with 2 Quark Flavours: Chiral Symmetry and Topology
+Partial Restoration of Flavor Symmetry for Chiral Staggered Fermions
+Symmetry and Symmetry Restoration of Lattice Chiral Fermion in the Overlap Formalism
+Improved flavor symmetry in Kogut-Susskind fermion actions
+Fake symmetry transitions in lattice Dirac spectra
+Exact Chiral Symmetry on the Lattice
+Chiral symmetry on the lattice
+Evidence for layered symmetry breaking in SU(2) lattice gauge theory
+Staggered Fermion, its Symmetry and Ichimatsu-Patterned Lattice
+QCD, Symmetry Breaking and the Random Lattice
+Heavy Axions From Strong Broken Horizontal Gauge Symmetry
+The Phenomenology of a Hidden Symmetry Breaking Sector
+Constraints from Global Symmetries on Radiative Corrections to the Higgs Sector
+Discrete quark-lepton symmetry need not pose a cosmological domain wall problem
+Symmetry Breaking in a Generalized Skyrme Model
+Family Symmetry, Gravity, and the Strong CP Problem
+Gluon Condensates, Chiral Symmetry Breaking and Pion Wave Function
+The Breaking of the SU(3)^3 Gauge Group
+Flavor Changing Scalar Interactions
+More about discrete symmetries in compactified string theories
+Planck Scale Effects and Axions in Supersymmetry
+Spacetime Symmetries and Semiclassical Amplitudes
+Cosmic Strings and Electroweak Baryogenesis
+Breaking Electroweak Symmetry Strongly
+Naturally Light Higgs Doublets in the Supersymmetric Grand Unified Theories with Dynamical Symmetry Breaking
+Dynamical Chiral-Symmetry Breaking in the Dual Ginzburg-Landau Theory
+$SU(2N_{f})\otimes O(3)$ light diquark symmetry and current-induced heavy baryon transition form factors
+A Mechanism for Instanton Induced Chiral Symmetry Breaking in QCD
+New issues in quark-lepton symmetry
+Chiral Symmetry Restoration at Finite Temperature in the Dual Ginzburg-Landau Theory
+Possible Candidates for SUSY E$_6$ GUT with an Intermediate Scale
+Symmetry Restoration in Hot SUSY
+The $μ$ problem, and B and L Conservation with a Discrete Gauge R Symmetry
+Inverse Symmetry Breaking and the Exact Renormalization Group
+Stringy Mass Squared Splittings Revisited
+Domain Wall Production During Inflationary Reheating
+Family Symmetry and Neutrino Mixing
+Historical and other Remarks on Hidden Symmetries
+Fermion masses and symmetry breaking of a U(2) flavour symmetry
+Gauge Symmetry Reduction from the Extra Space $S^1/Z_2$
+Bi-maximal Neutrino Mixing With SO(3) Flavour Symmetry
+Spontaneous Breaking of Flavor Symmetry and Naturalness of Nearly Degenerate Neutrino Masses and Bi-maximal Mixing
+Breaking Parity Symmetry Using Extra Dimensions
+Dynamical Manifestation of the Goldstone Phenomenon at 1-loop
+Decoupling Dynamical Electroweak Symmetry Breaking
+Spontaneous Symmetry Breaking and Chiral Symmetry
+Remarks on anomalous U(1) symmetries in string theory
+Quark and Lepton Masses from a {\boldmath $U(1)\times Z_2$} Flavor Symmetry
+Consequences of a Z_2 Symmetry for Neutrino Oscillation
+New supersymmetric standard model with stable proton
+Anomaly-Free Flavor Symmetry and Neutrino Anarchy
+The Symmetry behind Extended Flavour Democracy and Large Leptonic Mixing
+Flavon exchange effects in models with abelian flavor symmetry
+Consequences of symmetries in renormalizing collinear effective theory
+Modular symmetry, twisted sectors and flavour
+Flavor Symmetry Breaking and Strangeness in the Nucleon
+Vector Manifestation of Chiral Symmetry
+Chiral Symmetry Breaking with Scalar Confinement
+Implications of Local Chiral Symmetry Breaking
+Chiral Symmetry Breaking and Scalar Confinement
+Restoration of supersymmetric Slavnov-Taylor and Ward identities in presence of soft and spontaneous symmetry breaking
+Symmetry Breaking in Extra Dimensions
+Quark mixing from softly broken symmetries
+Effect of a Magnetic Field on the Electroweak Symmetry
+Spontaneously broken quark helicity symmetry
+A Supersymmetry Model of Leptons
+Boundary Localized Symmetry Breaking and Topological Defects
+CPT Symmetry and The Equality of Mass and Lifetime
+Spontaneous CP Symmetry Breaking in Top-condensation Models
+Divergences and Symmetries in Higgs-Gauge Unification Theories
+On the Unification of Gauge Symmetries in Theories with Dynamical Symmetry Breaking
+Hidden Local Symmetry and Effective Chiral Theory for Vector and Axial-vector Mesons
+Gap Equations and Electroweak Symmetry Breaking
+Spontaneous Breakdown of U(1) symmetry in DLCQ without Zero Mode
+Quark and lepton mass matrices with $A_4$ family symmetry
+Abelian Landau--Ginzburg Orbifolds and Mirror Symmetry
+Space-Time Symmetries of Quantized Tensionless Strings
+BRS and Anti-BRS Symmetry in Topological Yang--Mills Theory
+Symmetries of P-Branes
+Duality Symmetries of 4D Heterotic Strings
+Does String Theory Have a Duality Symmetry Relating Weak and Strong Coupling?
+Additional Symmetries of Supersymmetric KP Hierarchies
+The Yangian symmetry of the Hubbard Model
+Symmetries in a Polynomial Formulation of the Non-Linear Sigma-Model
+Hydden Symmetry approach to the Extended Symmetries in Nonabelian Free Fermionic and WZNW Models
+Quantum Chains with $GL_q(2)$ Symmetry
+String Theory on K3 Surfaces
+Physical States and String Symmetries
+Notes on Lagrangean and Hamiltonian Symmetries
+DUALITY SYMMETRY GROUP OF TWO DIMENSIONAL HETEROTIC STRING THEORY
+String Theory Symmetries
+Duality Symmetries and the Type II String Effective Action
+Borchers' Commutation Relations and Modular Symmetries
+Is Lavelle-McMullan transformation a really new symmetry in QED?
+Tetrahedral and Cubic Monopoles
+Exact Multiplets of Spontaneously Broken Discrete Global Symmetries: the Example of $N=2$ Susy QCD
+Global Symmetries in the Antifield-Formalism
+Hidden Symmetries of Large N QCD
+Gauge Symmetry of the Heat-Kernel and Anomaly Formulas
+Symmetries of the stochastic Burgers equation
+D-Brane Actions with Local Kappa Symmetry
+Aspects of (0,2) Orbifolds and Mirror Symmetry
+Group analysis and renormgroup symmetries
+Nonlinear Realization of Partially Broken N=2 Superconformal Symmetry in Four Dimensions
+Some Examples in the Realization of Symmetry
+Chiral symmetry breaking by a non-Abelian external field in (2+1)-dimensions
+Duality and quantum-algebra symmetry of the A_{N-1}^(1) open spin chain with diagonal boundary fields
+Realization of symmetries and the c-theorem
+Charging Symmetries and Linearizing Potentials for Heterotic String in Three Dimensions
+Orbifold analysis of broken bulk symmetries
+Lagrangian Approach of the First Class Constrained Systems
+Restoration and Dynamical Breakdown of the φ\to -φSymmetry in the (1+1)-dimensional Massive sine-Gordon Field Theory
+10 = 6 + 4
+Superdualities: Below and beyond U-duality
+Higher Spin Symmetries, Star-Product and Relativistic Equations in AdS Space
+Mirror Symmetry
+Fermionic Zero Modes and Spontaneous Symmetry Breaking on the Light Front
+Actions and symmetries of NSR superstrings and D-strings
+Hidden symmetries of supersymmetric p-form gauge theories
+The Symmetry Reduction from Interactions to Particles
+Spontaneous symmetry breaking in the gl(N)-NLS hierarchy on the half line
+Spontaneous Symmetry Breaking, Non-minimal Coupling, and Cosmological Constant Problem
+Mass Generation, Ghost Condensation and Broken Symmetry: SU(2) in Covariant Abelian Gauges
+W(E_10) Symmetry, M-Theory and Painleve Equations
+Lagrangian interactions within a special class of covariant mixed-symmetry type tensor gauge fields
+Superpotentials for M-theory on a G_2 holonomy manifold and Triality symmetry
+Phantom Field with O(N) Symmetry in Exponential Potential
+Symmetries within domain walls
+Galilean symmetry in noncommutative field theory
+The unphysical nature of the SL(2,R) symmetry and its associated condensates in Yang-Mills theories
+Angular Symmetry Breaking Induced by Electromagnetic Field
+A Hidden Twelve-Dimensional SuperPoincare Symmetry In Eleven Dimensions
+Integrability and Hopf Solitons in Models with Explicitly Broken O(3) Symmetry
+Partial Gauge Symmetry Breaking via Bare Mass
+Spontaneously broken symmetry in string theory
+The flight of the bumblebee: vacuum solutions of a gravity model with vector-induced spontaneous Lorentz symmetry breaking
+Equivariant Localization for Supersymmetric Quantum Mechanics
+Exploring Vacuum Manifold of Open String Field Theory
+Twistors and Aspects of Integrability of self-dual SYM Theory
+Deformed Symmetry in Snyder Space and Relativistic Particle Dynamics
+Algebraic Approach to the Duality Symmetry
+Twist Symmetry and Gauge Invariance
+Quantum Gravity as a Broken Symmetry Phase of a BF Theory
+Symmetries of the near horizon of a Black Hole by Group Theoretic methods
+Conformal symmetry of an extended Schrodinger equation and its relativistic origin
+On symmetries of KdV-like evolution equations
+On Generalized $h$--Vectors of Rational Polytopes with a Symmetry of Prime Order
+Similarity reductions for a nonlinear diffusion equation
+Symmetry Group of Tzitzeica Surfaces PDE
+Mean values of L-functions and symmetry
+Log mirror symmetry and local mirror symmetry
+Obstructions to positive curvature and symmetry
+Singular reduction for nonlinear control systems
+A duality Hopf algebra for holomorphic N=1 special geometries
+J functions, non-nef toric varieties and equivariant local mirror symmetry of curves
+On asymptotic nonlocal symmetry of nonlinear Schrödinger equations
+Symmetries of PDEs Systems in Solar Physics and Contact Geometry
+Quantum lattice models at intermediate temperatures
+Local U(1) symmetry in Y(so(5)) associated with Massless Thirring Model and its Bethe Ansatz
+Noether symmetries for two-dimensional charged particle motion
+Lie symmetries for two-dimensional charged particle motion
+Discrete Symmetries Underlying Some Continuous Ones: Two Examples From Gravity And Particle Physics
+Classical symmetries of monopole by group theoretic methods
+Fermion Systems in Discrete Space-Time - Outer Symmetries and Spontaneous Symmetry Breaking
+Higher symmetries of the elliptic Euler-Darboux equation
+Difference schemes with point symmetries and their numerical tests
+Hard and soft edge spacing distributions for random matrix ensembles with orthogonal and symplectic symmetry
+Symmetry Operators for the Fokker-Plank-Kolmogorov Equation with Nonlocal Quadratic Nonlinearity
+Symmetry classification of quasi-linear PDE's containing arbitrary functions
+Amplification of weak signals and stochastic resonance via on-off intermittency with symmetry breaking
+Bi-Hamiltonian structure of the N=2 supersymmetric α=1 KdV hierarchy
+Broken symmetries and pattern formation in two-frequency forced Faraday waves
+Nonlinear Interaction of Transversal Modes in a CO2 Laser
+A remark on nonlocal symmetries for the Calogero-Degasperis-Ibragimov-Shabat equation
+Lie Symmetries and Exact Solutions of First Order Difference Schemes
+A System of n=3 Coupled Oscillators with Magnetic Terms: Symmetries and Integrals of Motion
+New symmetries for the Ablowitz-Ladik hierarchies
+Single-Particle Nondegeneracy and SU(3) Fermion Dynamical Symmetry
+Charge Independence and Symmetry of Nuclear Forces
+Quark Model Calculations Of Symmetry Breaking in Parton Distributions
+On the Relativistic Foundations of Pseudospin Symmetry in Nuclei
+Isospin symmetry breaking nucleon-nucleon potentials and nuclear structure
+Implications of Pseudospin Symmetry on Relativistic Magnetic Properties and Gamow - Teller Transitions in Nuclei
+O(12) limit and complete classification of symmetry schemes in proton-neutron interacting boson model
+Generalized Partial Dynamical Symmetry in Nuclei
+Charge-Symmetry Breaking and the Two-Pion-Exchange Two-Nucleon Interaction
+On the nuclear symmetry energy and the neutron skin in neutron-rich nuclei
+A microscopic study of the proton-neutron symmetry and phonon structure of the low-lying states in 92Zr
+Relativistic Harmonic Oscillator with Spin Symmetry
+Multifragmentation and Symmetry Energy Studied with AMD
+Partial Dynamical Symmetry at Critical-Points of Quantum Phase Transitions
+Symmetries of particle motion
+Symmetry Adaptation in Two-Photon Spectroscopy
+Two-Photon Laser Spectroscopy of Transition Ions in Crystals: Inter- Configurational Transitions
+New Clock Comparison Tests of Lorentz Symmetry
+Purine-pyrimidine symmetry, determinative degree and DNA
+Several New Cases Violating Time Reversal Symmetry In the Processes of Particle Interactions
+On mirror symmetry, CSB and anti-hydrogen states in natural atom H
+Consequences of Symmetries on the Analysis and Construction of Turbulence Models
+Controlling the stability transfer between oppositely traveling waves and standing waves by inversion-symmetry-breaking perturbations
+Weak C* Hopf Symmetry
+Non-linear Schroedinger Equations, Separation and Symmetry
+PT-symmetry and its spontaneous breakdown explained by anti-linearity
+Quantum State Reconstruction of Many Body System Based on Complete Set of Quantum Correlations Reduced by Symmetry
+Calculation of the Hidden Symmetry Operator for a $\cP\cT$-Symmetric Square Well
+Nonisospectral symmetries of the KdV equation and the corresponding symmetries of the Whitham equations
+Coupled Integrable Systems Associated with a Polynomial Spectral Problem and their Virasoro Symmetry Algebras
+Graded Symmetry Algebras of Time-Dependent Evolution Equations and Application to the Modified KP equations
+Q-deformed KP hierarchy: Its additional symmetries and infinitesimal Bäcklund transformations
+Non-symmetry constraints of the AKNS system yielding integrable Hamiltonian systems
+Pomeranchuk instability: symmetry breaking and experimental signatures
+Twisted Poincaré Symmetry and Some Implications on Noncommutative Quantum Field Theory
+Excitation energy dependence of symmetry energy of finite nuclei
+Symmetries and Dynamics of Discrete Systems
+Conductance Spectroscopy of Spin-triplet Superconductors
+Possible superconducting symmetry on doped J1-J2 model
+On equivariant mirror symmetry for local P^2
+Group Analysis of Variable Coefficient Diffusion-Convection Equations. IV. Potential Symmetries
+The structure of N(1535) in the aspect of chiral symmetry
+In the quest for a global (super)symmetry breaking mechanism: an extension of the vibronic mixing process to superpartners
+Four classes of modified relativistic symmetry transformations
+$Z_6$ symmetry of the Standard Model and Technicolor theory
+An SU(3) symmetry for light neutrinos
+Unification of twistors and Ramond vectors
+Emergent Quantum Mechanics and Emergent Symmetries
+Lie symmetries of multidimensional difference equations
+New Dual Conformally Invariant Off-Shell Integrals
+Infinite-Dimensional Symmetries of Two-Dimensional Coset Models Coupled to Gravity
+Hidden Symmetries of Higher-Dimensional Black Hole Spacetimes
+Affine Poisson Groups and WZW Model
+Mixed-Symmetry Massless Fields in Minkowski space Unfolded
+How to Evade a No-Go Theorem in Flavor Symmetries
+How to detect weak emergent broken-symmetries of the Kagome antiferromagnet from Raman spectroscopy
+Off-shell symmetry algebra of the AdS_4 x CP^3 superstring
+New insight on pseudospin doublets in nuclei
+Frame-like gauge invariant formulation for mixed symmetry fermionic fields
+On the area of the symmetry orbits of cosmological spacetimes with toroidal or hyperbolic symmetry
+On Lie Point Symmetries of Einstein's equations for the Friedmann-Roberstson-Walker Cosmology
+Symmetry energy from fragment observables in the canonical thermodynamic model
+The Phase Structure of Dense QCD from Chiral Models
+The 2+1 Dimensional NJL Model at Finite Temperature
+Structure of dualities in bosonic string theory
+2D models of statistical physics with continuous symmetry: the case of singular interactions
+Supersymmetric and R symmetric vacua in Wess-Zumino models
+The Boron Buckyball has an Unexpected Th Symmetry
+Gelfand-Dickey Algebra and Higher Spin Symmetries On $T^2=S^1\times S^1$
+SO(4) symmetry in the relativistic hydrogen atom
+Probing the symmetry energy from the nuclear isoscaling
+Infinitely many local higher symmetries without recursion operator or master symmetry: integrability of the Foursov--Burgers system revisited
+Noether symmetry in $f(R)$ cosmology
+SU(3) dibaryons in the Einstein-Skyrme model
+Spontaneous Symmetry Breaking of Lorentz and (Galilei) Boosts in (Relativistic) Many-Body Systems
+Noncommutative Quantum Field Theory: A Confrontation of Symmetries
+Aspects of Diffeomorphism and Conformal invariance in classical Liouville theory
+Single-mode phonon transmission in symmetry broken carbon nanotubes
+Counting perfect colourings of plane regular tilings
+Vortex Molecules in Spinor Condensates
+Backlund-Transformation-Related Recursion Operators: Application to the Self-Dual Yang-Mills Equation
+Palatini f(R) gravity and Noether symmetry
+Dynamical symmetry of Dirac hydrogen atom with spin symmetry and its connection with Ginocchio's oscillator
+Discrete and continuous symmetries in multi-Higgs-doublet models
+Symmetries of Parabolic Geometries
+Hidden Symmetries and Black Holes
+Review of Rotational Symmetry Breaking in Baby Skyrme Models
+Local symmetries in gauge theories in a finite-dimensional setting
+Evidence for time-reversal symmetry breaking in the non-centrosymmetric superconductor LaNiC$_2$
+Scalar particle spectrum in broken fermion family symmetries
+T-Duality, Dual Conformal Symmetry and Integrability for Strings on AdS_5 x S^5
+Nonlocal interpretation of $λ$-variational symmetry-reduction method
+Breaking Value Symmetry
+Flavor Symmetry in Gauge-Higgs-Matter Unified Orbifold GUTs
+Approximate homotopy symmetry method and homotopy series solutions to the six-order boussinesq equation
+Symmetries and integrability of discrete equations defined on a black-white lattice
+Stability of marginally outer trapped surfaces and symmetries
+Broken translational and time-reversal symmetry in superconducting films
+Symmetries and Supersymmetries of the Dirac Hamiltonian with Axially-Deformed Scalar and Vector Potentials
+A symmetry classification for a class of (2+1)-nonlinear wave equation
+Dynamic localization and transport in complex crystals
+Shedding Light on the Symmetries of Dark Matter
+Mathematical models of spontaneous symmetry breaking
+Consequences of the partial restoration of chiral symmetry in AdS/QCD
+Effects of Quark Interactions on Dynamical Chiral Symmetry Breaking by a Magnetic Field
+Reduction of systems of first-order differential equations via Lambda-symmetries
+A U(3)_C X U(3)_L X U(3)_R gauge symmetry from intersecting D-branes
+A Note on Symmetries of WDVV Equations
+Ordinary differential system in dinension six with affine Weyl group symmetry of type $D_4^{(2)}$
+Spontaneous Broken Local Conformal Symmetry and Dark Energy
+A Pentagonal Crystal, the Golden Section, alcove packing and aperiodic tilings
+Parameter counting in models with global symmetries
+Symmetry Energy in Nuclear Surface
+From global symmetries to local currents: the free (scalar) case in 4 dimensions
+Rotation Symmetry Spontaneous Breaking of Edge States in Zigzag Carbon Nanotubes
+Batalin-Vilkovisky Integrals in Finite Dimensions
+Strong Interactions for the LHC
+Family Gauge Symmetry and Koide's Mass Formula
+Degeneracy Breaking of Hydrogen Atom
+Possible phase-sensitive tests of pairing symmetry in pnictide superconductors
+Weyl collineations that are not curvature collineations
+Asymptotic symmetry of geometries with Schrodinger isometry
+Z(3) Flavor Symmetry and Possible Implications
+Analytical Blowup Solutions to the 2-dimensional Isothermal Euler-Poisson Equations of Gaseous Stars II
+Sequential Flavour Symmetry Breaking
+Symmetries of sub-Riemannian surfaces
+Extended real Clifford - Dirac algebra and bosonic symmetries of the Dirac equation with nonzero mass
+Master formula approach to broken chiral U(3)xU(3) symmetry
+Breaking and restoring of diffeomorphism symmetry in discrete gravity
+Mass number and isospin dependence of symmetry energy coefficients for finite nuclei
+Symmetry-breaking magnetization dynamics of spinor dipolar Bose-Einstein condensates
+Spontaneous versus explicit replica symmetry breaking in the theory of disordered systems
+Neutrinos as pseudo-acoustic ether phonons
+SU(3) quasidynamical symmetry underlying the Alhassid--Whelan arc of regularity
+Optically Isotropic and Monoclinic Ferroelectric Phases in PZT Single Crystals near Morphotropic Phase Boundary
+Flavor Symmetry and Competing Orders in Bilayer Graphene
+Symmetry of forward and reverse path populations
+Symmetries of the Dirac operator with skew-symmetric torsion
+A Higgs Test of Horizontal Symmetry
+Identities of symmetry for Euler polynomials arising from quotients of fermionic integrals invariant under S_3
+Identities of symmetry for Bernoulli polynomials arising from quotients of Volkenborn integrals invariant under S_3
+Identities of symmetry for q-Bernoulli polynomials
+Identities of symmetry for q-Euler polynomials
+Spontaneous Symmetry Breaking in Two Coupled Nanomechanical Electron Shuttles
+Partial Dynamical Symmetries
+Pure Leptonic Gauge Symmetry, Neutrino Masses and Dark Matter
+Laplace-Runge-Lenz symmetry in general rotationally symmetric systems
+Full versus first stage replica symmetry breaking in spin glasses
+Symmetries of higher-spin fields and the electromagnetic N-N(1680) form factors
+Lorentz Symmetry Breaking in Quantum Electrodynamics
+Group Analysis via Weak Symmetries For Benjamin-Bona-Mahony Equation
+Additional symmetries of constrained CKP and BKP hierarchies
+A Semi-Algorithmic Search for Lie Symmetries
+On the Fermi - Bose duality of the Dirac equation with nonzero mass
+Bound state solutions of the Dirac-Rosen-Morse potential with spin and pseudospin symmetry
+Anomalous criticality in the quantum Hall transition at $n=0$ Landau level of graphene with chiral-symmetric disorders
+Non-relativistic Supersymmetry
+Extremal functions in some interpolation inequalities: Symmetry, symmetry breaking and estimates of the best constants
+Duality Symmetry of String Theory: A Worldsheet Perspective
+Patterns of Dynamical Gauge Symmetry Breaking
+Universal Seesaw from Left-Right and Peccei-Quinn Symmetry Breaking
+Strangeness and Chiral Symmetry Breaking
+Universal routes to spontaneous PT-symmetry breaking in non-hermitian quantum systems
+Yangian symmetry of light-like Wilson loops
+Symmetries and adjunction inequalities for knot Floer homology
+Exact Dynamical and Partial Symmetries
+Symmetries, Supersymmetries, and Pairing in Nuclei
+Radial symmetry of solutions to diffusion equations with discontinuous nonlinearities
+Correlations between spectra with different symmetry: any chance to be observed?
+Variable coefficient nonlinear Schrödinger equations with four-dimensional symmetry groups and analysis of their solutions
+The SU(1,1)/U(1) dynamical symmetry of a family of particles in the field of a Kerr black hole
+Baryonic symmetries in AdS_4/CFT_3: an overview
+Defect Formation Preempts Dynamical Symmetry Breaking in Closed Quantum Systems
+How is spontaneous symmetry breaking possible?
+Symmetries of almost complex structures and pseudoholomorphic foliations
+Symmetry and dependence properties within a semiparametric family of bivariate copulas
+de Sitter Galileon
+Lie symmetry analysis of the Grad-Shafranov equation
+Para-Liouville/Toda central charges from M5-branes
+Conformal Symmetry for General Black Holes
+Upper critical field of p-wave ferromagnetic superconductors with orthorhombic symmetry
+Spontaneous symmetry breaking of arbitrage
+Unbreaking chiral symmetry
+Noether Gauge Symmetry Approach in f(R) Gravity
+Transverse in-plane flow: a new probe of symmetry energy in Fermi energy region
+Violation of time reversal symmetry in quantum noninvasive measurements
+Lattice spinor gravity
+Neutron star properties and the symmetry energy
+A centerless Virasoro algebra of master symmetries for the Ablowitz-Ladik hierarchy
+Hamiltonian analysis of symmetries in a massive theory of gravity
+Effect of density dependent symmetry energy on Elliptical flow
+Influence of density dependent symmetry energy on Elliptical flow
+Spin current generation by helical states in a quasi-one-dimensional system
+Flavor-symmetry Breaking with Charged Probes
+Small knot complements, exceptional surgeries, and hidden symmetries
+Upper critical field of p-wave superconductors with orthorhombic symmetry
+Autonomous three dimensional Newtonian systems which admit Lie and Noether point symmetries
+Simple models exhibiting spontaneous symmetry breakdown in classical and non-relativistic quantum mechanics
+Restoration of Parity Symmetry through Presymmetry
+Symmetry, compatibility and exact solutions of PDEs
+From Additional Symmetries to Linearization of Virasoro Symmetries
+The geometric role of symmetry breaking in gravity
+Partial dynamical symmetries in quantum systems
+Symmetries and conservation laws of lattice Boussinesq equations
+Symmetry Energy and Universality classes of holographic QCD
+Generalization of Chiral Symmetry for Tilted Dirac Cones
+Nuclear symmetry energy and neutron skin thickness
+He-McKellar-Wilkens effect and Scalar Aharonov-Bohm effect for a neutral particle based on the Lorentz symmetry violation
+Hidden symmetries and their implications for Particle Physics
+Recent rigorous results support the predictions of spontaneously broken replica symmetry for realistic spin glasses
+Single Spin Superconductivity: Formulation and Ginzburg-Landau Theory
+Spontaneous Symmetry Breaking in the Quantum Sine-Gordon Model
+Spiral symmetry and general Bloch's theorem
+Group theoretical analysis of symmetry breaking in two-dimensional quantum dots
+The maximal number of degenerate directions for non-piezoelectric media of trigonal symmetry
+Ultrametric Broken Replica Symmetry RaMOSt
+Nematic phases and the breaking of double symmetries
+Explanation of the Stern-Gerlach splitting of spinor condensates based on symmetry
+Symmetry and interactivity in Programming
+No New Symmetries of the Vacuum Einstein Equations
+Quantum State and Spontaneous Symmetry Breaking in Gravity
+Dirac symmetry operators from conformal Killing-Yano tensors
+Symmetries and conservation laws in histories-based generalized quantum mechanics
+Electrostatic self-energy in static black holes with spherical symmetry
+Symmetries of the Gowdy Equations and Spatial Topologies
+Noether Symmetry of the Hyperextended Scalar Tensor theory for the FLRW models
+Discrete symmetries and the muon's gyro-gravitational ratio in g-2 experiments
+Beyond the Standard Model Searches at the LHC
+Exact Chiral Symmetry with a non-perturbative cutoff
+Exact Chiral Symmetry on the Lattice: QCD Applications
+An Introduction to Chiral Symmetry on the Lattice
+Remnant Symmetry and the Confinement Phase in Coulomb Gauge
+Heavy Flavor Theory: Overview
+{\bf Consitutent Quarks, Chiral Symmetry and the Nucleon Spin$^{1, 2}$}
+Latest Developments on the Bess Model
+Effective Chiral theory of Mesons
+Superstring Axion, Gaugino Condensation, and Discrete Symmetries
+Discrete and Global Symmetries in Particle Physics
+Avenues for Dynamical Symmetry Breaking
+Enhanced Global Symmetries and The Chiral Phase Transition
+Flavor without Flavor Symmetry
+Color Superconductivity: Symmetries and Effective Lagrangians
+Charm and Bottom Baryon Masses in the 1/N Expansion
+The custodial symmetry
+Symmetries in QFT
+Non-Abelian Discrete Family Symmetries of Leptons and Quarks
+Coloured s-wave quark clusters with flavour symmetry breaking
+Quark-lepton symmetry and complementarity
+Electroweak Symmetry Breaking Circa 2005
+Chiral and U(1) axial symmetry restoration in linear sigma models with two quark flavors
+Soft breaking of $L_μ-L_τ$ symmetry: Light neutrino spectrum and Leptogenesis
+New Insights to Old Problems
+Closing the $SU(3)_L\otimes U(1)_X$ Symmetry at Electroweak Scale
+Lepton Family Symmetry and the Neutrino Mixing Matrix
+Geometry of Majorana neutrino and new symmetries
+Neutrino Mixing: from the Broken μ-τSymmetry to the Broken Friedberg-Lee Symmetry
+W-Algebra Symmetries of Generalised Drinfel'd-Sokolov Hierarchies
+Models with Quantum Symmetry and their Spectra
+Local symmetry in the Kazakov-Migdal gauge model
+Comment on Internal Frame Dragging and a Global Analog of the Aharonov-Bohm Effect
+Quantum Group Symmetries in Conformal Field Theory
+Exact Duality Symmetries in CFT and String Theory
+Duality Symmetric Actions
+Higher-Order Lagrangian Theories and Noetherian Symmetries
+Exact Yangian Symmetry in the Classical Euler-Calogero-Moser Model
+Setting Hidden Symmetries Free by the Noncommutative Veronese Mapping
+Spontaneous Symmetry Breaking as the Mechanism of Quantum Measurement
+The Beacon of Kac-Moody Symmetry for Physics
+Symmetries of BFKL Equation
+Quasigroup of Local-Symmetry Transformations in Constrained Theories
+Some Observations on Broken Symmetries
+Gauged Duality, Conformal Symmetry, and Spacetime with Two Times
+Charging Symmetries and Linearizing Potentials for Einstein-Maxwell Dilaton-Axion Theory
+Flavor ``Conservation'' and Hierarchy in TeV-scale Supersymmetric Standard Model
+Lifting M-theory to Two-Time Physics
+On Hidden Symmetries in d=11 Supergravity and Beyond
+Spontaneous Symmetry Breaking of q-Gauge Field Theory
+A note on the infinite-dimensional symmetries of classical hamiltonian systems
+Dynamical Symmetry Breaking in Supersymmetric SU(n_c) and USp(2n_c) Gauge Theories
+Constraints on the tachyon condensate from anomalous symmetries
+Dielectric branes and spontaneous symmetry breaking
+Mirror Symmetry And Some Applications
+Lagrangian Sp(3) BRST symmetry for Yang-Mills theory
+Crossing Symmetry in the $H_3^+$ WZNW model
+On dynamical chiral symmetry breaking in quantum electrodynamics
+A Brief Course in Spontaneous Symmetry Breaking II. Modern Times: The BEH Mechanism
+Symmetries in M-theory: Monsters, Inc
+On Hopf anomaly
+On threshold amplitudes II: Amplitudes nullification via classical symmetries
+Some simple predictions from E_{11} symmetry
+Symmetries of dynamically equivalent theories
+Symmetries and physical functions in general gauge theory
+Geometric phases and hidden local gauge symmetry
+Global Symmetries of Noncommutative Space-time
+About Spontaneous Symmetry Breaking in the Field Theory with Fundamental Mass
+Segre varieties and Lie symmetries
+Mirror symmetry and C^\times
+Semistable K3-surfaces with icosahedral symmetry
+Erzeugung nichtlinearer gewöhnlicher Differentialgleichungen mit vorgegebener Lie-Algebra von Punktsymmetrien [Generation of ordinary differential equations with predetermined Lie algebra of point symmetries]
+Topological method for symmetric periodic orbits for maps with a reversing symmetry
+Exploiting Symmetries in the Computation of Graver Bases
+On the Symmetry of the Diffusion Coefficient in Asymmetric Simple Exclusion
+Hamiltonian-minimal submanifolds in Kaehler manifolds with symmetries
+On symmetry problems
+Perturbation from symmetry and multiplicity of solutions for strongly indefinite elliptic systems
+P.S. to the paper "Dirac type tensor equations with nonabelian gauge symmetries on pseudo-Riemannian space"
+The fine gradings of sl(3,C) and their symmetries
+Reciprocal Symmetry and the Origin of Spin
+Generalized Partial Dynamical Symmetries in Nuclear Spectroscopy
+D4-symmetric Maps with Hidden Euclidean Symmetry
+On the interrelation between Gibbs hypotheses and symmetry postulate
+On Symmetries in Nonlinear Quantum Mechanics
+Spontaneous breaking of axial symmetry for Schroedinger's equation in the presence of a magnetic field
+Complex Spectrum of a Spontaneously Unbroken PT Symmetric Hamiltonian
+Matrix Integrals, Toda symmetries, Virasoro constraints, and orthogonal polynomials
+Additional symmetries of the Zakharov-Shabat hierarchy, String equation and Isomonodromy
+Symmetries in the system of type $A_5^{(2)}$
+Symmetries in the system of type $D_4^{(1)}$
+Five-parameter family of partial differential systems in two variables
+Dynamical Symmetries in Supersymmetric Matrix Models
+New Insights on Time-Symmetry in Quantum Mechanics
+Garnier system in two variables and its symmetry and holomorphy conditions
+A(4) Symmetry and Neutrinos
+Cartan's structure of symmetry pseudo-group and coverings for the r-th modified dispersionless Kadomtsev--Petviashvili equation
+Symmetries and the Riemann Hypothesis
+Symmetry of singular solutions of degenerate quasilinear elliptic equations
+Symmetry properties of the generalized higher-order Euler polynomials
+Symmetry Results for classical solutions of Monge-Ampere systems on a bounded planar domain
+Opinion Crystallography: Polarizations, Symmetries, Bonds, and Bands
+Gauge invariance and time symmetry breaking
+Symmetry preserving discretization of SL(2,R) invariant equations
+On Quarks and Flavour Symmetry
+Horizontal Symmetry
+Symmetry and holomorphy of the third-order ordinary differential equation satisfied by the third Painlevé Hamiltonian
+Symmetries of 2nd order ODE: y'' + G(x)y' + H(x)y = 0
+Symmetry Energy I: Semi-Infinite Matter
+Degeneracy of triality-symmetric morphisms
+Symmetry and colorings: Some results and open problems
+Gedanken Worlds without Higgs: QCD-Induced Electroweak Symmetry Breaking
+Heterotic $D=2 (1/3, 0)$ Susy Models
+Minimal surfaces with only horizontal symmetries
+CR-quadrics with a symmetry property
+Gauge Symmetry Breaking in a Throat Geometry
+Relative equilibria of Lagrangian systems with symmetry
+Solution of symmetry equation and hierarchy of self dual Yang-Mills systems
+Geometry and Symmetry Structures in 2T Gravity
+Maurer - Cartan Forms of the Symmetry Pseudo-Group and the Covering of Plebanski's Second Heavenly Equation
+The Theory of a Quantum Noncanonical Field in Curved Spacetimes
+Particle-Hole Symmetry Breaking in the Pseudogap State of Bi2201
+Explicit Chiral Symmetry Breaking as a Premise of the Cross-Sections' Rise
+Twisted symmetries of differential equations
+On the symmetry of minimizers in constrained quasi-linear problems
+A dynamical symmetry for supermembranes
+Generational Structure of Models with Dynamical Symmetry Breaking
+Isospectral But Physically Distinct: Modular Symmetries and their Implications for Carbon Nanotori
+Symmetries and Interaction coefficients of Kelvin waves
+Topologically massive non-Abelian theory: superfield formalism
+PT Symmetry and the Sign Problem
+Symmetry and collective motion
+Symmetries in Fluctuations Far from Equilibrium
+Examples of global symmetry enhancement by monopole operators
+Probing Lorentz Symmetry with Gravitationally Coupled Matter
+Symmetry and Automated Branch Following for a Semilinear Elliptic PDE on a Fractal Region
+Lorentz Symmetry and Matter-Gravity Couplings
+Reply to "Comment on 'Noncommutative gauge theories and Lorentz symmetry'"
+Symmetry in variational principles and applications
+Exponents, symmetry groups and classification of operator fractional Brownian motions
+Yangian symmetry of boundary scattering in AdS/CFT and the explicit form of bound state reflection matrices
+Symmetry of Traveling Wave Solutions to the Allen-Cahn Equation in $\Er^2$
+Mirror Symmetry for Calabi-Yau complete intersections in Fano toric varieties
+A note on homological mirror symmetry for the quintic 3-fold
+Negative Energy Solutions and Symmetries
+Bishop and Laplacian Comparison Theorems on Three Dimensional Contact Subriemannian Manifolds with Symmetry
+Models with on-site symmetry protected topological order in two spatial dimension
+Complete bipartite graphs whose topological symmetry groups are polyhedral
+Existence of Minimizers of a class of multi-constrained variationnal problems in the absence of compactness, symmetry and monotonicity
+Apochromatic Twiss Parameters of Drift-Quadrupole Systems with Symmetries
+Classical gauge gravitation theory
+Twisted Masses and Enhanced Symmetries: the A&D Series
+Spontaneous Symmetry Breaking in Quantum Systems. A review for Scholarpedia
+Structure theory for extended Kepler-Coulomb 3D classical superintegrable systems
+On the orthogonal basis of the symmetry classes of tensors associated with the Semi-Dihedral groups
+Discovering internal symmetry in cosmology
+Kaon Condensates, Nuclear Symmetry Energy and Cooling of Neutron Stars
+Wave-function entropy and dynamical-symmetry breaking in the interacting boson model
+Hole-pair symmetry and excitations in the strong-coupling extended t-J_z model
+Extracting Hidden Symmetry from the Energy Spectrum
+Broken Time Reversal of Light Interaction with Planar Chiral Nanostructures
+Spontaneous-Symmetry-Breaking Mechanism of Adiabatic Pumping
+Total Chiral Symmetry Breaking during Crystallization: Who needs a "Mother Crystal"?
+On the relation between decoherence and spontaneous symmetry breaking
+Symmetry constraints on the electrical polarization in novel multiferroic materials
+Tunneling currents in ferromagnetic systems with multiple broken symmetries
+The Symmetry of Multiferroics
+Classification of a supersolid: Symmetry breaking and Excitation spectra
+Symmetries of asymptotically flat electrovacuum spacetimes and radiation
+Theory of Quantum Space-Time
+Isotropy, shear, symmetry and exact solutions for relativistic fluid spheres
+Which Chiral Symmetry is Restored in High Temperature QCD?
+Dynamical lattice QCD thermodynamics and the U(1)_A symmetry with domain wall fermions
+Patterns of Spontaneous Chiral Symmetry Breaking in Vectorlike Gauge Theories
+Lattice Supersymmetry and Topological Field Theory
+Hadronic Transitions among Quarkonium States in a Soft-Exchange-Approximation. Chiral Breaking and Spin Symmetry Breaking Processes
+Flavor symmetry breaking in quark magnetic moments
+Heavy-Quark Symmetry and Skyrmions
+Can a pseudo-symmetry solve the cosmological constant problem?
+Weak decays of doubly heavy hadrons
+Fermion masses and mixing from an extra gauge symmetry
+Automatic CP Invariance and Flavor Symmetry
+Leptophobic Z' from Superstring Derived Models
+Yukawa Textures from Family Symmetry and Unification
+Low Energy Grand Unification With SU(16)
+Strong CP and Mu Problems in Theories with Gauge Mediated Supersymmetry Breaking
+Models of Electroweak Symmetry Breaking
+Flat directions, String Compactification and 3 Generation Models
+Fermion Masses and Neutrino Oscillations in SO(10) SUSY GUT with D_3 x U(1) Family Symmetry
+A Nonperturbative Study of Inverse Symmetry Breaking at High Temperatures
+Solving the mu problem in gauge mediated supersymmetry breaking models with flavor symmetry
+A 2-3 Symmetry in Neutrino Oscillations
+Executive Summary of the Snowmass 2001 Working Group (P1) ``Electroweak Symmetry Breaking''
+Remarks on the U(1) axial symmetry in QCD at zero and non-zero temperature
+5D SUSY Orbifold SU(6) GUT and Pseudo-Goldstone Higgs Doublets
+Bimaximal Neutrino Mixixing from a Local SU(2) Horizontal Symmetry
+Natural R-Parity, μ-term, and Fermion Mass Hierarchy From Discrete Gauge Symmetries
+Symmetries and Symmetry Breaking
+Discrete symmetries, invisible axion and lepton number symmetry in an economic 3-3-1 model
+On Extended Electroweak Symmetries
+SO(10) Symmetry Breaking and Type II Seesaw
+Can Chiral Symmetry Explain the Small Pentaquark Width?
+Neutrino 2-3 Symmetry and Inverted Hierarchy
+Dynamically Induced Spontaneous Symmetry Breaking in 3-3-1 Models
+Tri-Bimaximal Neutrino Mixing from Discrete Symmetry in Extra Dimensions
+Observable/Hidden Broken Symmetry for Symmetric Boundary Conditions
+The Twin Higgs: Natural Electroweak Breaking from Mirror Symmetry
+Fermion masses in E_6 grand unification with family permutation symmetries
+Influence of QED Corrections on the Orientation of Chiral Symmetry Breaking in the NJL model
+A Twin Higgs Model from Left-Right Symmetry
+Parton Charge Symmetry Violation: Electromagnetic Effects and W Production Asymmetries
+Anomaly of discrete family symmetries and gauge coupling unification
+Leptonic CP violation: zero, maximal or between the two extremes
+Mass Independent Textures and Symmetry
+Anomalies of Discrete Symmetries and Gauge Coupling Unification
+Landscape of Little Hierarchy
+On the Symmetries of Integrability
+Gauge Symmetries of the N=2 String
+On the Symmetries of Hamiltonian Systems
+Higgs Mechanism and Symmetry Breaking without Redundant Variables
+Virasoro Symmetry of Constrained KP Hierarchies
+Conditional symmetry and spectrum of the one-dimensional Schrödinger equation
+Spectrum-generating Symmetries for BPS Solitons
+Symmetries for generating string cosmologies
+Faddeev-Jackiw Analysis of Topological Mass Generating Action
+On the Symmetry of Real-Space Renormalisation
+Dual BRST symmetry for QED
+P,T-invariant system of Chern-Simons fields: Pseudoclassical model and hidden symmetries
+Mode Analysis and Duality Symmetry in Different Dimensions
+Massive Vector Gauge Theory and Comparison with Higgs-Connes-Lott
+Anti-de Sitter Space and the Center of the Gauge Group
+String Dualities in the Presence of Anomalous U(1) Symmetries
+Local symmetries in the Hamiltonian framework. 1. Hamiltonian form of the symmetries and the Noether identities
+Hidden local, quasi-local and non-local Symmetries in Integrable Systems
+Internal Space-time Symmetries of Massive and Massless Particles and their Unification
+Spontaneous breaking of the rotational symmetry induced by monopoles in extra dimensions
+Gauging dual symmetry
+New symmetries for Abelian gauge theory in superfield formulation
+Lattice Chiral Symmetry and the Wess-Zumino Model
+Realization of Global Symmetries in the Wilsonian Renormalization Group
+A proposal for a first class conversion formalism based on the symmetries of the Wess-Zumino terms
+Gauge Symmmetry and Supersymmetry Breaking by Discrete Symmetry
+A universal symmetry structure in open string theory
+Deformed Lorentz Symmetry and High-Energy Astrophysics (II)
+Open strings in the plane wave background I: Quantization and symmetries
+Magnetic Z(N) symmetry in 2+1 dimensions
+Central charges, symplectic forms, and hypergeometric series in local mirror symmetry
+Hidden Exceptional Global Symmetries in 4d CFTs
+Time-Space Noncommutativity And Symmetries For A Massive Relativistic Particle
+More on La Grande Bouffe: towards higher spin symmetry breaking in AdS
+On the fermionic Grande Bouffe: more on higher spin symmetry breaking in AdS/CFT
+On hidden broken nonlinear superconformal symmetry of conformal mechanics and nature of double nonlinear superconformal symmetry
+Lorentz symmetry violation without violation of relativistic symmetry
+Drinfel'd Twisted Superconformal Algebra and Structure of Unbroken Symmetries
+Chiral symmetry breaking and restoration from holography
+Symmetries and reversing symmetries of trace maps
+Pre-Symmetry Sets of 3D shapes
+The Degree of Symmetry of Certain Compact Smooth Manifolds II
+Spiral Waves and the Dynamical System Approach
+Reduction of Presymplectic Manifolds with Symmetry
+Generalized Goldstone Theorem: Automatic Imposition of the Higgs Mechanism and Application to Scale and Conformal Symmetry Breaking
+Pseudo-Hermiticity versus PT-Symmetry III: Equivalence of pseudo-Her miticity and the presence of antilinear symmetries
+Non-Noether symmetries and their influence on phase space geometry
+q-Deformed quantum Lie algebras
+Point symmetries of 3D static plasma equilibrium systems: comparison and applications
+Role of exterior and evolutionary skew-symmetric differential forms in mathematical physics
+Connections Between Symmetries and Conservation Laws
+Conservation Laws and Symmetries of Semilinear Radial Wave Equations
+Loop-Algebra and Virasoro Symmetries of Integrable Hierarchies of KP Type
+A Relativistic Symmetry in Nuclei
+Partial Dynamical Symmetry in the Symplectic Shell Model
+Atomic Nuclei with Tetrahedral and Octahedral Symmetries
+Mixed Symmetry Nuclear Shell Model
+Effects of momentum-dependent symmetry potential on heavy-ion collisions induced by neutron-rich nuclei
+Probing the symmetry energy and the degree of isospin equilibrium
+Coleman-Weinberg mechanism for spontaneous chiral symmetry breaking in the massless chiral sigma model
+Symmetry Adaptation and Two-Photon Spectroscopy of Ions in Molecular or Solid-State Finite Symmetry
+Assessing symmetry of financial returns series
+Braided quantum field theories and their symmetries
+Spontaneous Symmetry Breaking and Decoherence in Superconductors
+Hidden Symmetries of Stochastic Models
+Duality and hidden symmetries in interacting particle systems
+Nuclear condensation and symmetry energy of dilute nuclear matter: an S-matrix approach
+Unusual states of vortex matter in mixtures of Bose--Einstein Condensates on rotating optical lattices
+Quantum fields, non-locality and quantum group symmetries
+An Exceptional Algebraic Origin of the AdS/CFT Yangian Symmetry
+Solvent-induced symmetry breaking and second order phase transitions
+Temperature dependent change in the symmetry of the order parameter in an electron-doped high-temperature superconductor
+Electroweak Symmetry Breaking induced by Dark Matter
+Note on the Lattice Fermion Chiral Symmetry Group
+Second-Order Approximate Symmetries of the Geodesic Equations for the Reissner-Nordström Metric and Re-Scaling of Energy of a Test Particle
+Large Top Mass and Non-Linear Representation of Flavour Symmetry
+Family symmetries and the origin of fermion masses and mixings
+Symmetries and alignment of biaxial nematic liquid crystals
+Kac-Moody algebraic structures in supergravity theories
+Abelian duality, confinement, and chiral symmetry breaking in QCD(adj)
+Noether theorem for mu-symmetries
+Bose-Einstein condensation and gauge symmetry breaking
+Pairing Symmetry in a Two-Orbital Exchange Coupling Model of Oxypnictides
+(Anti-)dual-BRST symmetries: Abelian 2-form gauge theory
+Enhanced symmetries of gauge theory and resolving the spectrum of local operators
+Quantum double and $κ$-Poincaré symmetries in (2+1)-gravity and Chern-Simons theory
+Symmetries of Spin Calogero Models
+Emergent Electroweak Symmetry Breaking with Composite W, Z Bosons
+Entanglement and symmetry in permutation symmetric states
+Symmetry Classes
+Matrix Extension with Symmetry and Its Application to Filter Banks
+How the Polyakov loop and the regularization affect strangeness and restoration of symmetries at finite T
+A No-Go Theorem for M5-brane Theory
+Spontaneous Symmetry Breaking and Nambu-Goldstone Bosons in Quantum Many-Body Systems
+Higher-Dimensional Black Holes: Hidden Symmetries and Separation of Variables
+Hidden Symmetries of M-Theory and Its Dynamical Realization
+Two elementary proofs of the Wigner theorem on symmetry in quantum mechanics
+Symmetry-Breaking and Symmetry-Restoring Dynamics of a Mixture of Bose-Einstein Condensates in a Double Well
+Unified model of fermion masses with Wilson line flavor symmetry breaking
+Early time kinetics of systems with spatial symmetry breaking
+Universal heat transport in a heavy-fermion superconductor
+Yangian symmetry of scattering amplitudes in N=4 super Yang-Mills theory
+Linear time equivalence of Littlewood--Richardson coefficient symmetry maps
+Transverse Symmetry Transformations and the Quark-Gluon Vertex Function in QCD
+Implications of experimental probes of the RG-flow in quantum Hall systems
+Decoherence induced spontaneous symmetry breaking
+Friedberg-Lee symmetry and tri-bimaximal neutrino mixing in the inverse seesaw mechanism
+Dual conformal invariance in the Regge limit
+Universal construction of order parameters for translation-invariant quantum lattice systems with symmetry-breaking order
+Little Higgs model with new Z-parity and Dark matter
+Symmetry and Z_2-Orbifolding Approach in Five-dimensional Lattice Gauge Theory
+Symmetries for the Ablowitz-Ladik hierarchy: I. Four-potential case
+Low-Scale Leptogenesis and the Domain Wall Problem in Models with Discrete Flavor Symmetries
+[SADE] A Maple package for the Symmetry Analysis of Differential Equations
+Family symmetries in F-theory GUTs
+Junction type representations of the Temperley-Lieb algebra and associated symmetries
+Continuous symmetry reduction and return maps for high-dimensional flows
+Spontaneous breaking of spatial and spin symmetry in spinor condensates
+Notes on the Hidden Conformal Symmetry in the Near Horizon Geometry of the Kerr Black Hole
+q-Deformed Onsager symmetry in boundary integrable models related to twisted U$_{q^{1/2}}(\hat{sl_2})$ symmetry
+Broken Symmetry as a Stabilizing Remnant
+Quantum Anomalous Hall State in Bilayer Graphene
+Artificial Neural Networks, Symmetries and Differential Evolution
+The interplay between grand unified and flavour symmetries in a Pati-Salam x S4 model
+Geometric Nonlinearities in Field Theory, Condensed Matter and Analytical Mechanics
+On Bravais Colorings Associated with Periodic and Non-Periodic Crystals
+Finite motions from periodic frameworks with added symmetry
+A Ginsparg-Wilson approach to lattice $\mathcal{CP}$ symmetry
+Basis-independent methods for the two-Higgs-doublet model III: The CP-conserving limit, custodial symmetry, and the oblique parameters S, T, U
+Effect of splitting of the neutron and proton effective mass on nuclear symmetry energy at finite temperature
+Spontaneous Symmetry Breaking during Formation of ZnO Nanocrystals
+Soliton surfaces associated with generalize symmetries of integrable equations
+Emerging Non-Anomalous Baryonic Symmetries in the AdS_5/CFT_4 Correspondence
+Discrete Symmetries in the MSSM
+Discrete symmetries and models of flavor mixing
+Time-reversal-symmetry-broken quantum spin Hall effect
+Symmetries for Galileons and DBI scalars on curved space
+Analytic derivation of an approximate SU(3) symmetry inside the symmetry triangle of the Interacting Boson Approximation model
+Dark Matter and Neutrino Masses from Global $U(1)_{B-L}$ Symmetry Breaking
+General Relativity as the effective theory of GL(4,R) spontaneous symmetry breaking
+Magnetoelectric effects, helical phases, and FFLO phases in superconductors without inversion symmetry
+Proton Stability and Light $Z^\prime$ Inspired by String Derived Models
+Zero Textures of the Neutrino Mass Matrix from Cyclic Family Symmetry
+Improved bounds for CFT's with global symmetries
+Influence of Transport Variables on Isospin Transport Ratios
+Influence of the nuclear symmetry energy on the structure and composition of the outer crust
+Surface properties of neutron-rich exotic nuclei: A source for studying the nuclear symmetry energy
+Quasiparticle Scattering Interference in (K,Tl)FexSe2 Superconductors
+Revisiting symmetries of lattice fermions via spin-flavor representation
+Applications of Symmetry Breaking in Determining PDFs of the Nucleon
+Symmetry Breaking and Order in the Age of Quasicrystals
+Stable configuration of a molecule as spontaneous symmetry breaking
+Sensitivity of neutron to proton ratio toward the high density behavior of symmetry energy in heavy-ion collisions
+Spontaneous Symmetry Probing
+Strongly First Order Phase Transitions Near an Enhanced Discrete Symmetry Point
+Minimal extension of tri-bimaximal mixing and generalized Z_2 X Z_2 symmetries
+Symmetries of finite Heisenberg groups for k-partite systems
+Neutrino Hierarchies from a Gauge Symmetry
+O(10) kinks: clash of symmetries on the brane and the gauge hierarchy problem
+Classifying quantum phases using Matrix Product States and PEPS
+Analysis of the valence band photoemission spectrum of Sr$_2$CuO$_2$Cl$_2$ along the high-symmetry directions
+Symmetries in the Hubbard model with n-fold orbital degeneracy
+Quantum Orders and Symmetric Spin Liquids
+Symmetries and Elasticity of Nematic Gels
+Hidden Symmetries and their Consequences in $t_{2g}$ Cubic Perovskites
+Hole-pair symmetry and excitations in the strong-coupling extended t-Jz model: competition between d-wave and p-wave
+Global phase diagram of the spin-1 antiferromagnet with uniaxial anisotropy on the kagome lattice
+Nonholonomic Deformations of Disk Solutions and Algebroid Symmetries in Einstein and Extra Dimension Gravity
+A symmetry for vanishing cosmological constant: Another realization
+Semilocal Defects
+CP,T and/or CPT Violations in the K0-K0bar System --Implications of the KTeV,NA48 and CPLEAR Results
+Spontaneous symmetry breaking in gauge theories via Bose-Einstein condensation
+Abelian family symmetries and the simplest models that give theta13=0 in the neutrino mixing matrix
+Chiral symmetry restoration in excited hadrons, quantum fluctuations, and quasiclassics
+Classical Symmetries of Some Two-Dimensional Models
+Conformal and Nonconformal Symmetries in 2d Dilaton gravity
+Dualities in the classical supergravity limits
+Dynamics of Supersymmetric SU(n_c) and USp(2n_c) Gauge Theories
+The Quantum Geometry of Supersymmetry and the Generalized Group Extension Problem
+Clash of symmetries on the brane
+A Brief Course in Spontaneous Symmetry Breaking I. The Paleolitic Age
+An Information-Theoretic Link Between Spacetime Symmetries and Quantum Linearity
+Three-Form Gauging of axion Symmetries and Gravity
+On the symmetry classes of the first covariant derivatives of tensor fields
+Symmetry classes of disordered fermions
+Spatial period-multiplying instabilities of hexagonal Faraday waves
+Conservation Laws and Potential Symmetries of Linear Parabolic Equations
+Highly Excited Mesons, Linear Regge Trajectories and the Pattern of the Chiral Symmetry Realization
+Observation of an in-plane magnetic-field-driven phase transition in a quantum Hall system with SU(4) symmetry
+Spontaneous CP violation in E6 SUSY GUT with SU(2) flavor and anomalous U(1) symmetries
+Enhanced Gauge Symmetries in Superstring Theories
+Suppressed FCNC in New Physics with Shared Flavor Symmetry
+Vortices in chiral, spin-triplet superconductors and superfluids
+Tensor-Entanglement-Filtering Renormalization Approach and Symmetry Protected Topological Order
+2D Superconductivity: Classification of Universality Classes by Infinite Symmetry
+Texture zeroes and discrete flavor symmetries in light and heavy Majorana neutrino mass matrices: a bottom-up approach
+Galilean Conformal Algebras and AdS/CFT
+On discrete Minimal Flavour Violation
+Distinguishing Dark Matter Stabilization Symmetries Using Multiple Kinematic Edges and Cusps
+The Interplay Between GUT and Flavour Symmetries in a Pati-Salam x S4 Model
+Proliferation of anomalous symmetries in colloidal monolayers subjected to quasiperiodic light fields
+Higgs as a pseudo-Goldstone boson, the mu problem and gauge-mediated supersymmetry breaking
+PT-symmetry breaking in complex nonlinear wave equations and their deformations
+The theory of manipulations of pure state asymmetry I: basic tools and equivalence classes of states under symmetric operations
+On Chiral Symmetry Restoration at Finite Density in Large N_c QCD
+Invariant-based approach to symmetry class detection
+Gell-Mann-Oakes-Renner relation for multiple chiral symmetries
+On representations of Higher Spin symmetry algebras for mixed-symmetry HS fields on AdS-spaces. Lagrangian formulation
+Picometer Registration of Zinc Impurity States in Bi2Sr2CaCu2O8+d for Phase Determination in Intra-unit-cell Fourier Transform STM
+Flavor Mediation Delivers Natural SUSY
+Unification via intermediate symmetry breaking scales with the quartification gauge group
+Rigid and gauge Noether symmetries for constrained systems
+Particle-hole symmetry and the dirty boson problem
+Weyl Invariant Standard Model and its Symmetry Breaking
+Breaking Instance-Independent Symmetries In Exact Graph Coloring
+Mixed quark-nucleon phase in neutron stars and nuclear symmetry energy
+Dynamical behavior of a dissipative particle in a periodic potential subject to chaotic noise: Retrieval of chaotic determinism with broken parity
+Selection Rules for Two Channel Kondo Models of U and Ce ions in Metals
+Low-Lying Excited States of Quantum Antiferromagnets on a Triangular Lattice
+A Superconducting Instability in the Infinite-U Anderson Lattice in the Presence of Crystal Electric Fields
+Symmetry dependence of phonon lineshapes in superconductors with anisotropic gaps
+Electronic Raman scattering in superconductors as a probe of anisotropic electron pairing
+Block diagonalizing ultrametric matrices
+The Spectrum of the two dimensional Hubbard model at low filling
+Nonlinear Magneto-Optical Response of $s$- and $d$-Wave Superconductors
+Interactions between Membrane Inclusions on Fluctuating Membranes
+Local Spin-Gauge Symmetry of the Bose-Einstein Condensates in Atomic Gases
+Field Theory of Quantum Antiferromagnets : From the Triangular to the Kagome Lattice
+SO(5) Quantum Nonlinear sigma Model Theory of the High Tc Superconductivity
+Broken Symmetry and Nonequilibrium Superfluid 3He
+Theory of electrons with orbital degeneracy
+Reparametrization invariance: a gauge-like symmetry of ultrametrically organised states
+Implications of SU(2) symmetry on the dynamics of population difference in the two-component atomic vapor
+Random matrix theory for systems with an approximate symmetry and widths of acoustic resonances in thin chaotic plates
+Symmetry of the remanent state flux distribution in superconducting thin strips: Probing the critical state
+Particle-Hole Symmetry and the Effect of Disorder on the Mott-Hubbard Insulator
+Symmetry breaking through a sequence of transitions in a driven diffusive system
+Kramers-Wannier symmetry and strong-weak-coupling duality in the two-dimensional $Φ^{4}$ field model
+Tunneling of quantum rotobreathers
+Identification of the bulk pairing symmetry in high-temperature superconductors: Evidence for an extended s-wave with eight line nodes
+Network models for localisation problems belonging to the chiral symmetry classes
+The Local Structure of La1.65Eu0.2Sr 0.15CuO4 determined by 63Cu NMR Spectroscopy and Van Vleck Paramagnetism of Eu3+ Ions
+A phenomenology for multiple phases in the heavy fermion skutterudite superconductor PrOs4Sb12
+Spontaneous Symmetry Breaking and Exotic Quantum Order in Integer Quantum Hall Systems under a Tilted Magnetic Field
+Josephson effect in quasi one-dimensional unconventional superconductors
+Generalized "Quasi-classical" Ground State for an Interacting Two Level System
+Symmetries of the Resistance of Mesoscopic Samples in the Quantum Hall Regime
+Interactions and Broken Time-Reversal Symmetry in Chaotic Quantum Dots
+Angular-dependent Magnetoresistance Oscillations in Na$_{0.48}$CoO$_{2}$ Single Crystal
+The $s=1/2$ Antiferromagnetic Heisenberg Model on Fullerene-Type Symmetry Clusters
+Dynamical origin of spontaneous symmetry breaking in a field-driven nonequilibrium system
+Breaking of the overall permutation symmetry in nonlinear optical susceptibilities of one-dimensional periodic dimerized Huckel model
+Bethe Ansatz and Symmetry in Superintegrable Chiral Potts Model and Root-of-unity Six-vertex Model
+Defect mediated melting and the breaking of quantum double symmetries
+Anderson transition in systems with chiral symmetry
+Intermediate Symmetries In Electronic Systems: Dimensional Reduction, Order Out Of Disorder, Dualities, And Fractionalization
+Ab initio calculations of structural and electronic properties of CdTe clusters
+Quantum Monte Carlo study for multiorbital systems with preserved spin and orbital rotational symmetries
+Unconventional superconducting pairing symmetry induced by phonons
+Electronic states in a magnetic quantum-dot molecule: phase transitions and spontaneous symmetry breaking
+Pairing Symmetry and Upward Curvature of Upper Critical Field in Superconducting $Na_{0.35} Co O_2 \cdot y H_2 O$
+Competition of Fermi surface symmetry breaking and superconductivity
+Four-spin-exchange- and magnetic-field-induced chiral order in two-leg spin ladders
+Symmetries of the Einstein Equations
+Asymptotic Symmetry Groups of Long-Ranged Gauge Configurations
+Symmetries of Decoherence Functionals
+Generalized symmetries and invariant matter couplings in two-dimensional dilaton gravity
+Gravitational theory without the cosmological constant problem, symmetries of space-filling branes and higher dimensions
+A note on the gauge symmetries of pure Chern-Simons theories with p-form gauge fields
+Charging Symmetries and Linearizing Potentials for Gravity Models with Symplectic Symmetry
+Loop Quantum Cosmology I: Kinematics
+External symmetry in general relativity
+Symmetry properties of the metric energy-momentum tensor in classical field theories and gravity
+Proposal of a second generation of quantum-gravity-motivated Lorentz-symmetry tests: sensitivity to effects suppressed quadratically by the Planck scale
+Symmetries and pre-metric electromagnetism
+Noether's theorem, the stress-energy tensor and Hamiltonian constraints
+Improving the staggered quark action to reduce flavour symmetry violations
+From enemies to friends: chiral symmetry on the lattice
+CP symmetry and lattice chiral gauge theories
+Anomalous superfluidity in 2+1 dimensional two-color lattice QCD
+Electroweak Symmetry Breaking via a Technicolor Nambu--Jona-Lasinio Model
+Study of the simplest realistic Higgs sector in quark-lepton symmetric models
+Mass Matrix Models: The Sequel
+Dynamical Generation of Fermion Mass Hierarchy
+Symmetry Principles toward Solutions of $μ$ Problem
+Lepton Mass Matrix Models
+Strongly Coupled Electroweak Symmetry Breaking: Implications of Models
+The Weak-Scale Hierarchy and Discrete Symmetries
+A Dynamical Left--Right Symmetry Breaking Model
+Chiral Scalar Fields, Custodial Symmetry in Electroweak SU(2)L X U(1) and the Quantization of the Electric Charge
+Anomalous U(1) symmetry and missing doublet SU(5) model
+Spontaneous Generation of Pseudoscalar Mass in the U(3)xU(3) Linear Sigma Model
+SU(3) symmetry breaking in hyperon semileptonic decays
+Thermal Restoration of Chiral Symmetry in Supersymmetric Nambu-Jona-Lasinio Model with Soft SUSY Breaking
+Validity of Flavor Symmetry and Charge Symmetry for Parton Distributions
+Chiral Symmetry Breaking without Bilinear Condensates, Unbroken Axial Z_N Symmetry, and Exact QCD Inequalities
+Gravitationally violated U(1) symmetry and neutrino anomalies
+Strong WW scattering at the end of the 90's: theory and experimental prospects
+Top-quark condensate at finite temperature and electroweak symmetry restoration
+Radiative Decays, Nonet Symmetry and SU(3) Breaking
+Bounds on Flavor Gauge Bosons from Precision Electroweak Data
+A Supersymmetric Model with an Extra U(1) Gauge Symmetry
+Parity doublets and chiral symmetry restoration in baryon spectrum
+Enhanced Global Symmetries and a Strong Electroweak Sector
+Charge symmetry violation in the parton distributions of the nucleon
+Vector Manifestation of the Chiral Symmetry
+Regularization and supersymmetry-restoring counterterms in supersymmetric QCD
+Spontaneously Generated Gauge Invariance
+Cosmological constant and spontaneous gauge symmetry breaking: the particle physics and cosmology interface charade
+Flavor Symmetries in Extra Dimensions
+Naturally light invisible axion and local Z_{13} times Z_3 symmetries
+Naturally light invisible axion in models with large local discrete symmetries
+Flavor violation in supersymmetric theories with gauged flavor symmetries
+New Ideas in Symmetry Breaking
+Grand Unification with Anomalous U(1) Symmetry and Non-abelian Horizontal Symmetry
+Gauge-Fermion Unification and Flavour Symmetry
+Low Energy Consequences of Five Dimensional SO(10)
+Unitarity, BRST Symmetry and Ward Identities in Orbifold Gauge Theories
+Stabilizing the axion and a natural solution to the mu problem of supersymmetry
+Is There a Peccei-Quinn Phase Transition?
+T Parity and the Littlest Higgs
+Restoration of chiral symmetry in excited hadrons
+Electroweak Symmetry Breaking from SUSY Breaking with Bosonic See-Saw Mechanism
+Breaking Discrete Symmetries in Broken Gauge Theories
+SU(3) family symmetry and neutrino bi-tri-maximal mixing
+Effects of the restoration of U$_A$(1) symmetry on pseudoscalar meson observables
+Dropping rho and A_1 Meson Masses at Chiral Phase Transition in the Generalized Hidden Local Symmetry
+Quantum numbers of heavy neutrinos, tri-bi-maximal mixing through double seesaw with permutation symmetry, and comment on $θ_{\rm sol}+θ_c\simeq \fracπ{4}$
+What is the Discrete Gauge Symmetry of the MSSM?
+A simple toy model for effective restoration of chiral symmetry in excited hadrons
+Universal 2-3 symmetry
+The flavor of product-group GUTs
+Suppression of flavor symmetry breaking in B decay sum rules
+Phased Breaking of mu-tau symmetry and Leptogenesis
+Unification of standard and exotic matter through a $Z_2$ symmetry
+Doubly heavy hadrons and the domain of validity of doubly heavy diquark--anti-quark symmetry
+Flavor Symmetry and Vacuum Aligned Mass Textures
+SU(3) Family Gauge Symmetry and the Axion
+Solutions to large B and L breaking in the Randall-Sundrum model
+Phase structure of NJL model with finite quark mass and QED correction
+Dropping rho and A1 Meson Masses at the Chiral Phase Transition in the Generalized Hidden Local Symmetry
+Infinite Quantum Group Symmetry of Fields in Massive 2D Quantum Field Theory
+Target Space Duality as a Symmetry of String Field Theory
+The Complete Structure of the Cohomology Ring and Associated Symmetries in $D=2$ String Theory
+Lattice Wess-Zumino-Witten Model and Quantum Groups
+Dilaton-Axion Symmetry
+Topology changing processes and symmetries of string effective action
+A U(1) Current Algebra Model Coupled to 2D-Gravity
+Reply to `Comment on Gravity and the Poincare' Group'
+Canonical Analysis of Poincare' Gauge Theories for Two Dimansional Gravity
+Classical and Quantized Tensionless Strings
+Quantum Symmetry
+Modular Theory and Symmetry in QFT
+Quantum group symmetry of the Quantum Hall effect on the non-flat surfaces
+Gribov Problem and BRST Symmetry
+Orientifold and Type II Dual Pairs
+Operational Discrete Symmetries and CP-Violation
+Symmetries, Currents and Conservation Laws of Self-Dual Gravity
+Accidental Symmetries and N=1 Duality in Supersymmetric Gauge Theory
+N=1 Dualities for Exceptional Gauge Groups and Quantum Global Symmetries
+T-duality and U-duality in toroidally-compactified strings
+Second-Class Constraints and Local Symmetries
+Supersymmetric Dilatations in the Presence of Dilaton
+The Ostrogradsky Method for Local Symmetries. Constrained Theories with Higher Derivatives
+Noncommutative Geometry and Spacetime Gauge Symmetries of String Theory
+Quantum Noether Method
+D-string on near horizon geometries and infinite conformal symmetry
+Black Holes, Branes and Superconformal Symmetry
+N=2 Superconformal Field Theory with ADE Global Symmetry on a D3-brane Probe
+Renormalizability of the Dynamical Two-Form
+Exact Symmetries realized on the Renormalized Group Flow
+New local symmetry for QED in two dimensions
+Hodge decomposition theorem for Abelian two form gauge theory
+Phases and Residual Gauge Symmetries of Higgs Models
+Fusion bases as facets of polytopes
+Non periodic Ishibashi states: the su(2) and su(3) affine theories
+Internal Space-time Symmetries of Massless Particles and Neutrino Polarization as a Consequence of Gauge Invariance
+Deconstruction of Gauge Symmetry Breaking by Discrete Symmetry and $G^N$ Unification
+Lifting U-dualities
+Electroweakly interacting scalar and gauge bosons, and leptons, from field equations on spin 5+1 dimensional space
+Spontaneous symmetry breaking in light front field theory
+Supersymmetry in Quantum Theory Over a Galois Field
+Extra Gauge Symmetry for Extra Supersymmetry
+Superfield Approach to Symmetries for Matter Fields in Abelian Gauge Theories
+Double Symmetry and Infinite-Component Field Theory
+A group theoretical approach to causal structures and positive energy on spacetimes
+Symmetry of massive Rarita-Schwinger fields
+Superconformal Symmetry, The Supercurrent And Non-BPS Brane Dynamics
+Noncommutativity In A Simple Toy Model
+The Universe as a Nonuniform Lattice in the Finite-Dimensional Hypercube II.Simple Cases of Symmetry Breakdown and Restoration
+Lagrangian Formulation for Free Mixed-Symmetry Bosonic Gauge Fields in (A)dS(d)
+Shift Symmetry and Inflation in Supergravity
+Interacting Relativistic Particle: Time-Space Noncommutativity And Symmetries
+Nilpotent Symmetries For A Spinning Relativistic Particle In Augmented Superfield Formalism
+Semi-classical Probe Strings on Giant Gravitons Backgrounds
+Quantum fields, cosmological constant and symmetry doubling
+Topological Interpretation of the Dirac Equation and Geometrical Foundations of the Gauge Invariance Idea
+Augmented Superfield Approach To Exact Nilpotent Symmetries For Matter Fields In Non-Abelian Theory
+Massive higher spins and holography
+Lectures on Twistors
+Domain walls and fermion scattering in Grand Unified models
+A holographic model of deconfinement and chiral symmetry restoration
+On the symmetries of special holonomy sigma models
+Gauged diffeomorphisms and hidden symmetries in Kaluza-Klein theories
+On the mathematical structure and hidden symmetries of the Born-Infeld field equations
+Enhanced gauge symmetry and braid group actions
+Spiral anchoring in media with multiple inhomogeneities: a dynamical system approach
+Field-dependent symmetries of a non-relativistic fluid model
+On symmetries in Galilei classical mechanics
+First order ODEs, Symmetries and Linear Transformations
+Group analysis of hydrodynamic-type systems
+Symmetries of Integro-Differential Equations: A Survey of Methods Illustrated by the Benney Equations
+Commensurate Harmonic Oscillators: Classical Symmetries
+Partner symmetries of the complex Monge-Ampere equation yield hyper-Kahler metrics without continuous symmetries
+Spontaneous symmetry breaking in the non-linear Schrodinger hierarchy with defect
+Structure of the space of ground states in systems with non-amenable symmetries
+Asymptotic scaling symmetries for nonlinear PDEs
+Localization of Eigenfunctions in the Stadium Billiard
+Time Dependent Recursion Operators and Symmetries
+Broken symmetries and directed collective energy transport
+On Breaking Time Reversal in a Simple, Smooth, Chaotic System
+Singularity Structure, Symmetries and Integrability of Generalized Fisher Type Nonlinear Diffusion Equation
+On the Whitham hierarchy: dressing scheme, string equations and additional symmetrie
+Symmetry Energy, Temperature, Density and Isoscaling Parameter as a Function of Excitation energy in A $\sim$ 100 mass region
+A Multi-Configuration Mixing Approach with Symmetry-Projected Complex Hartree-Fock-Bogoliubov Determinants
+Nucleon Charge Symmetry Breaking and Parity Violating Electron-Proton Scattering
+Restoration of the Broken D2-Symmetry in the Mean Field Description of Rotating Nuclei
+Space-time versus particle-hole symmetry of collisions in a non-local kinetic equation for dense Fermi systems
+Space-time versus particle-hole symmetry in quantum Enskog equations
+Isospin dependence of nuclear matter symmetry energy coefficients
+Pseudospin symmetry as a relativistic dynamical symmetry in the nucleus
+The long journey from the giant-monopole resonance to the nuclear-matter incompressibility
+Mixed-Symmetry Shell-Model Calculations
+Effect of symmetry energy on two-nucleon correlation functions in heavy-ion collisions induced by neutron-rich nuclei
+Chiral symmetry restoration in linear sigma models with different numbers of quark flavors
+Isospin Symmetry Breaking Effects on the Properties of Asymmetrical Nuclear Matter and $β$-Stable Matter
+Momentum dependence of the symmetry potential and nuclear reactions induced by neutron-rich nuclei at RIA
+Nuclear symmetry energy: from nuclear extremes to neutron-star matter
+Probing the density dependence of the symmetry potential at low and high densities
+Probing the density dependence of the symmetry potential in intermediate energy heavy ion collisions
