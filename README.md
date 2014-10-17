@@ -1,7 +1,7 @@
 datavis
 ==============
 
-Projects in data visualization using [Processing](http://processing.org)  
+Various data visualization projects  
 
 ### Folders
 
@@ -10,7 +10,7 @@ cs120-w2012 - Symmetry of Physics
 
 #### Requirements  
 
-Processing 1.5.1   
+[Processing](http://processing.org) 1.5.1   
 ControlP5 0.5.4  
 PeasyCam   
 GLGraphics  
